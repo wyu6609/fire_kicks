@@ -12,6 +12,221 @@ User.create(
 )
 
 puts 'seeding sneakers...'
+#striped box era
+
+#teal box era
+
+#taped box
+
+#blue box
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'ZOOM AIR',
+  official_colorway: 'MIDNIGHT NAVY',
+  name: '94 HI SUPREME',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/625/nikesb_zoomair94_hi_supreme_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Upping the exclusivity and unique stamp they leave on every collaboration, Supreme drew from Nike’s vintage basketball history to create a new silhouette with hints of nostalgia. Built with Zoom Air cushioning and a Foamposite heel cup, the suede high top included stark detailing on the upper eyelets and Supreme branding on the tongue and heel.',
+  release_date: 'NOVEMBER 2011',
+)
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'SB BLAZER MID',
+  official_colorway: 'BLACK/COMET RED-HYPER VERDE',
+  name: 'ATCQ',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/381/nikesb_blazer_atcq_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The early-‘90s was a time where skateboarding and rap took to street culture to redefine themselves. Part of that revolution was tapping into new aesthetics and emerging sounds, specifically the new breed of East Coast hip-hop artists. The Nike SB Blazer ATCQ uses a black textured suede upper as the stage for burning red and neon green to recreate how the ‘90s kicked in a new era.',
+  release_date: 'SEPTEMBER 2011',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/BLACK',
+  name: 'SPACE JAM',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2032/nikesb_dunk_space_jam_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'An ode to the Air Jordan 11 worn by MJ in both the motion picture and the 1995 NBA playoff run. The Space Jam Dunk Low Pro SBs stay true the original player exclusive shoe materials, using patent leather and mesh, royal blue branding, and a translucent sole.',
+  release_date: 'JULY 2011',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'WHITE/VARSITY RED-MDM DNM-BLACK',
+  name: 'C&C',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2034/nikesb_dunk_cc_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Some Dunks are designed to stun the moment they’re revealed, but the C&C Dunk High Pro SB was made to be a slow burn. Its asymmetrical heel detailing and stash pocket behind the tongue hinted at the Dunk’s matchless nature, but the leafy green undertone—revealed around the toe and side-wall when the shoe has been skated—made the sneaker hold high esteem with fans.',
+  release_date: 'APRIL 2011',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'SEAGRASS/SEAGRASS',
+  name: 'STATUE OF LIBERTY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2037/nikesb_dunk_statueofliberty_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'If there were a single Nike SB Dunk to single out and champion as the one to wear out, the Statue of Liberty Dunk High Pro SB may hold the torch. Coated in a seagrass finish that resembles Lady Liberty herself, the entire shoe has an “oxidized” underlay, best exposed by grip tape friction to allow happenstance detailing.',
+  release_date: 'MARCH 2011',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'METALLIC GOLD/METALLIC VEGAS GOLD',
+  name: 'ERIC KOSTON HIGH',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2029/nikesb_dunk_koston_high_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'If his first Dunk colorway as a nod to Thailand, the Eric Koston Dunk High Pro SB read more as a glimmering monument of homage. The gold coated leather and silver Swoosh evoke the tranquil acumen of the Buddhist statues that preside over the country’s historic temples—the sheer height and scale of the silhouette alone allowing the glow to grow.',
+  release_date: 'JUNE 2010',
+)
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLUE RIBBON/VEGAS GOLD-VARSITY RED',
+  name: 'ERIC KOSTON LOW',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2027/nikesb_dunk_koston_low_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Before designing his inaugural model for Nike SB, Eric Koston was asked to use his deep design expertise and insight to update the existing Dunk. Koston’s Northstar was balancing performance enhancements and tweaks while maintaining the integrity of the classic sneaker. His first colorway for the Dunk Low Pro SB was a look into the colors, culture and themes of worship and wisdom of his Thai ancestry. Using the bold blue of the Thai flag, he bolstered the theme with a dual-layered red and gold Swoosh.',
+  release_date: 'JUNE 2010',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'PAVEMENT GREY/NEUTRAL GREY-VIVID PINK',
+  name: 'SKUNK DUNK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2019/nikesb_dunk_skunk_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Even more witticisms from the mind of Todd Bratrud, the Skunk Dunk High Pro SB was the artists’ way to subvert popular holiday numerology. Using a fuzzy but not furry suede upper, various strains of green and a dazed mammal on the insole, the Dunk’s references should be obviously lit.',
+  release_date: 'APRIL 2010',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'NEUTRAL GREY/GREEN SPARK-BLAC',
+  name: 'LOON',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2022/nikesb_dunk_loon_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'If the Pigeon Dunk was a grand gesture to NYC’s unofficial, yet omnipresent mascot, the Loon Dunk Low Pro SB took a more formal approach. For those unfamiliar with Minnesota’s majestic state bird, they have an incredible dotted and dashed pattern across their feathers, as well as bands of green, all reinterpreted and represented on the Loon Dunk.',
+  release_date: 'NOVEMBER 2009',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'NIGHTSHADE/DARKSLATE',
+  name: 'BLUE LOBSTER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1998/nikesb_dunk_blue_lobster_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The second iteration of the Concepts Nike Dunk Low Pro SB caught an entirely new colorway steeped off-shore lore. Like the shoe itself, the crew drew from the illusive blue tinted lobster, using a nightshade tinged leather with a spotted dark slate overlay. True to the original, the Blue Lobster also featured the signature rubber band so crucial to its character.',
+  release_date: 'JUNE 2009',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'PAVEMENT GREY/NEUTRAL GREY-VIVID PINK',
+  name: 'BRAIN WRECK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2016/nikesb_dunk_brain_wreck_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Yet another Todd Bratrud brainchild, the Brain Wreck Dunk High Pro SB was another two-word concept that left a lot to the imagination while delivering an aesthetically pleasing Dunk. Laying pinks and blues along the Dunk’s gray matter, perhaps the biggest design coup was the “brain tissue,” stitching around the inner ankle padding.
+
+The pair featured here was an early sample, featuring a lighter contrast Swoosh. The final production pair featured a tonal grey swoosh.',
+  release_date: 'OCTOBER 2009',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'YELLOW OCHRE/TERRA BROWN',
+  name: 'YELLOW LOBSTER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1996/nikesb_dunk_concepts_lobster_yellow_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Your chances of pulling up a Maine lobster trap and finding a yellow lobster are roughly one in 40 million and while the odds are better of finding the Yellow Lobster Dunk Low Pro SB, they’re an equally rare anomaly. Fishing for the golden ochre and terra brown Lobsters is a plight as they weren’t offered to retail, with only friends and SB employees coming up all yellow on this limited release.',
+  release_date: 'JULY 2009',
+)
+
+# gold box
+Sneaker.create(
+  brand: 'sb',
+  box: 'gold',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'TAUPE/CHROME',
+  name: 'FREDDY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1984/nikesb_dunk_freddy_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'A nightmare that was over before it started, the Freddy Dunk Low Pro SB encountered issue after issue before the dream of having it in full production was reached. Designed by Todd Bratrud, the blood splattered suede, striped sweater and burned up flesh insole art proved to be too on-the-nose for Freddy to live.',
+  release_date: 'OCTOBER 2007',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'gold',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'WHITE/COLLEGE BLUE-CHROME-DEEP RED',
+  name: 'WHAT THE DUNK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2814/nikesb_dunk_whatthe2_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The sneaker component to the Nothing But the Truth full-length skate video campaign, the What the Dunk Low Pro SB was created from 31 separate Nike SB Dunks. With a design goal to be the “Dunk to end all Dunks”, the creation of the What the Dunk was painstaking, meticulous, and ridiculous on purpose. Despite the draw and buzz––an SB Dunk created from the most popular drops ever created––only a limited run was ever offered to the public.',
+  release_date: 'OCTOBER 2007',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'gold',
+  shoe_type: 'DUNK MID PRO SB',
+  official_colorway: 'BLACK/BLACK',
+  name: 'SKATE MENTAL HEAVY METAL',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2064/nikesb_dunk_skate_mental_mid_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Embracing Skate Mental’s sardonic take on skateboarding, the Heavy Mental Dunk Mid Pro SB twists rock ‘n roll cliches into its own punchline. Limited to 666 pairs, the sneaker fused patterned white canvas with leather, an illustrated mid panel/heel and a strap fashioned to look like a breakaway wrist band you‘d get at a rock show.',
+  release_date: 'NOVEMBER 2007',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'gold',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'SPORT RED/PINK CLAY',
+  name: 'RED LOBSTER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1989/nikesb_dunk_lobster_red_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'New England tradition boiled down to a Dunk, the Red Lobster was symbolic of sneaker cultures arrival to Boston. Having been one of the city’s first true sneaker boutiques and original SB accounts, Concepts and Nike SB went into the red to recreate the hue, texture, and tone of the popular crustacean, down to the rubber band around the toe and bib-themed insole.',
+  release_date: 'JUNE 2008',
+)
 
 #black box
 
