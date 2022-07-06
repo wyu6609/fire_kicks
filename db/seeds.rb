@@ -15,8 +15,733 @@ puts 'seeding sneakers...'
 #striped box era
 
 #teal box era
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/ORANGE FLASH/BLACK',
+  name: 'ROSWELL RAYGUNS HOME',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/8321/nikesb-vault-rayguns-2019-1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'This new colorway turns up the funk, swapping the OG’s solid orange upper for a tie-dye pattern inspired by Sandy Bodecker, aka the man who put the SB in Nike SB, and his always-out-there sense of style. The raygun-toting alien mascot returns on the lateral heel and the toe comes in both the black “Home” when the Rayguns are chilling in Roswell and the white “Away” when they take the mothership for a spin.',
+  release_date: 'DECEMBER 2019',
+)
 
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'WHITE/BLACK-ORANGE FLASH',
+  name: 'ROSWELL RAYGUNS AWAY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9198/nikesb-vault-rayguns-white-2019-1_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Released at the height of Nike SB’s Pink Box era, this iconic SB Dunk was the official team shoe of the Roswell Rayguns - a fictional ABA team led by the time-travelling Dr. Funk and his crew of stylin’ and profilin’ all-stars. The original Rayguns Dunk was the first shoe to feature the Nike SB logo on the tongue and became an instant classic.',
+  release_date: 'DECEMBER 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'DESERT ORE/DARK POWDER BLUE/BLACK/ROYAL BLUE',
+  name: 'RICHMOND PLAYGROUND',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/7335/nikesb-vault-richmondpark1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Back in the day, Lance Mountain skated the handball court at Richmond Playground just south of the Presidio in San Francisco in one of the most legendary parts of an iconic Powell Peralta video. The Richmond Park AJ1 pays homage to Lance’s unbeatable style and the vintage designs of the handball court at the Richmond Playground.',
+  release_date: 'DECEMBER 2019',
+)
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK SB BLAZER MID',
+  official_colorway: 'LIGHT BONE/PURE PLATINUM/VARSITY RED/WHITE',
+  name: 'NIKE SB X SOULLAND',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/7335/nikesb-vault-richmondpark1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'The Nike SB x Soulland “FRI.day 03” Blazer Mid brings the hiss and slither with faux snakeskin leather, small, synthetic jewel pop Swooshes on the midfoot and large, chenille Swooshes wrapping around the heel. A blood red tongue, embossed outsole and custom flecked laces round out the last in the FRI.day series.',
+  release_date: 'DECEMBER 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'BLACK/DARK GREY-BLACK',
+  name: 'FPAR DUNK HIGH',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/7024/nikesb-vault-fpar-lateral_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'TET calls the FPAR Dunk High a “customization” rather than a new design. It brings together a classic Dunk silhouette with FPAR’s legendary eye for design aesthetic. FPAR is known for the use of simple words and phrases, the FPAR Dunk High has the phrases “Don’t Follow Me” and “I’m Lost Too” on the left and right Swooshes, respectively, echoing TET’s call to follow your own path. The shoe debuts at the Tokyo boutique, 813, alongside new gear from TET’s other brands. 300 pairs of the FPAR Dunk will be available at the 813 launch with 70 of those being Friends and Family exclusives in a specially designed box and some Japan-only apparel designed by TET.',
+  release_date: 'OCTOBER 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'WHITE/GREEN-SAIL',
+  name: 'BEN-G DUNK LOW',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/6878/Nike-SB-Dunk-Low-Ben-G-lateral2_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The first-ever Nike shoe to feature all-over debossed swooshes, the Nike SB x Ben-G Dunk Low is a legend in the making. Built from premium white leather, our collab with the iconic Amsterdam skate shop blends their unique graphic sensibilities with vintage tennis vibes from the early days of Nike.',
+  release_date: 'SEPTEMBER 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'SUPREME DUNK LOW',
+  official_colorway: 'MULTIPLE',
+  name: 'SUPREME DUNK LOW',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/6731/nikesb-vault-supreme-dunk-low-carousel1_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'After crafting now-classic collaborations for the SB Dunk Low in 2002 and 2012, Supreme’s latest take on the silhouette is ready to shine. A luxe two-toned upper features a silver toe box with a metallic sheen that accentuates its matching jewel swoosh.
+
+Colorways: Metallic Silver/Metallic Silver-Black, Varsity Red/Varsity Red/White/Black, Metallic Gold/Metallic Gold/Navy/White.',
+  release_date: 'AUGUST 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'DARK POWDER BLUE/WHITE',
+  name: '$24.99',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/6439/nikesb_aj1_low_unc_koston_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Before Eric Koston became a figurehead in skate + sneaker culture, the SB legend remembers missing out on the Air Jordan I for the first time. Designed by Koston, this SB x Air Jordan I Low takes inspiration from the shoes he recalls sitting on the rack, with the lids cut off the box, that his mom wouldn’t buy for him because “the shoes he had were fine”.',
+  release_date: 'AUGUST 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'WHITE/RED-PINK',
+  name: 'PARRA DUNK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/6335/nikesb_dunk_parra_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Although the first design in Parra’s longstanding collaboration with Nike––the legendary "Amsterdam" Air Max 1––debuted in 2005, working with Nike SB has been a long time coming. Dutch artist Parra (1976) has his roots firmly planted in skateboarding and started skating around 1988. He was a sponsored amateur (distro flow) from the early 90s till the early 2000s. After those formative and slightly competitive years, he focused on art & design, taking all the memories and heavy influences from skateboarding’s golden era with him on his journey.',
+  release_date: 'JULY 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'ZOOM BLAZER SB LOW',
+  official_colorway: 'WHITE/MULTI-COLOR',
+  name: 'PARRA BLAZER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/6341/nikesb_blazer_parra_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Although the first design in Parra’s longstanding collaboration with Nike––the legendary "Amsterdam" Air Max 1––debuted in 2005, working with Nike SB has been a long time coming. Dutch artist Parra (1976) has his roots firmly planted in skateboarding and started skating around 1988. He was a sponsored amateur (distro flow) from the early 90s till the early 2000s. After those formative and slightly competitive years, he focused on art & design, taking all the memories and heavy influences from skateboarding’s golden era with him on his journey.',
+  release_date: 'JULY 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'ZOOM BLAZER SB',
+  official_colorway: 'BLACK/WHITE/WHITE/BLACK',
+  name: 'GNARHUNTERS BLAZER MID',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/6341/nikesb_blazer_parra_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Since she designed the first tee, Elissa Steamer’s skate and surf brand, Gnarhunters, has made everything from beanies to beach towels, collaborating with artists like Nat Russell and Thomas Campbell. On the heels of her feature part in Gizmo, Elissa and the team at Gnarhunters dropped their first collab with Nike SB—the Gnarhunters Blazer Mid.',
+  release_date: 'JUNE 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'NIKE SB AIR JORDAN 1 LOW',
+  official_colorway: 'MID NVY/MTLC SLVR-WHT-EMBR GLW',
+  name: 'SB X AIR JORDAN I LOW',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/5779/nikesb_aj1_low_koston_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Inspired by an OG pair of leather white and blue Air Jordan 1 lows shown to him by Gino Iannucci, Eric Koston worked closely with the design team to pay homage, but flip it with his own spin. While he kept the original color blocking and Zoom Air sockliner, the cobranded low features Koston’s signature on the inner tongue label and a coral Jumpman on the vamp, paying tribute to the 35th anniversary of the AJ1.
+',
+  release_date: 'JUNE 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'SB AIR TRAINER 1',
+  official_colorway: 'BLACK/BLACK-DEEP ROYAL BLUE-SUMMIT WHITE',
+  name: 'POLAR SB TRAINER 1',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/5687/nikesb_trainer2_polar3_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Step into your own personal training facility. Inside, you won’t find fluorescent lighting, but you will find unmatched comfort. You won’t find preteens waxing a flatbar, but you will find a full-length polyurethane midsole. Needless to say, your feet will never get kicked out. And sure, "train" does rhyme with "pain." But it doesn’t have to. Not in the Air Trainer 1, by Nike SB & Polar Skate Co. After all, training is good for the sole.',
+  release_date: 'JUNE 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'SB ZOOM BLAZER LOW GT',
+  official_colorway: 'SUMMIT WHITE/DEEP ROYAL BLUE',
+  name: 'POLAR SB BLAZER GT',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/5702/nikesb_blazer_polar_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The Blazer was already hot. Polar made it spicy. This is the Nike SB Blazer Low GT by Polar Skate Co. It’s flexible vulcanized rubber gives you unmatched boardfeel and makes you feel like you’re walking on a tropical beach.',
+  release_date: 'JUNE 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'AIR JORDAN 1 HIGH OG DEFIANT',
+  official_colorway: 'LIGHT BONE/BLACK/CRIMSON TINT/HYPER PINK',
+  name: 'NYC TO PARIS',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/5725/nikesb_aj1_nyc_paris_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The collection is highlighted by a collaborative effort with Nike SB on two Air Jordan I highs that pay homage to important locales in the respective histories of Jordan Brand and skateboarding — Chicago, Los Angeles, New York and Paris. Both of the Air Jordan I x Nike SB colorways are designed to age beautifully and reveal a gorgeous underlay with consistent use.',
+  release_date: 'MAY 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'AIR JORDAN 1 HIGH OG DEFIANT',
+  official_colorway: 'COURT PURPLE/BLACK-SAIL VIOLET COURT/COLE/NOIR',
+  name: 'LA TO CHICAGO',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/5718/nikesb_aj1_la_chicago_1_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The collection is highlighted by a collaborative effort with Nike SB on two Air Jordan I highs that pay homage to important locales in the respective histories of Jordan Brand and skateboarding — Chicago, Los Angeles, New York and Paris. Both of the Air Jordan I x Nike SB colorways are designed to age beautifully and reveal a gorgeous underlay with consistent use.',
+  release_date: 'MAY 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'BLACK/BLACK-BLACK',
+  name: 'BLACK SHEEP HORNET',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2668/nikesb_dunk_blacksheep_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Nike SB and Charlotte-based skate shop Black Sheep teamed up again with a collaboration that launched during the 2019 All-Star weekend. The color scheme pays homage to the iconic colors cemented in Charlotte basketball history during the early ‘90s. As a nod to basketball legend and owner of the Charlotte basketball franchise, the “Black Hornet” Dunk is also decorated with elephant print panels. Inspired by the city of Charlotte’s history, the swoosh is embellished with silver embroidery in the shape of a stinger and the tongue features a hex “hive” pattern to make the buzz even louder.',
+  release_date: 'FEBRUARY 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'MULTI-COLOR/MULTI-COLOR',
+  name: 'WALK THE DOG',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2668/nikesb_dunk_blacksheep_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Whether you prefer a feisty Chihuahua or restful Labrador, all dog lovers can appreciate this canine-friendly colorway. “Walk the Dog” arrives with a variety of dog hair patterns to represent different breeds while the suede mimics grass on the upper. A reimagined swoosh takes inspiration from leash material and a dog bone hangtag engraved with the name “Sparky” sways on the heel.
+
+Brown color blocking on the translucent outsole is sybolic of stepping on dog poop, and the sockliner features Nike SB employee’s dogs on an all-over graphic. For additional personalization, you can switch out the white laces for brown laces that come in a “doggy bag.”',
+  release_date: 'APRIL 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'SB BLAZER MID',
+  official_colorway: 'LIGHT LIQUID LIME/ LAWN-WHITE',
+  name: 'FROG',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/488/nikesb_blazer_frog_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Whether you prefer a feisty Chihuahua or restful Labrador, all dog lovers can appreciate this canine-friendly colorway. “Walk the Dog” arrives with a variety of dog hair patterns to represent different breeds while the suede mimics grass on the upper. A reimagined swoosh takes inspiration from leash material and a dog bone hangtag engraved with the name “Sparky” sways on the heel.
+
+Brown color blocking on the translucent outsole is sybolic of stepping on dog poop, and the sockliner features Nike SB employee’s dogs on an all-over graphic. For additional personalization, you can switch out the white laces for brown laces that come in a “Company, collective, or pastiche of niche iconography and ideas, Frog Skateboards uses their looseness as a mission statement. For their Blazer Mid SB QS, they used the classic silhouette as a vehicle for the whimsical and surreal, starting with a thick brushed suede, ladybug detailed laces, Frog logo heel branding, and their mascot perched on the Swoosh, because… what else would it be doing?',
+  release_date: 'MARCH 2019',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'GREEN STONE/LEGION GREEN-FIR',
+  name: 'GREEN LOBSTER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/5756/nikesb_dunk_green_lob2_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Casting another big shadow of Concept and color, the Nike Dunk Low Pro SB Green Lobster followed up its vivid purple cousin with subtlety and exclusivity. The green stone upper opted for minimal speckling, allowing the shock of neon green on the sole and inner pattern to pop. For those who managed to grip a pair in-store, each pair was caged in an oceanic themed collector box.',
+  release_date: 'DECEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'VOLTAGE PURPLE/VOLTAGE PURPLE',
+  name: 'PURPLE LOBSTER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2713/nikesb_dunk_purple_lobster_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'By 2018 the Lobster Dunk had surpassed tradition and became as storied as the actual underwater abnormalities themselves. Sticking to the time-honored format, down to the tablecloth inspired inner lining pattern, Nike SB and Concepts floated out a supercharged voltage purple Premium release weeks before the end of the calendar year.',
+  release_date: 'DECEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'TOUR YELLOW/CHROME-TOUR YELLOW',
+  name: 'CANARY DIAMOND',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2807/nikesb_dunk_diamond_canary_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Revisiting a modern classic with a frenzy in 2018, the Dunk Low Pro SB Canary Diamond was meant to be a ComplexCon exclusive, with the remaining pairs being flowed to friends and family. Now featuring a removable metallic silver Swoosh that revealed the iconic aqua blue below and Diamond branded heel-reveal, the demand was so high and impassioned the release—like many limited drops before them—had to be delayed and redistributed.
+
+*While released during the Teal/Black box era, this style was released in a Pink Box as a nod to the original Diamond release.',
+  release_date: 'NOVEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/CHROME-BLACK',
+  name: 'BLACK DIAMOND',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2710/nikesb_dunk_black_diamond2_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'From the croc-textured black leather to the metallic silver Swoosh, the Dunk Low Pro SB Black Diamond proved that classic colorways still shine uniquely. Offered through the SNKRS app and select accounts, the Black Diamond remained rare and for completists, another precious gem for the quiver.
+
+*While released during the Teal/Black box era, this style was released in a Pink Box as a nod to the original Diamond release.',
+  release_date: 'NOVEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'WHITE/CHROME-WHITE',
+  name: 'WHITE DIAMOND',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2707/nikesb_dunk_white_diamond_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'The Dunk Low Pro SB White Diamond appeared to be the most subdued colorway in the drop until the striking aqua-blue Velcro Swoosh and heel branding was peeled back. The iciest Diamond cut to date, the textured white leather iteration was only available in core skate shops.
+
+*While released during the Teal/Black box era, this style was released in a Pink Box as a nod to the original Diamond release.',
+  release_date: 'NOVEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'SB BLAZER MID',
+  official_colorway: 'MIDWEST GOLD/BLACK',
+  name: 'STÜSSY X LANCE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2707/nikesb_dunk_white_diamond_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Lance Mountain’s Nike SB Blazer Mid packs a lot of skate history and numerology into its design while telling a greater story of his career in tandem. Lance is unique in that he can pull from so many eras of skating, so he drilled back to 1978 when he first saw the Blazer being skated by the luminaries he looked up to in the backyard pools of Southern California, truncating that to 78 and 17 on the other tiled heel detail for the year of its release. The prismatic Swoosh and it’s gradient fade speaks to the graffiti and vibrant colors associated with pool skating’s renegade roots.',
+  release_date: 'DECEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'SB ZOOM BLAZER LOW',
+  official_colorway: 'BLACK/PALM GREEN',
+  name: 'STÜSSY X TERP',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/5750/nikesb_blazer_stussy_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Nike SB, Stüssy and Ohio skateboarder Kevin Terpening, AKA "Terps," join forces for this limited-edition Blazer Low. Black shaggy suede, olive green accents and that unmistakable Stickman logo make the shoe classic Stüssy. Nike Zoom Air in the heel and a sticky herringbone sole make it classic Nike SB.',
+  release_date: 'DECEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'VACHETTA TAN/WHITE-JERSEY GOLD',
+  name: 'PREMIER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2673/nikesb_dunk_premier_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    '“We wanted to design something that looked extraordinarily clean and simple, but that’s more than what it first appears to be,” says Chris Gray of Premier Skateshop, based in Grand Rapids, Michigan. “We wanted to take the reveal to a new level and have a small amount of something special out there, just waiting to be discovered.”',
+  release_date: 'AUGUST 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'SB BLAZER MID',
+  official_colorway: 'UNIVERSITY BLUE/LIGHT BONE-HABANERO RED',
+  name: 'ENGLISH ROSE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/603/nikesb_blazer_english-rose_77f75371139f336dadb232bb15e40d1b.png',
+  description: '',
+  release_date: 'JULY 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK MID PRO SB',
+  official_colorway: 'CAPPUCCINO/BRONZE WHEAT',
+  name: 'LEWIS MARNELL MID',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2808/nikesb_dunk_mid_lewis_marnell_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Inspired by the original wheat Dunk Mid Pro SB that Lewis Marnell ran almost exclusively, SB created this tribute to his dominance and finesse in 2018, five years after he passed from complications due to diabetes. A workwear inspired Dunk that proudly flexed its design brawn, the shoe included lion embroidery on the heel as a direct homage to Marnell and a legacy that’s had a heavy imprint on so many.',
+  release_date: 'JANUARY 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'BLACK/BLACK/ANTHRACITE',
+  name: 'ANTIHERO',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2803/nikesb_dunk_antihero_BA1_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Inspired by the original wheat Dunk Mid Pro SB that Lewis Marnell ran almost exclusively, SB created this tribute to his dominance and finesse in 2018, five years after he passed from complications due to diabetes. A workwear inspired Dunk that proudly flexed its design brawn, the shoe included lion embroidery on the heel as a direct homage to Marnell and a legacy that’s had a heavy imprint on so many.',
+  release_date: 'MARCH 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'WHITE/WHITE-UNIVERSITY RED',
+  name: 'KEVIN BRADLEY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1899/nikesb_Dunk_Kevin_Bradley_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'A crisp take on Los Angeles culture as told by Nike SB pro Kevin Bradley, his Zoom Dunk High Pro SB is an ode to the street he skated during his earliest days skating. The white leather upper features palm tree detailing and as the upper wears down, the red accent color running throughout the shoe becomes revealed.',
+  release_date: 'FEBRUARY 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK MID PRO SB',
+  official_colorway: 'SAIL/GYM RED/FRESH MINT',
+  name: 'WHITE WIDOW',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2806/nikesb_dunk_whitewidow2_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'A fuzzy 4/20 take on the Dunk Low Mid SB by frequent Nike SB provocateur Todd Bratrud. Constructed of fresh mint and sail suede, the red accents—specifically the hourglass shape on the sole—call back to the color and markings of the black widow, with a holiday specific stash spot stitched into the tongue.',
+  release_date: 'APRIL 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/BLACK-SIENNA',
+  name: 'BLACK PIGEON',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2725/nikesb_dunk_pigeon_black_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Turning the dial back to when the Dunk SB made the market soar, the Pigeon II had buzz before it spread its wings. Keeping the padded tongue of the original, Jeff Staples opted to render the shoe predominantly in black, using nubuck and a waterproof Stetson leather upper to make the shoe even more New York resilient. 
+
+*While released during the Teal/Black box era – this style was released in a Pink Box as a nod to the original Pigeon release.',
+  release_date: 'NOVEMBER 2017',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/GAME ROYAL/WHITE',
+  name: 'SOULLAND *FRI.DAY PART 02 LOW',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2638/nikesb_dunk_soulland_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The second installment in FRI.day Part 02 is an equally inventive and reductive take on the Dunk Low Pro SB, starting with the removal and repurposing of the Swoosh logo, which was scaled down and placed on the sneaker’s toe. The mid panel has a textured pattern that pops in the absence of the Swoosh and FRI.day type was added to the heel of each sneaker.',
+  release_date: 'DECEMBER 2017',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'SAIL/GAME ROYAL/WHITE',
+  name: 'SOULLAND *FRI.DAY PART 02 HIGH',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2638/nikesb_dunk_soulland_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The second installment in FRI.day Part 02 is an equally inventive and reductive take on the Dunk Low Pro SB, starting with the removal and repurposing of the Swoosh logo, which was scaled down and placed on the sneaker’s toe. The mid panel has a textured pattern that pops in the absence of the Swoosh and FRI.day type was added to the heel of each sneaker.',
+  release_date: 'DECEMBER 2017',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH ELITE SB',
+  official_colorway: 'BLACK/BLACK-WHITE-PURPLE HAZE',
+  name: 'BLACK BOX DUNK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2687/nikesb_dunk_blackbox_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'This Dunk High Elite SB continues the classic shoe box celebration. Highlighting the black box that was in production during the mid 2000s, this Dunk High Elite takes on a look inspired by the classic MF Doom Dunk High released during the black box era. A combination of suede, leather and reflective detailing, delivers a premium execution worthy of the era it celebrates.',
+  release_date: 'DECEMBER 2016',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW ELITE SB',
+  official_colorway: 'PRISM PINK/BLACK-WHITE',
+  name: 'PINK BOX DUNK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2689/nikesb_dunk_pinkbox_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'This Dunk Low Elite SB continues a series of unique Dunks inspired by early SB shoe boxes – this time celebrating the mid-2000s pink box. With a reflective, prism-pink colorway – signature details include an embossed leather insignia and illustrated sockliner.',
+  release_date: 'NOVEMBER 2016',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'METALLIC SILVER/HYPER VERDE-GUM YELLOW',
+  name: 'SILVER BOX DUNK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2681/nikesb_dunk_silverbox2_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'This Dunk High Pro SB continues a series of unique Dunks inspired by early SB shoeboxes––this time celebrating the classic Nike SB silver box. Signature details include an embossed leather insignia and an illustrated sockliner. The homage is completed with a metallic silver and hyper verde colorway directly inspired by the mid 2000s shoe box.',
+  release_date: 'OCTOBER 2016',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'SAFETY ORANGE/WHITE-CREAM',
+  name: 'ORANGE BOX DUNK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2685/nikesb_dunk_orange_box_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'This Dunk Low Elite SB kicks off a series of unique Dunks inspired by early SB shoe boxes, this time celebrating the early-2000s orange box. The first in the series features a full leather upper and signature details including an embossed leather insignia and illustrated sockliner.',
+  release_date: 'OCTOBER 2016',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'METALLIC GOLD/METALLIC GOLD-BLACK',
+  name: 'HUMIDITY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2795/nikesb_dunk_humidity_lat_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Brick-and-mortar skate shops are the pulse of skateboarding. They’re enclaves and protector’s of a history that’s highly undocumented and taught by the opinionated. To commemorate New Orleans-based Humidity Skate Shop’s 22nd year in business and continuation of their run as the oldest shop in the city, Nike SB gave the Big Easy a premium treatment that screamed “celebration.” Owner Philly was instrumental in making sure the details of the metallic gold high sung the praise of the city by incorporating musical iconography native to New Orleans, complete with a removable bow tie.',
+  release_date: 'SEPTEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'VIVID SULFUR/GAME ROYAL',
+  name: 'WHAT THE DOERNBECHER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/4117/nikesb_dunk_doernbecher_whatthe1_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The What The Doernbecher Nike Dunk High Pro SB shoe is less of a singular release and more of a pastiche of the entire SB program. Eleven pairs were created for an auction to benefit the Doernbecher Children’s Hospital in Portland, OR, with each pair constructed from elements and materials that call back to the most recognizable SBs produced to date. Every pair was a one of a kind collage, informed by the sneakers that popularized the program.',
+  release_date: 'JUNE 2015',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/BACK-PURPLE VENOM',
+  name: 'BHM',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2068/nikesb_dunk_bhm_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'To honor and celebrate Black History Month, Nike SB took an ambitious approach to revamp the Dunk Low Pro’s aesthetics in a radical way. Using reflective 3M linework detailing on the heel, the sneaker glows with opulence from the ground up with a special gradient sole, and gold lace dubraes featuring a raised BHM logo which also appears on the tongue.',
+  release_date: 'FEBRUARY 2014',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/WHITE-MULTI-COLOR',
+  name: 'ISHOD WAIR TIE DYE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1869/nikesb_dunk_IW_tie-dye_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The perfect compliment to his magnetic flair, the Ishod Wair Tie-Dye Dunk Low Pro SB highlights a burst of pattern, by contrasting it with stark black panels and toe box. The rainbow tie-dye print rests on the side panels and ankle on textured canvas, tied together with a clean white Swoosh.',
+  release_date: 'JUNE 2016',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'NIKE ZOOM STEFAN JANOSKI',
+  official_colorway: 'UNIVERSITY RED/WHITE-WHITEUNIVERSITY RED/WHITE-WHITE',
+  name: 'SKATE MENTAL',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/286/nikesb_janoski_skatemental_pizza_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'A celebrated shoe and a slice of Skate Mental weirdness, the SB Zoom Stefan Janoski took a turn toward the culinary in 2016. Skate Mental delivered an all pepperoni and cheese pizza upper, served on canvas with a spotless white midsole, laces, and Swoosh.',
+  release_date: 'JUNE 2016',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'SB BLAZER MID XT',
+  official_colorway: 'BLACK/METALLIC SILVER-WHITE-SAFETY ORANGE',
+  name: 'DONOVON PISCOPO',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/286/nikesb_janoski_skatemental_pizza_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Designed with Nike SB Team rider Donovon Piscopo, the Nike SB Blazer Mid XT uses subtle, purposeful modifications to modernize the Blazer without compromising its integrity. The most noticeable details are the perforated Swoosh and white toe-cap, offering protection where needed and minimalism for streamlined functionality.',
+  release_date: 'MAY 2017',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'DEEP ROYAL/WHITE-GYM RED',
+  name: 'ISHOD WAIR',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1854/nikesb_dunk_IW-low_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    '2013 Thrasher Magazine “Skater Of the Year,” Ishod Wair did more than color his Dunk Low Pro SB model; he offered up some simple customizations along with his name proudly displayed below the SB logo on the tongue. Keeping things classic with a red, white and blue colorway constructed of suede and nubuck. The biggest change in Ishod’s Dunk SB is the retro “skinny” tongue, which replaced its normal puffy version.',
+  release_date: 'FEBRUARY 2016',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'NIKE ZOOM STEFAN JANOSKI',
+  official_colorway: 'ALE BROWN/BLACK/WHITE',
+  name: 'CORK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1587/nikesb_janoski_cork_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The beauty of the Janoski’s core design is that switching up the material dramatically changes its tone. As evidenced by the introduction of an all cork upper in 2015, the SB Zoom Stefan Janoski Elite allows the striking texture to star with contrast piping and laces complimenting its premium treatment.',
+  release_date: 'AUGUST 2015',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'NIKE ZOOM STEFAN JANOSKI',
+  official_colorway: 'WHITE/WHITE-BLUE',
+  name: 'FLAMINGO PACK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1610/nikesb_janoski_flamingo_020d4294749750daa11b9b866154bc17.jpg',
+  description:
+    'Recognizable and always prime for a facelift, the SB Zoom Stefan Janoski Flamingo took a turn towards South Beach for its direction. As you’d expect, their shoe channels Miami’s art deco history, inventively using cracked white leather to mimic the charm of sun-worn facades with tasteful aqua accents, and pink flamingo illustration on the insole.',
+  release_date: 'JULY 2015',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'NIKE ZOOM STEFAN JANOSKI',
+  official_colorway: 'BLACK/WHITE/GREY',
+  name: 'WARMTH',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1605/nikesb_janoski_warmth_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'For Winter 2014 the SB Zoom Stefan Janoski cozied up with some new companions. The quilted kicks featured a thick, intricate black, white, and gray pattern with enhanced insulation, offering functional weather-resistant tech.',
+  release_date: 'NOVEMBER 2014',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'NIKE ZOOM STEFAN JANOSKI',
+  official_colorway: 'MULTI-COLOR/WHITE',
+  name: 'TIGER RAINBOW',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/1605/nikesb_janoski_warmth_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'A product of persistence, the SB Zoom Stefan Janoski has endured with minimal tweaks since its debut in 2009. The Tiger Rainbow is a prime example of how Janoski’s shoe can be energized with print and texture. With its full gradient, beaming tiger pattern and semi-translucent Swoosh, it’s a statement sneaker through and through.',
+  release_date: 'APRIL 2014',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'teal box era',
+  shoe_type: 'NIKE LOW PRO SB',
+  official_colorway: 'N/A',
+  name: 'BRAND LOGO SAMPLE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/886/nikesb_dunk_brandlogosample_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'The cornerstone of the Nike SB program and company staple since 1982, Alexander “Sandy” Bodecker was always on board to share his passion for the brand’s heritage and give some peeks behind the curtain as well. For the SB Dunk’s 15th anniversary, he unveiled some instant grail samples, including this all-over print logo Dunk Low that featured different iterations of Nike’s iconic lock-ups.',
+  release_date: 'N/A',
+)
 #taped box
+Sneaker.create(
+  brand: 'sb',
+  box: 'taped box',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'FIRE RED/CEMENT GREY-BLACK',
+  name: 'SUPREME RED CEMENT',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2653/nikesb_dunk_supreme_red_low_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Celebrating the 10 year anniversary of the original hysteria, Supreme released a flip on the original back/red blocking that set the sneaker world on fire.',
+  release_date: 'JULY 2012',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'taped box',
+  shoe_type: 'SB BLAZER MID',
+  official_colorway: 'TOUR YELLOW/WHITE-BLACK',
+  name: 'NECKFACE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/292/nikesb_blazer_neckface_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Known for his macabre take on tagging, Los Angeles’ twisted son Neckface playfully defaced the Nike SB Blazer in 2013. Using a wall of beaming yellow suede as a base, Neck’s design drips with personality by using the names of the SB squad to create a web of pattern with sole, heel branding, and Swoosh.',
+  release_date: 'JULY 2013',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'taped box',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'WHITE/BLACK-WHITE',
+  name: 'SKATE MENTAL BLADE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2066/nikesb_dunk_skate_mental_blade_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'For their third Dunk with Nike SB, Bay Area brand Skate Mental took a daring approach that no one else would attempt to roll with. Once the bane of any park or spot, Skate Mental decided to turn the Dunk High Pro SB into a virtual inline skate, complete with the addition of a strap closure, uncommon to the Dunk High.',
+  release_date: 'JANUARY 2013',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'taped box',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/BLACK',
+  name: 'PUSHEAD II',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/2076/nikesb_dunk_pusheadII_020d4294749750daa11b9b866154bc17.jpg',
+  description:
+    'The only underground artist to own anatomy, Pushead’s illustrations and saturated coloring style of skulls, bones or mutated confluence of surreal gore became and spawned an aesthetic genre. For his second collaboration with Nike SB, he found a way to make the Dunk Low Pro SB look even more corrosive and subversive, with a limited palette and definitive linework.',
+  release_date: 'JULY 2012',
+)
 
 #blue box
 Sneaker.create(
@@ -1349,4 +2074,69 @@ Sneaker.create(
   description:
     'Naming a shoe the Choad and dramatically reducing the Swoosh branding were just two factors that have kept this shoe in the conversation when discussing Nike’s history with skateboarding. With cord lacing being so prevalent in mid-‘90s shoe design, the Choad’s approach was in sync and its key design aesthetic used bulk as a benefit.',
   release_date: 'AUGUST 1996',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'PRE SB',
+  shoe_type: 'NIKE',
+  official_colorway: 'BEIGE/WHITE/BLACK',
+  name: 'SNAK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/567/NIKE_SNAK_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Drawing from Nike’s pioneering cross training heritage, the Nike Snak deceptively appears to be a model designed to be rigidly enduring. Once you drill into its design, you notice the tooling in the toe and side area designed for flex and feel and the dual-layered sole for mobility and control, while the extra mid top height offers crucial stability.',
+  release_date: 'JANUARY 1996',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'PRE SB',
+  shoe_type: 'NIKE AIR',
+  official_colorway: 'SMOKE/BLK-SMOKE',
+  name: 'LIEN LO',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/604/nikesb_air_lien_ad_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'An early pre-SB program model that was offered in both mid and low, the Nike Air Lien was very much a shoe of its time (1996) but also hinted at the innovation that would define SB. The split leather upper had an almost ACG-esque aesthetic that offered partial lace cover protection and design intended to limit wear while the Phylon midsole and Heel Air-Sole offered comfort and shock absorption without bulk.',
+  release_date: 'MAY 1996',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'PRE SB',
+  shoe_type: 'NIKE ',
+  official_colorway: 'BLACK/WHITE/TAN',
+  name: 'TROG',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/587/nikesb_trog_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'While many of Nike’s earliest skateboarding designs pushed innovation via minimalistic choices that spoke to performance needs, the Nike Trog kept the demands at the forefront and address them with layering. The suede over panels enforced the breathable canvas mid area and strapping. Dual-layered cupsole construction with toe and side-wall reinforcement completed the Trog’s innovation-forward design.',
+  release_date: 'JUNE 1996',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'PRE SB',
+  shoe_type: 'NIKE ',
+  official_colorway: 'BLUE/WHITE',
+  name: 'SCHIMP',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/540/nikesb_schimp_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Perhaps the beefiest introduction to Nike Skateboarding, the Schimp was released in 1996 along with the Choad and Snak. Depth and padding are central to the Schimp, along with a double layered ollie area and protected cord lacing system.',
+  release_date: 'OCTOBER 1996',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'PRE SB',
+  shoe_type: 'NIKE ZOOM ',
+  official_colorway: 'BLACK/STEAM/BLACK',
+  name: 'SCREAM',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/560/nikesb_zoom_scream_77f75371139f336dadb232bb15e40d1b.jpg',
+  description:
+    'Like the Air Lien, the Nike Air Zoom Scream focused much of its design on the lacing system in an attempt to rethink the functionality of a skate shoe. Using asymmetry as a north star, the Zoom Scream was striking and forward-thinking but the choice to engineer the lacing system on the sidewall of the shoe was an immediate flaw, especially for street skating. Regardless of the execution, the Zoom Scream was inspired by the Shake Ndestrukt and still feels like a futuristic statement.',
+  release_date: 'FEBRUARY 1997',
 )
