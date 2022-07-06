@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :sneakers, only: %i[index show]
+  resources :sneakers
 
   post '/signup', to: 'users#create'
   get '/me', to: 'users#show'
