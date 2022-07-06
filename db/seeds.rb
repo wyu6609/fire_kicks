@@ -4,6 +4,13 @@ puts 'cleaning old data...'
 Sneaker.destroy_all
 User.destroy_all
 
+puts 'seeding admin user...'
+User.create(
+  name: 'admin',
+  username: 'admin',
+  password_digest: BCrypt::Password.create('admin'),
+)
+
 puts 'seeding sneakers...'
 # pink box
 Sneaker.create(
