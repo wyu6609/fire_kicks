@@ -21,6 +21,13 @@ function App() {
       }
     });
   };
+  const handleLogoutClick = () => {
+    fetch("/logout", { method: "DELETE" }).then((r) => {
+      if (r.ok) {
+        setUser(null);
+      }
+    });
+  };
 
   // show login screen is null (falsy)
   if (!user)
@@ -31,15 +38,6 @@ function App() {
     );
 
   // signout function
-  const handleLogoutClick = () => {
-    fetch("/logout", { method: "DELETE" }).then((r) => {
-      if (r.ok) {
-        setUser(null);
-
-        // window.location.reload(false);
-      }
-    });
-  };
 
   // show dashboard if logged in
   return (

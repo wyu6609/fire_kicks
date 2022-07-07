@@ -1,4 +1,5 @@
 import * as React from "react";
+import { Routes, Route } from "react-router-dom";
 import { styled, createTheme, ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import MuiDrawer from "@mui/material/Drawer";
@@ -16,11 +17,12 @@ import Paper from "@mui/material/Paper";
 import Link from "@mui/material/Link";
 import MenuIcon from "@mui/icons-material/Menu";
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
-import NotificationsIcon from "@mui/icons-material/Notifications";
-import { mainListItems, secondaryListItems } from "./listItems";
-
-import Deposits from "./Deposits";
-import Orders from "./Orders";
+import ExitToAppIcon from "@mui/icons-material/ExitToApp";
+import { mainListItems } from "./listItems";
+import Home from "../routes/Home";
+import Error from "../routes/Error";
+import NikeSB from "../routes/NikeSB";
+import AirJordan from "../routes/AirJordan";
 
 function Copyright(props) {
   return (
@@ -33,9 +35,8 @@ function Copyright(props) {
       {"Copyright © "}
       <Link color="inherit" href="https://mui.com/">
         Your Website
-      </Link>{" "}
+      </Link>
       {new Date().getFullYear()}
-      {"."}
     </Typography>
   );
 }
@@ -88,11 +89,13 @@ const Drawer = styled(MuiDrawer, {
 
 const mdTheme = createTheme();
 
-function Dashboard() {
+function Dashboard({ handleLogoutClick, user }) {
   const [open, setOpen] = React.useState(true);
   const toggleDrawer = () => {
     setOpen(!open);
   };
+
+  //logout btn click handler
 
   return (
     <ThemeProvider theme={mdTheme}>
@@ -123,12 +126,10 @@ function Dashboard() {
               noWrap
               sx={{ flexGrow: 1 }}
             >
-              Dashboard
+              The Sneaker Vault
             </Typography>
-            <IconButton color="inherit">
-              <Badge badgeContent={4} color="secondary">
-                <NotificationsIcon />
-              </Badge>
+            <IconButton color="inherit" onClick={handleLogoutClick}>
+              <ExitToAppIcon />
             </IconButton>
           </Toolbar>
         </AppBar>
@@ -149,7 +150,6 @@ function Dashboard() {
           <List component="nav">
             {mainListItems}
             <Divider sx={{ my: 1 }} />
-            {secondaryListItems}
           </List>
         </Drawer>
         <Box
@@ -165,30 +165,15 @@ function Dashboard() {
           }}
         >
           <Toolbar />
-          <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
-            <Grid container spacing={3}>
-              {/* Chart */}
 
-              {/* Recent Deposits */}
-              <Grid item xs={12} md={4} lg={3}>
-                <Paper
-                  sx={{
-                    p: 2,
-                    display: "flex",
-                    flexDirection: "column",
-                    height: 240,
-                  }}
-                >
-                  <Deposits />
-                </Paper>
-              </Grid>
-              {/* Recent Orders */}
-              <Grid item xs={12}>
-                <Paper sx={{ p: 2, display: "flex", flexDirection: "column" }}>
-                  <Orders />
-                </Paper>
-              </Grid>
-            </Grid>
+          {/* MAIN COMPONENTS */}
+          <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/nikesb" element={<NikeSB />} />
+              <Route path="/nikeairjordan" element={<AirJordan />} />
+              <Route path="*" element={<Error />} />
+            </Routes>
             <Copyright sx={{ pt: 4 }} />
           </Container>
         </Box>
