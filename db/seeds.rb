@@ -2805,3 +2805,5 @@ Sneaker.create(
     'Like the Air Lien, the Nike Air Zoom Scream focused much of its design on the lacing system in an attempt to rethink the functionality of a skate shoe. Using asymmetry as a north star, the Zoom Scream was striking and forward-thinking but the choice to engineer the lacing system on the sidewall of the shoe was an immediate flaw, especially for street skating. Regardless of the execution, the Zoom Scream was inspired by the Shake Ndestrukt and still feels like a futuristic statement.',
   release_date: 'FEBRUARY 1997',
 )
+
+puts 'seeding completed!'
