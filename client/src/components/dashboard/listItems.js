@@ -20,7 +20,7 @@ export const mainListItems = (
       </ListItemIcon>
       <ListItemText primary="The Vault" />
     </ListItemButton>
-    <ListItemButton component={Link} to="/nikesb">
+    <ListItemButton selected component={Link} to="/nikesb" selected={true}>
       <ListItemIcon>
         <Avatar
           alt="shoe icon"

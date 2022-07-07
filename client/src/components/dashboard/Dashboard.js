@@ -90,7 +90,7 @@ const Drawer = styled(MuiDrawer, {
 }));
 
 const mdTheme = createTheme({
-  palette: { primary: { main: "#ffffff", light: "#fafafa" } },
+  palette: { primary: { main: "#ffffff", light: "#fafafa", dark: "" } },
   typography: {
     fontFamily: ["Anton", "sans-serif"].join(","),
   },

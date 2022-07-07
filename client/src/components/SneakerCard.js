@@ -7,30 +7,39 @@ import { CardActionArea } from "@mui/material";
 
 export default function ActionAreaCard({ sneaker }) {
   return (
-    <Card sx={{ maxWidth: 350, width: "100%", height: "100%" }}>
-      <CardActionArea>
+    <Card
+      sx={{
+        maxWidth: 350,
+        width: "100%",
+        height: "100%",
+        "&:hover": {
+          //you want this to be the same as the backgroundColor above
+          backgroundColor: "#FFF",
+        },
+      }}
+    >
+      <CardContent>
+        <Typography
+          sx={{ position: "relative" }}
+          variant="body2"
+          color="text.secondary"
+        >
+          {sneaker.release_date}
+        </Typography>
         <CardMedia
           component="img"
           height="140"
           image={sneaker.image_url}
           alt={sneaker.name}
         />
-        <CardContent>
-          <Typography gutterBottom align="center" variant="h5" component="div">
-            {sneaker.name}
-          </Typography>
-          <Typography variant="p" color="text.secondary">
-            {sneaker.description}
-          </Typography>
-          <Typography
-            sx={{ position: "absolute", left: 5, top: 5 }}
-            variant="body2"
-            color="text.secondary"
-          >
-            {sneaker.release_date}
-          </Typography>
-        </CardContent>
-      </CardActionArea>
+
+        <Typography gutterBottom align="center" variant="h5" component="div">
+          {sneaker.name}
+        </Typography>
+        <Typography variant="p" color="text.secondary">
+          {sneaker.description}
+        </Typography>
+      </CardContent>
     </Card>
   );
 }
