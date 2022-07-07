@@ -13,6 +13,671 @@ User.create(
 
 puts 'seeding sneakers...'
 #striped box era
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/BLACK-WHITE',
+  name: 'GNARHUNTERS',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/61875/cropped-side-DH7756-010-PHSLH000_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'In 2019, San Francisco-based brand Gnarhunters mixed their signature surf vibes with a sleek black Blazer Mid colorway. Their sequel ups the gnar, using lux beachfront materials for the wetsuit and towel-inspired upper.',
+  release_date: 'MAY 2022',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'ELEMENTAL PINK/BLACK',
+  name: 'KCDC',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/61742/cropped-side-DH7742-600_254638830_D_9Z_1X1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'When KCDC broke ground in Brooklyn, New York in 2001, it answered the city’s need for a collaborative space to foster a burgeoning scene. Two decades later, KCDC’s activism, involvement, and progressive edge continue to fluidly move with a city that’s always evolving and redefining itself. As one of the longest-standing female-led skate shops in the United States, KCDC continues to lead by example and shape new generations by providing a platform for all.',
+  release_date: 'APRIL 2022',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/BLACK-WHITE',
+  name: 'POLAROID',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/61503/Side-CROPPED-Polaroid_2022-04-01-152246_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Change can happen in an instant and since 1937, Polaroid’s vision has transformed how we see the world. Driven to capture moments, the “Beyond the Rainbow” campaign has a special synergy with the creativity and curiosity that constantly challenges skateboarding and shapes its landscape.',
+  release_date: 'APRIL 2022',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'WHITE/COOL GREY-WHITE-WHITE-UNIV RED',
+  name: 'OSKI',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/59963/Shark-side-crop_2022-03-07-160116_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Speed, power, and unpredictability, the sequel to Oski’s first Nike SB Dunk High colorway keeps the legacy alive. Like the original, the Oski Dunk High switches up the traditional Swoosh with signature shark branding in full white leather upper.',
+  release_date: 'MARCH 2022',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'CARBON GREEN/CIDER-WHEAT GOLD',
+  name: 'PASS~PORT',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/59712/side-cropped-passport_2022-02-24-161646_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Founded in 2009 by Trent Evans, PASS~PORT’s mission statement was to provide a platform for the creativity and progression omnipresent in Australia’s skate scene. Quickly assembling a well-rounded, hi-caliber roster, PASS~PORT’s defined aesthetic and inspiring video content delivered on Evan’s vision tenfold and continues to be a cultural driver.',
+  release_date: 'MARCH 2022',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB VERONA SLIP',
+  official_colorway: 'GLACIER BLUE/GLACIER BLUE-GLACIER BLUE-WHITE',
+  name: 'RAYSSA LEAL',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/59159/Side-CROPPED_2022-02-09-163505_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'FFrom viral to victory, inspiration to icon. Rayssa Leal’s mix of imagination and determination endeared her to the world and made her a role model for a new generation. At only 7-years-old, a single heelflip clip set off a fairy tale career that’s taken her to the podium and beyond, and the Nike SB Rayssa Verona Slip celebrates her rise.',
+  release_date: 'FEBRUARY 2022',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB',
+  official_colorway:
+    'LT OLIVE/ BLACK-LT OLIVE-VARSITY RED-BLACK-GUM DARK BROWN',
+  name: 'THE ISHOD',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/58408/Ishod-Side-CROP_2022-01-05-151252_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Dominant for a decade and absolutely unmistakable, Ishod Wair’s skateboarding is defined by style and attention to detail. For his first signature Nike SB shoe, Ishod looked to Nike’s archives and leaned into tech to craft a silhouette with the weight, support, protection, flex, and flick his skateboarding demands.',
+  release_date: 'JANUARY 2022',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB BLAZER LOW',
+  official_colorway: 'COOL GREY/WOLF GREY // KHAKI/RATTAN',
+  name: 'FPAR',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/57934/Tan-SIDE-CROP_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'As an artist and designer whose worldview was shaped by skateboarding, Tetsu “Tet” Nishiyama has used his creative voice to provocatively push back against tradition. In 1993 he founded FPAR, a brand whose acronym “Forty Percent Against Rights,” was a flip on copyright laws that states his guerrilla ethos. For FPAR’s second collaboration with Nike SB, Tet brings a style, spirit, and energy to the Nike SB Blazer Low, born from the defiance he found within skateboarding in the early-90s.',
+  release_date: 'DECEMBER 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB VERONA SLIP',
+  official_colorway: 'PRISM PINK/TEAM RED-PINKSICLE-WHITE-OFF NOIR',
+  name: 'LETICIA BUFONI',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/57659/DD4940-600-PHSLH000-CROPPED_2021-11-29-170000_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Leticia Bufoni has used every opportunity in her career to challenge and change skateboarding. A testament to her competitive edge, the SB Leticia Verona embraces her unique spirit and amplifies the warrior mentality that’s fueled her success.',
+  release_date: 'NOVEMBER 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway:
+    'COCONUT MILK/SEAFOAM-YELLOW STRIKE-CHILE RED-GREY FOG-LIME GLOW',
+  name: 'MUMMY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/57568/Mummy-2-CROP_2021-10-27-001921_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Made for night moves and packed with seasonal surprises, ancient Egyptian iconography mixes with a custom sock-liner that features shocking illustrations on both sides. Finished with gauzy tearaway Coconut Milk raw suede overlays, the bandaged exterior complete with contrast stitching wears away to reveal one final shock of color.',
+  release_date: 'OCTOBER 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'UNIVERSITY RED/MAGIC EMBER/TREELINE/SPINACH GREEN',
+  name: 'STRAWBERRY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9022/nikesb-vault-strawberry-dunk-1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Todd Bratrud’s Strawberry Dunk was designed to commemorate the 10th anniversary of the legendary Bubonic Skunk Dunk. The Strawberry Dunk has some “berry” special extras like leaf-inspired, velvet ear flaps, a secret stash pocket in the tongue and custom-designed Strawberry sockliner and embroidered heel.
+',
+  release_date: 'OCTOBER 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'WHITE/AMARILLO',
+  name: 'GUNDAM UNICORN',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/57168/Side-Crop-WHITE_2021-09-19-232619_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'The Gundam Nike Dunk High SB is a testament to imagination and work ethic and serves up two distinct colorways that call back to the sci-fi uniform design that defines the franchise. Mixing metallics, muted hues, and flashes of color, both colorways also employ removable Swooshes, stylized to dramatically alter each silhouette, depending on if you want to go bright or tactically clean. The Gundam Dunk honors tradition and the synergy between Nike SB and Gundam collector culture from the toebox detailing to the accompanying decal sheet.',
+  release_date: 'SEPTEMBER 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'THUNDER BLUE/MTLC GOLD',
+  name: 'GUNDAM BANSHEE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/57185/Side-CROP-banshee_2021-09-19-233220_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'The Gundam Nike Dunk High SB is a testament to imagination and work ethic and serves up two distinct colorways that call back to the sci-fi uniform design that defines the franchise. Mixing metallics, muted hues, and flashes of color, both colorways also employ removable Swooshes, stylized to dramatically alter each silhouette, depending on if you want to go bright or tactically clean. The Gundam Dunk honors tradition and the synergy between Nike SB and Gundam collector culture from the toebox detailing to the accompanying decal sheet.',
+  release_date: 'SEPTEMBER 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/WHITE',
+  name: 'QUARTERSNACKS',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/57026/side-cropped_2021-08-25-153003_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Mixing black leather overlays and zebra-striped paneling that extends from toe box to heel, the Quartersnacks Dunk takes inspiration from on-the-cheap candy counter nostalgia. Using a thin twill tongue present on early-2000s Dunks, it also features embroidered Quartersnacks heel branding as well as a jacquard woven label with a simple warning and now written rule: “If you can’t ollie up it, don’t ollie down it.”',
+  release_date: 'SEPTEMBER 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'FIRE PINK/GYM RED-MOACH-WHITE-ROYAL BLUE-BLACK',
+  name: "PARRA '21",
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/56561/Side-Cropped-Parra_2021-07-28-043825_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Furthering his landscape abstraction and signature colors, Parra chose the crispy white classic Dunk Low as the foundation of an entirely new piece, weaving wavy geometrics and swirling color into expressive accents. Balanced by clean pops of white, a stand-alone black Swoosh, and full coverage illustrated insoles, the Nike SB Parra Dunk Low Pro embodies active imagination.',
+  release_date: 'JULY 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'LAGOOON PULSE/MTLC SILVER-SPEED YELLOW',
+  name: 'FTC',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/55905/FTC-side-crop_2021-07-12-211201_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Crystal blue suede, icy white leather, a clear sole, and bright enamel detailing capture the pristine clean of the sentō. Ready for a post-session soak? This FTC Dunk even has a sentō signature rubber duck illustrations on the insole, completing the journey west.',
+  release_date: 'JULY 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB ZOOMX BRUIN',
+  official_colorway: 'LIGHT DEW/BLACK',
+  name: 'SANDY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/55023/Crop-Hero_2021-07-08-180814_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'It’s 2021 and that drive has coalesced in a ZoomX Bruin that features a sublimated graphic that pulls from the iconic "Blue Sky Dreamer" painting by Mark Smith of Sandy that hangs in The Bodecker Foundation space in Portland, Oregon.',
+  release_date: 'JULY 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'TOPAZ GOLD/CHILE RED-FAUNA BROWN-WHITE-BLACK-CELADON',
+  name: 'KEBAB AND DESTROY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/10635/Side-CROPPED_210622_081204_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'With a hot colorway and textured brown leather heel straps with Color branding, the Kebab Dunk’s colorway is a wrap on a Greek classic, made to stick and move.',
+  release_date: 'JUNE 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'SAIL/BLUE BEYOND-TRACK RED',
+  name: 'ISHOD WAIR X MAGNUS WALKER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/10566/side-CROPPED_210616_194312_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'The Ishod X Magnus Walker Dunk knows detail and pulls from classic racing aesthetics down to its plush flannel interior. Wear it in to find your shine as the Sail Leather Upper scrapes down to a gold finish and the perfect getaway.',
+  release_date: 'JUNE 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB VERONA SLIP',
+  official_colorway: 'BLUE VOID/BLUE VOID/ELECTRIC GREEN/BLACK',
+  name: 'LEO BAKER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/10497/Side-Cropped_210609_153534_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Like their brand, the Verona Slip takes bold one louder with shocking neon green insole and outsole. Evolving the original Verona Slip is another statement in Leo’s story and stamp on skateboarding.',
+  release_date: 'JUNE 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'SPORT RED/BLACK-VARSITY MAIZE-VOLT',
+  name: '"WHAT THE PAUL"',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/10435/Side-Crop_210520_143954_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Details? We’ll take all of them, from elephant print to nods to traditional Mexican textiles, the "What the Paul" is its own beast and a flip on the 31 flavors of the original "What the Dunk" from 2007.',
+  release_date: 'MAY 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB BLZR COURT',
+  official_colorway: 'BAROQUE BROWN/MEDIUM OLIVE/LIGHT BONE',
+  name: 'DVDL',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/10410/side-cropped_210519_212738_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Details? We’ll take allTennis-inspired and retooled for skateboarding, The Nike SB BLZR Court mixes minimalism with modern touches including a rubber ollie patch and grippy outsole. As all-purpose and always down as SB Team rider Daan Van Der Linden, the SB BLZR gets an outdoor-inspired detailing inspired by your favorite skater’s favorite skater and his love for fishing.',
+  release_date: 'MAY 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'CHILE RED/CLEAR-WHITE',
+  name: 'STINGWATER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/10302/Crop_210503_144646_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'Skaters in NYC have known for years that Stingwater Groes. It’s that simple and the irreverence of Daniel Kim’s vision turns the classic Dunk Low into fungal function with Safari Mushroom paneling, a flip of the Swoosh, and a clear outsole stating “Plant Emoji With Eyes.” Purposely confusing or accidentally clever? Groe is all you need to know and for the rest? There’s a hidden pocket in the tongue for all of that.',
+  release_date: 'MAY 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'AQUAMARINE/LT CREAM-TOTAL ORANGE-TOMATILLO',
+  name: 'HAWAII',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/10255/Cropped_210419_144048_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'A hidden pocket on the tongue is perfect for secure storage, while a Zoom Air unit in the heel combines with a padded tongue to ensure the design can hold up to skateboarding’s unique demands. Illustrations on the insole depict erupting volcanoes and the nene goose, the official state bird. Alternate laces add a final twist of flavor to this sun-soaked style.',
+  release_date: 'APRIL 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'BLACK/UNIVERSITY RED-WHITE-BLACK',
+  name: 'WASTED YOUTH',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/10201/DD8386-001_226664907_D_9Z_1X1_210330_003736_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'After the success of his Girls Don’t Cry Dunk, we tapped Japanese artist Verdy for a second collaboration with his skateboarding and punk rock inspired Wasted Youth label. The black denim and leather patchwork upper combined with metallic d-rings and jagged white and red stitching serve as a nod to his customized outfits he wore while raging at punk shows as a teen.',
+  release_date: 'APRIL 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'WHITE/DARK SULFUR-COCONUT MILK-ROYAL PULSE',
+  name: 'CARPET CO.',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/10144/Carpet_VaultPage_Hero_020d4294749750daa11b9b866154bc17.PNG',
+  description:
+    'Printed blue mesh overlays tear away as the shoe gets skated to reveal the yellow leather underneath, surrounded by supple white leather. A stitched Carpet Co. star logo at the heel, fez-headed sockliner design and custom tongue label and heel let everybody know this could only have been brought by the habibis at Carpet Co.',
+  release_date: 'FEBRURARY 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway:
+    'METALLIC COPPER/LIGHT SILVER-PUEBLO BROWN-METALLIC SILVER',
+  name: 'STREET HAWKER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9999/nikesb-vault-street-hawker-dunk-low-product1_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'From a brown swoosh that represents chopsticks to an embroidered coin on the heel to pay for the meal, the Street Hawker Dunk comes fresh out of the kitchen with mad flavor.',
+  release_date: 'JANUARY 2021',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'WHITE/PSYCHIC BLUE/METALLIC GOLD',
+  name: 'CLIVER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9920/nikesb-vault-cliver-1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Ice blue velvet suede overlays, a snowflake pattern on the toe meet elves cooking up some misfit toys in the workshop on the insole. Another skewed holiday classic from Sean Cliver.',
+  release_date: 'DECEMBER 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'CHILE RED/WHITE/LUCKY GREEN/BLACK',
+  name: 'FRAME',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9823/nikesb-vault-frame-dunk-low_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'From the industries that helped build the Emirates to the progressive future Dubai is building for itself, the FRAME Dunk celebrates FRAME’s home as well as the love of skateboarding. The red, white, black and green colors echo the UAE’s flag while the stitched "Habibi" on the inner tongue (Arabic for "my love") shows FRAME’s hometown pride and love of skateboarding itself.',
+  release_date: 'DECEMBER 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'RATTAN/PARACHUTE BEIGE/ORANGE CHALK/BAROQUE BROWN',
+  name: 'MALLARD',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9807/nikesb-vault-concepts-mallard_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Check the Concepts-exclusive chicken-printed socks and turkey-themed box that create the ultimate Turdunken. Pass the gravy!',
+  release_date: 'NOVEMBER 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB',
+  official_colorway: 'CARGO KHAKI/SPIRAL SAGE/ASTRONOMY BLUE/MEDIUM GREY',
+  name: 'HERITAGE VULC',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9784/nikesb-vault-heritage-vulc-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Kicking off the first season of the Heritage Vulc, we brought in Nike SB team rider Eniz Fazilov to create a signature colorway. The Eniz Heritage Vulc features tan and green upper colors and a brilliantly done insole printed with the aurora borealis, a nod to Eniz’ Finnish roots',
+  release_date: 'OCTOBER 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB',
+  official_colorway: 'DARK GREY/DARK GREY/ELECTRIC GREEN',
+  name: 'DUNK LOW PRO E',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9766/nikesb-vault-dunk-low-pro-e-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'From the minimalist Swoosh to the sidewall tape that incorporates 3% Nike Grind – a material made from manufacturing waste rubber – the Dunk Low E keeps sustainability in mind while maintaining classic Dunk style and skateability.',
+  release_date: 'OCTOBER 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB',
+  official_colorway: 'TRAILS END BROWN/PRISM VIOLET/TOTAL ORANGE/BLACK',
+  name: 'BLAZER MID PRO GT',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9734/nikesb-vault-blazer-mid-pro-gt-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'A vintage ACG-style GTP (GT Pro, that is) tongue label and rubber heel logo are combined with some vertical toe bumper texture to up the game. The Blazer Mid Pro GT is ready to shred in any and all-terrain.',
+  release_date: 'OCTOBER 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB',
+  official_colorway: 'BLACK/LUCKY GREEN/WHITE/PINK RISE',
+  name: 'INVERTED DUNK HIGH',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9717/nikesb-vault-inverted-dunk-high-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Like a Lance Mountain sad plant on the edge of a pool, the Nike SB Inverted Dunk High takes a legend and flips it on its head. We took a classic Dunk High colorway, gave it a 180 on the color wheel and got inverted for a fresh take on a classic.',
+  release_date: 'OCTOBER 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK HIGH',
+  official_colorway: 'SAIL/WHITE/OCEAN FOG',
+  name: 'ATLAS',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9688/nikesb-vault-atlas-dunk-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'With pre-yellowed glue and laces, cracked leather upper and a custom tongue with a logo inspired by the ‘89 Air Flight, the Atlas Dunk High takes it back to the past and down to the bottom of the sea.',
+  release_date: 'SEPTEMBER 2020',
+)
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW',
+  official_colorway: 'BLUE HERO/PALE IVORY/BLACK',
+  name: 'INSTANT',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9640/nikesb-vault-instant-dunk-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'The blue and white leather mimics the color pattern of the buses, and the reflective toe vamp gives off some headlight vibes. On the heel is an embroidered version of a famous Japanese dog with crossed trucks behind him.',
+  release_date: 'SEPTEMBER 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB',
+  official_colorway: 'PURE PLATINUM/GUM LIGHT BROWN',
+  name: 'JANOSKI FLYLEATHER',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9587/nikesb-vault-janoski-flyleather-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'From the sole and sidewall tape that incorporates 3% Nike Grind, a material made from manufacturing waste rubber, to the Flyleather upper made from at least 50% recycled leather fiber, to the tongue label and shoelaces made from recycled materials and the minimalist stitched swoosh that uses as little thread as possible, the Janoski Flyleather is fit for the future.​',
+  release_date: 'SEPTEMBER 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW',
+  official_colorway: 'BLACK/MULTI-COLOR-WHITE',
+  name: 'CIVILIST',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9549/nikesb-vault-civilist-dunk-1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'At first glance, the Civilist Dunk Low appears to be a low-profile, black leather skate shoe. But once it is exposed to a little heat, it reveals a thermochromatic pattern that would be right at home on a rave dance floor.',
+  release_date: 'AUGUST 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'DUNK LOW',
+  official_colorway: 'BLACK/WHITE/BLACK',
+  name: 'MEDICOM TOY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9521/nikesb-medicom-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Since the mid 00’s, MEDICOM TOY has been part of some of the most legendary SB collabs. The MEDICOM TOY Dunk Low OG brings it back with the fat-tongue OG Dunk and keeps it fresh with an all-over hairy leather upper and the signature MEDICOM TOY gold heel tab.',
+  release_date: 'AUGUST 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB',
+  official_colorway: 'SUMMIT WHITE/PINK BLAST/PINK',
+  name: 'BRUIN REACT',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9509/nikesb-vault-bruin-react-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Nike React technology is scientifically designed to blend durability and energy transfer with ultimate comfort and cushioning. Originally designed for basketball, React quickly became a favorite of road runners and now has arrived in its first skate shoe.',
+  release_date: 'AUGUST 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE DUNK LOW',
+  official_colorway: 'MULTI',
+  name: 'GRATEFUL DEAD',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9421/nikesb-vault-gfd-dunk-product-1_77f75371139f336dadb232bb15e40d1b.png',
+  description:
+    'With shaggy fur panels on the upper, custom-designed GFD Bear logo and a secret zip stash pocket inside the tongue itself, the GFD Dunk is full of surprises if you know where to look. Nike SB and the Deadheads. We are everywhere.',
+  release_date: 'JULY 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB',
+  official_colorway: 'BLACK/METALLIC SILVER/SPORT RED',
+  name: 'NYJAH II',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9331/nikesb-vault-nyjha-2-product-1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'New lace loop configuration can be adjusted to inside or outside the upper for increased durability and improved strap mechanics hold the shoe to the foot for better balance and board feel. The Nyjah II is the most advanced skate shoe in the galaxy.',
+  release_date: 'JULY 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB BLAZER PRO',
+  official_colorway: 'FIR/FIR/GUM LIGHT BROWN/WHITE',
+  name: 'GT BLAZER PRO',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9309/nikesb-gt-blazer-pro-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'The Blazer GT Pro adds improved binding at the quarter and collar, higher tape for better flick, grip and durability and a split upper with tough Cordura canvas at the rear and suede forefoot. Like a souped up El Camino, the Blazer GT Pro leaves everyone else in the dust.',
+  release_date: 'JUNE 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB DUNK LOW',
+  official_colorway: 'WHITE/LAGOON/PULSE/BLACK/UNIVERSITY GOLD',
+  name: 'CHUNKY DUNKY',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9182/nikesb-vault-ben-jerry-prodcut-1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Named for their famous banana chocolate chip ice cream, Chunky Monkey, the Chunky Dunky brings the sunny attitude to the legendary Dunk silhouette. After all, to quote Ben & Jerry’s motto, “If it isn’t fun, why do it?”',
+  release_date: 'MAY 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB DUNK HIGH',
+  official_colorway: 'TBD',
+  name: 'GDP DUNK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/9041/nikesb-vault-gdp-dunk-1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Since the Bratrud/SB collab is officially in double digits, Todd gave the skunk on the sock liner grandaddy status with a long, flowing white beard. A special stamp on the heel on each pair gives a nod to 10 years of Todd on 4/20.',
+  release_date: 'APRIL 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB BLAZER MID',
+  official_colorway: 'BLACK/WHITE/PHOTO BLUE',
+  name: 'ISLE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/8923/nikesb-isle-blazer-product1_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'With the Isle Blazer, they combined the classic, raw feel of the London streets with a fine art aesthetic, bringing a patch-based off of a cyanotype by Nick. "The blue eye (on the patch) expresses a skater’s unique perspective on the city."',
+  release_date: 'MARCH 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB DUNK LOW',
+  official_colorway: 'BLACK/PARACHUTE BEIGE/PETRA BROWN',
+  name: 'TRAVIS SCOTT',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/8735/nike-sb-vault-travis-scott_020d4294749750daa11b9b866154bc17.jpg',
+  description:
+    'The canvas tears away to reveal woodsy-style camo patterns that have been present in other Travis Scott Nike collabs. Rope-style laces run up to a thick tongue emblazoned with a label that nods to his burgeoning Cactus Jack label.',
+  release_date: 'FEBRUARY 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'purple box',
+  shoe_type: 'THE SHANE',
+  official_colorway: 'SUMMIT WHITE/UNIVERSITY RED',
+  name: 'THE SHANE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/8589/nikesb-vault-shane-lateral_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'From the lowkey perforated ventilation at the toe to the double lace option to fit your style to the no-break-in Remastered sole, the Shane gets all the details right.',
+  release_date: 'FEBRUARY 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'purple box',
+  shoe_type: 'THE SHANE',
+  official_colorway: 'SUMMIT WHITE/UNIVERSITY RED',
+  name: 'THE SHANE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/8589/nikesb-vault-shane-lateral_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'From the lowkey perforated ventilation at the toe to the double lace option to fit your style to the no-break-in Remastered sole, the Shane gets all the details right.',
+  release_date: 'FEBRUARY 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'limited box',
+  shoe_type: 'NIKE SB DUNK LOW',
+  official_colorway: 'BRIGHT MELON/GYM RED/SOFT PINK',
+  name: 'STRANGELOVE',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/8589/nikesb-vault-shane-lateral_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'The Strangelove Dunk turns up the love just in time for Valentine’s Day with crushed velvet underlays, a Strangelove crest embroidered on the heel and pink translucent outsole stuffed with red and blue heart confetti. Spread the love.',
+  release_date: 'FEBRUARY 2020',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'striped box era',
+  shoe_type: 'NIKE SB DUNK HIGH',
+  official_colorway: 'WHITE/RED-GREEN',
+  name: 'P-ROD DUNK',
+  image_url:
+    'https://www.nikesb.com/assets/imager/uploads/product/8453/nikesb-vault-prod-dunk-high_020d4294749750daa11b9b866154bc17.png',
+  description:
+    'Taking on the colors of the Mexican flag, P-Rod also pays homage to his heritage and the contributions that Mexican boxers past, present and future, bring to the sport.',
+  release_date: 'JANUARY 2020',
+)
 
 #teal box era
 Sneaker.create(
