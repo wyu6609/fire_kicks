@@ -20,7 +20,7 @@ import SignUp from "./SignUp";
 const theme = createTheme({
   palette: {
     primary: {
-      main: "#6320ee",
+      main: "#e61c23",
       contrastText: "white",
     },
   },
@@ -43,7 +43,7 @@ function Login({ onLogin, fetchCartLength, fetchBots }) {
           sm={4}
           md={7}
           sx={{
-            backgroundImage: showLogin
+            backgroundImage: !showLogin
               ? "url(https://dribblemedia.com/wp-content/uploads/2021/04/The-20-DM.jpg)"
               : "url(https://wallpaperaccess.com/full/709458.jpg)",
             backgroundRepeat: "no-repeat",
