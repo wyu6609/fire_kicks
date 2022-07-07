@@ -910,7 +910,7 @@ Sneaker.create(
   official_colorway: 'MULTI-COLOR/MULTI-COLOR',
   name: 'WALK THE DOG',
   image_url:
-    'https://www.nikesb.com/assets/imager/uploads/product/2668/nikesb_dunk_blacksheep_77f75371139f336dadb232bb15e40d1b.png',
+    'https://www.nikesb.com/assets/imager/uploads/product/2703/nikesb_dunk_dog_walker_77f75371139f336dadb232bb15e40d1b.png',
   description:
     'Whether you prefer a feisty Chihuahua or restful Labrador, all dog lovers can appreciate this canine-friendly colorway. “Walk the Dog” arrives with a variety of dog hair patterns to represent different breeds while the suede mimics grass on the upper. A reimagined swoosh takes inspiration from leash material and a dog bone hangtag engraved with the name “Sparky” sways on the heel.
 
@@ -1011,7 +1011,7 @@ Sneaker.create(
   official_colorway: 'MIDWEST GOLD/BLACK',
   name: 'STÜSSY X LANCE',
   image_url:
-    'https://www.nikesb.com/assets/imager/uploads/product/2707/nikesb_dunk_white_diamond_77f75371139f336dadb232bb15e40d1b.png',
+    'https://www.nikesb.com/assets/imager/uploads/product/2695/nikesb_blazer_stussy_lance_020d4294749750daa11b9b866154bc17.png',
   description:
     'Lance Mountain’s Nike SB Blazer Mid packs a lot of skate history and numerology into its design while telling a greater story of his career in tandem. Lance is unique in that he can pull from so many eras of skating, so he drilled back to 1978 when he first saw the Blazer being skated by the luminaries he looked up to in the backyard pools of Southern California, truncating that to 78 and 17 on the other tiled heel detail for the year of its release. The prismatic Swoosh and it’s gradient fade speaks to the graffiti and vibrant colors associated with pool skating’s renegade roots.',
   release_date: 'DECEMBER 2018',
@@ -1142,7 +1142,7 @@ Sneaker.create(
   official_colorway: 'SAIL/GAME ROYAL/WHITE',
   name: 'SOULLAND *FRI.DAY PART 02 HIGH',
   image_url:
-    'https://www.nikesb.com/assets/imager/uploads/product/2638/nikesb_dunk_soulland_77f75371139f336dadb232bb15e40d1b.jpg',
+    'https://www.nikesb.com/assets/imager/uploads/product/2641/nikesb_dunk_soulland_high_77f75371139f336dadb232bb15e40d1b.jpg',
   description:
     'The second installment in FRI.day Part 02 is an equally inventive and reductive take on the Dunk Low Pro SB, starting with the removal and repurposing of the Swoosh logo, which was scaled down and placed on the sneaker’s toe. The mid panel has a textured pattern that pops in the absence of the Swoosh and FRI.day type was added to the heel of each sneaker.',
   release_date: 'DECEMBER 2017',
@@ -1337,7 +1337,7 @@ Sneaker.create(
   official_colorway: 'MULTI-COLOR/WHITE',
   name: 'TIGER RAINBOW',
   image_url:
-    'https://www.nikesb.com/assets/imager/uploads/product/1605/nikesb_janoski_warmth_77f75371139f336dadb232bb15e40d1b.jpg',
+    'https://www.nikesb.com/assets/imager/uploads/product/1563/nikesb_janoski_tiger_rainbow_77f75371139f336dadb232bb15e40d1b.jpg',
   description:
     'A product of persistence, the SB Zoom Stefan Janoski has endured with minimal tweaks since its debut in 2009. The Tiger Rainbow is a prime example of how Janoski’s shoe can be energized with print and texture. With its full gradient, beaming tiger pattern and semi-translucent Swoosh, it’s a statement sneaker through and through.',
   release_date: 'APRIL 2014',
@@ -1705,9 +1705,9 @@ Sneaker.create(
   official_colorway: 'SABLE GREEN/SAFETY ORANGE',
   name: 'BRIAN ANDERSON',
   image_url:
-    'https://www.nikesb.com/assets/imager/uploads/product/1932/nikesb_dunk_weiger_77f75371139f336dadb232bb15e40d1b.jpg',
+    'https://www.nikesb.com/assets/imager/uploads/product/1935/nikesb_dunk_briananderson_77f75371139f336dadb232bb15e40d1b.jpg',
   description:
-    'The first Nike SB amateur given the keys to the Dunk, Wieger Van Wageningen played favorites with the Dunk Low Pro SB. The simplicity of a classic black-and-white colorway and suede construction became the playground for Wieger to add an embroidered logo, memorializing the columns at a beloved skate spot in central Amsterdam. In the wake of its release, the Wieger Dunk helped spark a trend in minimal, black-and-white tonality trend in the Dunk, counter to the loud colorways that first caught on with fans.',
+    'Like his teammate Reese Forbes, Brian Anderson built his Dunk High Pro SB around a hunting theme. BA chose a traditional camo, accented with vivid orange by-way-of the Bay, specifically San Francisco where he lived at the time. His model also featured an illustrated insole featuring a man standing in front of a target, holding a gun, wearing a belt buckle adorned with an “SF” logo for maximum city-wide pride.',
   release_date: 'AUGUST 2006',
 )
 
@@ -2300,18 +2300,6 @@ Sneaker.create(
   release_date: 'MARCH 2003',
 )
 
-Sneaker.create(
-  brand: 'sb',
-  box: 'silver_box',
-  shoe_type: 'DUNK LOW PRO SB',
-  official_colorway: 'BLACK/WHITE/NIGHTSHADE-SHARK',
-  name: 'FUTURA',
-  image_url:
-    'https://www.nikesb.com/assets/imager/uploads/product/734/nikesb_dunk_futura_77f75371139f336dadb232bb15e40d1b.jpg',
-  description:
-    'A legacy artist, such as Leonard Hilton McGurr a.k.a Futura, pioneered the burgeoning graffiti scene in the 1970s. While his distinct hand and character work have defined his career, Futura’s eye for color and design is equally part of the vanguard that birthed a new culture aesthetic. Using suede, leather and mesh, his tonal approach to the Dunk Low Pro SB calls back to the subway steel canvas where he found fame.',
-  release_date: 'MARCH 2003',
-)
 Sneaker.create(
   brand: 'sb',
   box: 'silver_box',
