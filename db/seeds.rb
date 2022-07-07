@@ -12,10 +12,10 @@ User.create(
 )
 
 puts 'seeding sneakers...'
-#striped box era
+#striped_box
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/BLACK-WHITE',
   name: 'GNARHUNTERS',
@@ -28,7 +28,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'ELEMENTAL PINK/BLACK',
   name: 'KCDC',
@@ -41,7 +41,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/BLACK-WHITE',
   name: 'POLAROID',
@@ -54,7 +54,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/COOL GREY-WHITE-WHITE-UNIV RED',
   name: 'OSKI',
@@ -67,7 +67,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'CARBON GREEN/CIDER-WHEAT GOLD',
   name: 'PASS~PORT',
@@ -80,7 +80,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB VERONA SLIP',
   official_colorway: 'GLACIER BLUE/GLACIER BLUE-GLACIER BLUE-WHITE',
   name: 'RAYSSA LEAL',
@@ -93,7 +93,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB',
   official_colorway:
     'LT OLIVE/ BLACK-LT OLIVE-VARSITY RED-BLACK-GUM DARK BROWN',
@@ -107,7 +107,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB BLAZER LOW',
   official_colorway: 'COOL GREY/WOLF GREY // KHAKI/RATTAN',
   name: 'FPAR',
@@ -120,7 +120,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB VERONA SLIP',
   official_colorway: 'PRISM PINK/TEAM RED-PINKSICLE-WHITE-OFF NOIR',
   name: 'LETICIA BUFONI',
@@ -133,7 +133,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway:
     'COCONUT MILK/SEAFOAM-YELLOW STRIKE-CHILE RED-GREY FOG-LIME GLOW',
@@ -147,7 +147,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'UNIVERSITY RED/MAGIC EMBER/TREELINE/SPINACH GREEN',
   name: 'STRAWBERRY',
@@ -161,7 +161,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/AMARILLO',
   name: 'GUNDAM UNICORN',
@@ -174,7 +174,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'THUNDER BLUE/MTLC GOLD',
   name: 'GUNDAM BANSHEE',
@@ -187,7 +187,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/WHITE',
   name: 'QUARTERSNACKS',
@@ -200,7 +200,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'FIRE PINK/GYM RED-MOACH-WHITE-ROYAL BLUE-BLACK',
   name: "PARRA '21",
@@ -213,7 +213,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'LAGOOON PULSE/MTLC SILVER-SPEED YELLOW',
   name: 'FTC',
@@ -226,7 +226,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB ZOOMX BRUIN',
   official_colorway: 'LIGHT DEW/BLACK',
   name: 'SANDY',
@@ -239,7 +239,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'TOPAZ GOLD/CHILE RED-FAUNA BROWN-WHITE-BLACK-CELADON',
   name: 'KEBAB AND DESTROY',
@@ -252,7 +252,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'SAIL/BLUE BEYOND-TRACK RED',
   name: 'ISHOD WAIR X MAGNUS WALKER',
@@ -265,7 +265,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB VERONA SLIP',
   official_colorway: 'BLUE VOID/BLUE VOID/ELECTRIC GREEN/BLACK',
   name: 'LEO BAKER',
@@ -278,7 +278,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'SPORT RED/BLACK-VARSITY MAIZE-VOLT',
   name: '"WHAT THE PAUL"',
@@ -291,7 +291,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB BLZR COURT',
   official_colorway: 'BAROQUE BROWN/MEDIUM OLIVE/LIGHT BONE',
   name: 'DVDL',
@@ -304,7 +304,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'CHILE RED/CLEAR-WHITE',
   name: 'STINGWATER',
@@ -317,7 +317,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'AQUAMARINE/LT CREAM-TOTAL ORANGE-TOMATILLO',
   name: 'HAWAII',
@@ -330,7 +330,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/UNIVERSITY RED-WHITE-BLACK',
   name: 'WASTED YOUTH',
@@ -343,7 +343,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/DARK SULFUR-COCONUT MILK-ROYAL PULSE',
   name: 'CARPET CO.',
@@ -356,10 +356,10 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway:
-    'METALLIC COPPER/LIGHT SILVER-PUEBLO BROWN-METALLIC SILVER',
+    'METALLIC COPPER/LIGHT SILVER-PUEBLO BROWN-METALLIC SILVER_box',
   name: 'STREET HAWKER',
   image_url:
     'https://www.nikesb.com/assets/imager/uploads/product/9999/nikesb-vault-street-hawker-dunk-low-product1_77f75371139f336dadb232bb15e40d1b.png',
@@ -370,7 +370,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/PSYCHIC BLUE/METALLIC GOLD',
   name: 'CLIVER',
@@ -383,7 +383,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'CHILE RED/WHITE/LUCKY GREEN/BLACK',
   name: 'FRAME',
@@ -396,7 +396,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'RATTAN/PARACHUTE BEIGE/ORANGE CHALK/BAROQUE BROWN',
   name: 'MALLARD',
@@ -409,7 +409,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB',
   official_colorway: 'CARGO KHAKI/SPIRAL SAGE/ASTRONOMY BLUE/MEDIUM GREY',
   name: 'HERITAGE VULC',
@@ -422,7 +422,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB',
   official_colorway: 'DARK GREY/DARK GREY/ELECTRIC GREEN',
   name: 'DUNK LOW PRO E',
@@ -435,7 +435,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB',
   official_colorway: 'TRAILS END BROWN/PRISM VIOLET/TOTAL ORANGE/BLACK',
   name: 'BLAZER MID PRO GT',
@@ -448,7 +448,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB',
   official_colorway: 'BLACK/LUCKY GREEN/WHITE/PINK RISE',
   name: 'INVERTED DUNK HIGH',
@@ -461,7 +461,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK HIGH',
   official_colorway: 'SAIL/WHITE/OCEAN FOG',
   name: 'ATLAS',
@@ -473,7 +473,7 @@ Sneaker.create(
 )
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW',
   official_colorway: 'BLUE HERO/PALE IVORY/BLACK',
   name: 'INSTANT',
@@ -486,7 +486,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB',
   official_colorway: 'PURE PLATINUM/GUM LIGHT BROWN',
   name: 'JANOSKI FLYLEATHER',
@@ -499,7 +499,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW',
   official_colorway: 'BLACK/MULTI-COLOR-WHITE',
   name: 'CIVILIST',
@@ -512,7 +512,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'DUNK LOW',
   official_colorway: 'BLACK/WHITE/BLACK',
   name: 'MEDICOM TOY',
@@ -525,7 +525,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB',
   official_colorway: 'SUMMIT WHITE/PINK BLAST/PINK',
   name: 'BRUIN REACT',
@@ -538,7 +538,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE DUNK LOW',
   official_colorway: 'MULTI',
   name: 'GRATEFUL DEAD',
@@ -551,7 +551,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB',
   official_colorway: 'BLACK/METALLIC SILVER/SPORT RED',
   name: 'NYJAH II',
@@ -564,7 +564,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB BLAZER PRO',
   official_colorway: 'FIR/FIR/GUM LIGHT BROWN/WHITE',
   name: 'GT BLAZER PRO',
@@ -577,7 +577,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB DUNK LOW',
   official_colorway: 'WHITE/LAGOON/PULSE/BLACK/UNIVERSITY GOLD',
   name: 'CHUNKY DUNKY',
@@ -590,7 +590,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB DUNK HIGH',
   official_colorway: 'TBD',
   name: 'GDP DUNK',
@@ -603,7 +603,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB BLAZER MID',
   official_colorway: 'BLACK/WHITE/PHOTO BLUE',
   name: 'ISLE',
@@ -616,7 +616,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB DUNK LOW',
   official_colorway: 'BLACK/PARACHUTE BEIGE/PETRA BROWN',
   name: 'TRAVIS SCOTT',
@@ -629,7 +629,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'purple box',
+  box: 'purple_box',
   shoe_type: 'THE SHANE',
   official_colorway: 'SUMMIT WHITE/UNIVERSITY RED',
   name: 'THE SHANE',
@@ -642,7 +642,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'purple box',
+  box: 'purple_box',
   shoe_type: 'THE SHANE',
   official_colorway: 'SUMMIT WHITE/UNIVERSITY RED',
   name: 'THE SHANE',
@@ -655,7 +655,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'limited box',
+  box: 'limited_box',
   shoe_type: 'NIKE SB DUNK LOW',
   official_colorway: 'BRIGHT MELON/GYM RED/SOFT PINK',
   name: 'STRANGELOVE',
@@ -668,7 +668,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'striped box era',
+  box: 'striped_box',
   shoe_type: 'NIKE SB DUNK HIGH',
   official_colorway: 'WHITE/RED-GREEN',
   name: 'P-ROD DUNK',
@@ -679,10 +679,10 @@ Sneaker.create(
   release_date: 'JANUARY 2020',
 )
 
-#teal box era
+#teal_box
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/ORANGE FLASH/BLACK',
   name: 'ROSWELL RAYGUNS HOME',
@@ -695,7 +695,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/BLACK-ORANGE FLASH',
   name: 'ROSWELL RAYGUNS AWAY',
@@ -708,7 +708,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'DESERT ORE/DARK POWDER BLUE/BLACK/ROYAL BLUE',
   name: 'RICHMOND PLAYGROUND',
@@ -720,7 +720,7 @@ Sneaker.create(
 )
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK SB BLAZER MID',
   official_colorway: 'LIGHT BONE/PURE PLATINUM/VARSITY RED/WHITE',
   name: 'NIKE SB X SOULLAND',
@@ -733,7 +733,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'BLACK/DARK GREY-BLACK',
   name: 'FPAR DUNK HIGH',
@@ -746,7 +746,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/GREEN-SAIL',
   name: 'BEN-G DUNK LOW',
@@ -759,7 +759,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'SUPREME DUNK LOW',
   official_colorway: 'MULTIPLE',
   name: 'SUPREME DUNK LOW',
@@ -774,7 +774,7 @@ Colorways: Metallic Silver/Metallic Silver-Black, Varsity Red/Varsity Red/White/
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'DARK POWDER BLUE/WHITE',
   name: '$24.99',
@@ -787,7 +787,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/RED-PINK',
   name: 'PARRA DUNK',
@@ -800,7 +800,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'ZOOM BLAZER SB LOW',
   official_colorway: 'WHITE/MULTI-COLOR',
   name: 'PARRA BLAZER',
@@ -813,7 +813,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'ZOOM BLAZER SB',
   official_colorway: 'BLACK/WHITE/WHITE/BLACK',
   name: 'GNARHUNTERS BLAZER MID',
@@ -826,7 +826,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'NIKE SB AIR JORDAN 1 LOW',
   official_colorway: 'MID NVY/MTLC SLVR-WHT-EMBR GLW',
   name: 'SB X AIR JORDAN I LOW',
@@ -840,7 +840,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'SB AIR TRAINER 1',
   official_colorway: 'BLACK/BLACK-DEEP ROYAL BLUE-SUMMIT WHITE',
   name: 'POLAR SB TRAINER 1',
@@ -853,7 +853,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'SB ZOOM BLAZER LOW GT',
   official_colorway: 'SUMMIT WHITE/DEEP ROYAL BLUE',
   name: 'POLAR SB BLAZER GT',
@@ -866,7 +866,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'AIR JORDAN 1 HIGH OG DEFIANT',
   official_colorway: 'LIGHT BONE/BLACK/CRIMSON TINT/HYPER PINK',
   name: 'NYC TO PARIS',
@@ -879,7 +879,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'AIR JORDAN 1 HIGH OG DEFIANT',
   official_colorway: 'COURT PURPLE/BLACK-SAIL VIOLET COURT/COLE/NOIR',
   name: 'LA TO CHICAGO',
@@ -892,7 +892,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'BLACK/BLACK-BLACK',
   name: 'BLACK SHEEP HORNET',
@@ -905,7 +905,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'MULTI-COLOR/MULTI-COLOR',
   name: 'WALK THE DOG',
@@ -920,7 +920,7 @@ Brown color blocking on the translucent outsole is sybolic of stepping on dog po
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'SB BLAZER MID',
   official_colorway: 'LIGHT LIQUID LIME/ LAWN-WHITE',
   name: 'FROG',
@@ -935,7 +935,7 @@ Brown color blocking on the translucent outsole is sybolic of stepping on dog po
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'GREEN STONE/LEGION GREEN-FIR',
   name: 'GREEN LOBSTER',
@@ -948,7 +948,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'VOLTAGE PURPLE/VOLTAGE PURPLE',
   name: 'PURPLE LOBSTER',
@@ -961,7 +961,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'TOUR YELLOW/CHROME-TOUR YELLOW',
   name: 'CANARY DIAMOND',
@@ -976,7 +976,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/CHROME-BLACK',
   name: 'BLACK DIAMOND',
@@ -991,7 +991,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/CHROME-WHITE',
   name: 'WHITE DIAMOND',
@@ -1006,7 +1006,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'SB BLAZER MID',
   official_colorway: 'MIDWEST GOLD/BLACK',
   name: 'STÜSSY X LANCE',
@@ -1019,7 +1019,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'SB ZOOM BLAZER LOW',
   official_colorway: 'BLACK/PALM GREEN',
   name: 'STÜSSY X TERP',
@@ -1032,7 +1032,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'VACHETTA TAN/WHITE-JERSEY GOLD',
   name: 'PREMIER',
@@ -1045,7 +1045,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'SB BLAZER MID',
   official_colorway: 'UNIVERSITY BLUE/LIGHT BONE-HABANERO RED',
   name: 'ENGLISH ROSE',
@@ -1057,7 +1057,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK MID PRO SB',
   official_colorway: 'CAPPUCCINO/BRONZE WHEAT',
   name: 'LEWIS MARNELL MID',
@@ -1070,7 +1070,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'BLACK/BLACK/ANTHRACITE',
   name: 'ANTIHERO',
@@ -1083,7 +1083,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/WHITE-UNIVERSITY RED',
   name: 'KEVIN BRADLEY',
@@ -1096,7 +1096,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK MID PRO SB',
   official_colorway: 'SAIL/GYM RED/FRESH MINT',
   name: 'WHITE WIDOW',
@@ -1109,7 +1109,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/BLACK-SIENNA',
   name: 'BLACK PIGEON',
@@ -1124,7 +1124,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/GAME ROYAL/WHITE',
   name: 'SOULLAND *FRI.DAY PART 02 LOW',
@@ -1137,7 +1137,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'SAIL/GAME ROYAL/WHITE',
   name: 'SOULLAND *FRI.DAY PART 02 HIGH',
@@ -1150,7 +1150,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH ELITE SB',
   official_colorway: 'BLACK/BLACK-WHITE-PURPLE HAZE',
   name: 'BLACK BOX DUNK',
@@ -1163,7 +1163,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW ELITE SB',
   official_colorway: 'PRISM PINK/BLACK-WHITE',
   name: 'PINK BOX DUNK',
@@ -1176,7 +1176,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'METALLIC SILVER/HYPER VERDE-GUM YELLOW',
   name: 'SILVER BOX DUNK',
@@ -1189,7 +1189,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'SAFETY ORANGE/WHITE-CREAM',
   name: 'ORANGE BOX DUNK',
@@ -1202,7 +1202,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'METALLIC GOLD/METALLIC GOLD-BLACK',
   name: 'HUMIDITY',
@@ -1215,7 +1215,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'VIVID SULFUR/GAME ROYAL',
   name: 'WHAT THE DOERNBECHER',
@@ -1228,7 +1228,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/BACK-PURPLE VENOM',
   name: 'BHM',
@@ -1241,7 +1241,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/WHITE-MULTI-COLOR',
   name: 'ISHOD WAIR TIE DYE',
@@ -1254,7 +1254,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'NIKE ZOOM STEFAN JANOSKI',
   official_colorway: 'UNIVERSITY RED/WHITE-WHITEUNIVERSITY RED/WHITE-WHITE',
   name: 'SKATE MENTAL',
@@ -1267,7 +1267,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'SB BLAZER MID XT',
   official_colorway: 'BLACK/METALLIC SILVER-WHITE-SAFETY ORANGE',
   name: 'DONOVON PISCOPO',
@@ -1280,7 +1280,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'DEEP ROYAL/WHITE-GYM RED',
   name: 'ISHOD WAIR',
@@ -1293,7 +1293,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'NIKE ZOOM STEFAN JANOSKI',
   official_colorway: 'ALE BROWN/BLACK/WHITE',
   name: 'CORK',
@@ -1306,7 +1306,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'NIKE ZOOM STEFAN JANOSKI',
   official_colorway: 'WHITE/WHITE-BLUE',
   name: 'FLAMINGO PACK',
@@ -1319,7 +1319,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'NIKE ZOOM STEFAN JANOSKI',
   official_colorway: 'BLACK/WHITE/GREY',
   name: 'WARMTH',
@@ -1332,7 +1332,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'NIKE ZOOM STEFAN JANOSKI',
   official_colorway: 'MULTI-COLOR/WHITE',
   name: 'TIGER RAINBOW',
@@ -1345,7 +1345,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'teal box era',
+  box: 'teal_box',
   shoe_type: 'NIKE LOW PRO SB',
   official_colorway: 'N/A',
   name: 'BRAND LOGO SAMPLE',
@@ -1355,10 +1355,10 @@ Sneaker.create(
     'The cornerstone of the Nike SB program and company staple since 1982, Alexander “Sandy” Bodecker was always on board to share his passion for the brand’s heritage and give some peeks behind the curtain as well. For the SB Dunk’s 15th anniversary, he unveiled some instant grail samples, including this all-over print logo Dunk Low that featured different iterations of Nike’s iconic lock-ups.',
   release_date: 'N/A',
 )
-#taped box
+#taped_box
 Sneaker.create(
   brand: 'sb',
-  box: 'taped box',
+  box: 'taped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'FIRE RED/CEMENT GREY-BLACK',
   name: 'SUPREME RED CEMENT',
@@ -1371,7 +1371,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'taped box',
+  box: 'taped_box',
   shoe_type: 'SB BLAZER MID',
   official_colorway: 'TOUR YELLOW/WHITE-BLACK',
   name: 'NECKFACE',
@@ -1384,7 +1384,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'taped box',
+  box: 'taped_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/BLACK-WHITE',
   name: 'SKATE MENTAL BLADE',
@@ -1397,7 +1397,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'taped box',
+  box: 'taped_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/BLACK',
   name: 'PUSHEAD II',
@@ -1411,7 +1411,7 @@ Sneaker.create(
 #blue box
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'ZOOM AIR',
   official_colorway: 'MIDNIGHT NAVY',
   name: '94 HI SUPREME',
@@ -1423,7 +1423,7 @@ Sneaker.create(
 )
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'SB BLAZER MID',
   official_colorway: 'BLACK/COMET RED-HYPER VERDE',
   name: 'ATCQ',
@@ -1436,7 +1436,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/BLACK',
   name: 'SPACE JAM',
@@ -1449,7 +1449,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/VARSITY RED-MDM DNM-BLACK',
   name: 'C&C',
@@ -1462,7 +1462,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'SEAGRASS/SEAGRASS',
   name: 'STATUE OF LIBERTY',
@@ -1475,7 +1475,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'METALLIC GOLD/METALLIC VEGAS GOLD',
   name: 'ERIC KOSTON HIGH',
@@ -1487,7 +1487,7 @@ Sneaker.create(
 )
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLUE RIBBON/VEGAS GOLD-VARSITY RED',
   name: 'ERIC KOSTON LOW',
@@ -1500,7 +1500,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'PAVEMENT GREY/NEUTRAL GREY-VIVID PINK',
   name: 'SKUNK DUNK',
@@ -1513,7 +1513,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'NEUTRAL GREY/GREEN SPARK-BLAC',
   name: 'LOON',
@@ -1526,7 +1526,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'NIGHTSHADE/DARKSLATE',
   name: 'BLUE LOBSTER',
@@ -1539,7 +1539,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'PAVEMENT GREY/NEUTRAL GREY-VIVID PINK',
   name: 'BRAIN WRECK',
@@ -1554,7 +1554,7 @@ The pair featured here was an early sample, featuring a lighter contrast Swoosh.
 
 Sneaker.create(
   brand: 'sb',
-  box: 'blue',
+  box: 'blue_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'YELLOW OCHRE/TERRA BROWN',
   name: 'YELLOW LOBSTER',
@@ -1568,7 +1568,7 @@ Sneaker.create(
 # gold box
 Sneaker.create(
   brand: 'sb',
-  box: 'gold',
+  box: 'gold_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'TAUPE/CHROME',
   name: 'FREDDY',
@@ -1581,7 +1581,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'gold',
+  box: 'gold_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/COLLEGE BLUE-CHROME-DEEP RED',
   name: 'WHAT THE DUNK',
@@ -1594,7 +1594,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'gold',
+  box: 'gold_box',
   shoe_type: 'DUNK MID PRO SB',
   official_colorway: 'BLACK/BLACK',
   name: 'SKATE MENTAL HEAVY METAL',
@@ -1607,7 +1607,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'gold',
+  box: 'gold_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'SPORT RED/PINK CLAY',
   name: 'RED LOBSTER',
@@ -1622,7 +1622,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'BLACK/WHITE-BLUE REEF',
   name: 'SEND HELP',
@@ -1635,7 +1635,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/BLACK-DEEP ORANGE',
   name: 'PELE/ HAWAII',
@@ -1648,7 +1648,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'SB BLAZER MID',
   official_colorway: 'BLACK/BLACK',
   name: 'SUPREME BLACK',
@@ -1661,7 +1661,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/MIDNIGHT NAVY-BLUE ICE',
   name: 'GOLF PACK BLUE',
@@ -1674,7 +1674,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'NET/MAIZE-BAROQUE BROWN',
   name: 'GOLF PACK BROWN',
@@ -1687,7 +1687,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/WHITE',
   name: 'WEIGER DUNK',
@@ -1700,7 +1700,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'SABLE GREEN/SAFETY ORANGE',
   name: 'BRIAN ANDERSON',
@@ -1713,7 +1713,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'SABLE GREEN/METALLIC COLD',
   name: 'SBTG',
@@ -1726,7 +1726,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'CHROME/CHROME-VARSITY RED',
   name: 'MORK AND MINDY',
@@ -1739,7 +1739,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/TEAM RED',
   name: 'ITALIAN COLLECTION',
@@ -1752,7 +1752,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/BLACK-TEAM RED',
   name: 'ITALIAN COLLECTION',
@@ -1765,7 +1765,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'LIGHT UMBER/GRASSHOPPER, WATERMELLON & HOT HOUSE',
   name: 'THREE BEARS PACK COLLECTION',
@@ -1778,7 +1778,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'ORANGE BLAZE/BLACK-WHITE',
   name: 'DÍA DE LOS MUERTOS',
@@ -1791,7 +1791,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK MID PRO SB',
   official_colorway: 'WHEAT/BRONZE',
   name: 'WHEAT MID',
@@ -1804,9 +1804,9 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK HIGH PRO SB',
-  official_colorway: 'METALLIC SILVER/METALLIC SILVER',
+  official_colorway: 'METALLIC SILVER/METALLIC SILVER_box',
   name: 'DINOSAUR JR.',
   image_url:
     'https://www.nikesb.com/assets/imager/uploads/product/1972/nikesb_dunk_dinosaurjr_77f75371139f336dadb232bb15e40d1b.jpg',
@@ -1817,7 +1817,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'ZOOM AIR',
   official_colorway: 'MIDNIGHT NAVY/WHITE',
   name: 'ABINGTON',
@@ -1830,7 +1830,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'GREY HEATHER/ GREY HEATHER',
   name: 'GREY HEATHER',
@@ -1843,7 +1843,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'SB BLAZER MID',
   official_colorway: 'WHITE/ORION BLUE',
   name: 'MILK CARTON',
@@ -1856,7 +1856,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'BLACK/BLACK-MIDNIGHT FOG',
   name: 'MF DOOM',
@@ -1869,7 +1869,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'black',
+  box: 'black_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'N/A',
   name: 'QUASIMOTO',
@@ -1883,7 +1883,7 @@ Sneaker.create(
 # pink box
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/BLUE/ORANGE',
   name: 'MEDICOM 1',
@@ -1896,7 +1896,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'BLACK/WHITE',
   name: 'D.U.N.K.L.E.',
@@ -1909,7 +1909,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/NEUTRAL GREY-BLACK',
   name: 'TIE-DYE',
@@ -1922,7 +1922,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'NATURAL BURLAP/ORANGE BLAZE',
   name: 'HUNTER',
@@ -1935,7 +1935,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/METALLIC GOLD-REDWOOD',
   name: 'SHANGHAI',
@@ -1948,7 +1948,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'AIR ZOOM',
   official_colorway: 'WHITE/SPORT ROYAL',
   name: 'ZOOM FC',
@@ -1961,7 +1961,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'MEDIUM GREY/BLACK DENIM',
   name: 'MEDICOM 2',
@@ -1974,7 +1974,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'SPORT ROYAL/SPORT ROYAL',
   name: 'T-19',
@@ -1987,7 +1987,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/ROYAL BLUE',
   name: 'J-PACK',
@@ -2000,7 +2000,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'ORANGE FLASH/BLACK-BLACK & BLACK-WHITE',
   name: 'RAYGUNS',
@@ -2013,7 +2013,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'MEDIUM GREY/WHITE-DARK GREY',
   name: 'PIGEON',
@@ -2026,7 +2026,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/CLASSIC GREEN',
   name: 'ST.PATRICK’S DAY',
@@ -2039,7 +2039,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/WHITE',
   name: 'CINCO DE MAYO',
@@ -2052,7 +2052,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'VARSITY ROYAL/LIGHTNING',
   name: 'BOCA JR.',
@@ -2065,7 +2065,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'SKY PINK/VANILLA',
   name: 'STÜSSY',
@@ -2078,7 +2078,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'AQUA/CHROME',
   name: 'DIAMOND DUNK',
@@ -2091,7 +2091,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/BLACK & DARK CHOCOLATE/BLACK',
   name: 'MELVINS',
@@ -2104,7 +2104,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'VANILLA/TRAILS END BROWN',
   name: 'SHANGHAI II',
@@ -2117,7 +2117,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'LIGHT LAUPE/BLACK',
   name: 'SLAM CITY',
@@ -2130,7 +2130,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'MULTIPLE',
   name: 'BTTYS',
@@ -2143,7 +2143,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/YELLOW',
   name: 'DE LA SOUL LOW',
@@ -2156,7 +2156,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'BAROQUE BROWN/ALTITUDE GREEN',
   name: 'DE LA SOUL HIGH',
@@ -2169,7 +2169,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/BLACK & MIDNIGHT NAVY',
   name: 'AVENGER PACK',
@@ -2184,7 +2184,7 @@ The pack was also released in a limited edition patent leather application in bo
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'PAUL RODRIGUEZ ZOOM AIR ELITE',
   official_colorway: 'STERLING/WHITE-BLACK-DEEP RED',
   name: 'J-ROD',
@@ -2197,7 +2197,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'SILVER/CHROME',
   name: 'MEDICOM 3',
@@ -2210,7 +2210,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/BLACK-BLACK',
   name: 'PUSHEAD',
@@ -2223,7 +2223,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'pink',
+  box: 'pink_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'N/A',
   name: 'ICHIRO SAMPLE',
@@ -2237,7 +2237,7 @@ Sneaker.create(
 # silver box
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'NIKE ZOOM AIR',
   official_colorway: 'GREY/TAN',
   name: 'URL',
@@ -2250,7 +2250,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'NIKE ZOOM AIR',
   official_colorway: 'BLACK, CHARCOAL-CHILE RED',
   name: 'E-CUE',
@@ -2263,7 +2263,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'CAMPER GREEN/BLACK-DEEP FOREST',
   name: 'TODD JORDAN',
@@ -2276,7 +2276,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'DARK CIDER/BISON-SPORT RED',
   name: 'BISON',
@@ -2289,7 +2289,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/WHITE/NIGHTSHADE-SHARK',
   name: 'FUTURA',
@@ -2302,7 +2302,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/WHITE/NIGHTSHADE-SHARK',
   name: 'FUTURA',
@@ -2314,7 +2314,7 @@ Sneaker.create(
 )
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/METALLIC GOLD-BLACK',
   name: 'TAKASHI',
@@ -2326,7 +2326,7 @@ Sneaker.create(
 )
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: ' ROPE/SPECIAL CARDINAL',
   name: 'PARIS',
@@ -2339,7 +2339,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: ' CLASSIC GREEN/BLACK-WHITE-RED',
   name: 'HEINEKEN',
@@ -2352,7 +2352,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/VARSITY RED, UNIVERSITY BLUE, COLLEGE ORANGE',
   name: 'SUPREME HIGH SERIES',
@@ -2365,7 +2365,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'NAVY/OUTDOOR GREEN-LIGHT CHOCOLATE',
   name: 'BARF',
@@ -2378,7 +2378,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/BLUE/MEAN GREEN/ SPORT RED',
   name: 'CHARITY',
@@ -2391,7 +2391,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/CLASSIC/GREEN/DEL SOL',
   name: 'BUCK',
@@ -2404,7 +2404,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'MUSLIN/MUSLIN',
   name: 'TOKYO',
@@ -2417,7 +2417,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHITE/WHITE-EL DORADO',
   name: 'FLOM',
@@ -2429,7 +2429,7 @@ Sneaker.create(
 )
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'JERSEY GOLD/RED MAHOGANY, BONSAI, CASCADE BLUE',
   name: 'HEMP PACK',
@@ -2442,7 +2442,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/MEDIUM YELLOW-UNIVERSITY BLUE',
   name: 'MEDIUM YELLOW',
@@ -2455,7 +2455,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'ICE GREEN/ SEA CRYSTAL',
   name: 'SEA CRYSTAL',
@@ -2468,7 +2468,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'KHAKI/BAROQUE BROWN-SAFARI',
   name: 'BAROQUE BROWN',
@@ -2481,7 +2481,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'SHALE/ SHALE',
   name: 'OUTDOOR SHALE',
@@ -2494,7 +2494,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/ BLACK',
   name: 'OUTDOOR BLACK',
@@ -2507,7 +2507,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'WHEAT/METALLIC GOLD',
   name: 'LUCKY',
@@ -2520,7 +2520,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'BLACK/BLACK',
   name: 'UNLUCKY',
@@ -2533,7 +2533,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'PECAN/WHITE',
   name: 'CALI',
@@ -2546,7 +2546,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BAROQUE BROWN/MUSHROOM & TWEED/BAROQUE BROWN',
   name: 'TWEED',
@@ -2559,7 +2559,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'silver',
+  box: 'silver_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'N/A',
   name: 'IRON MAIDEN',
@@ -2574,7 +2574,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'GREY/LIGHTNING',
   name: 'ALPHANUMERIC LIGHTNING',
@@ -2587,7 +2587,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'SAFETY ORANGE/HYPER BLUE-WHITE',
   name: 'SUPA',
@@ -2599,7 +2599,7 @@ Sneaker.create(
 )
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'OBSIDIAN/LIGHT GRAPHITE/OBSIDIAN',
   name: 'GINO',
@@ -2612,7 +2612,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/ORION BLUE-WHITE',
   name: 'MULDER',
@@ -2625,7 +2625,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHEAT/TWIG/DUNE',
   name: 'REESE',
@@ -2638,7 +2638,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'OBSIDIAN/OUTDOOR GREEN/PAUL BROWN',
   name: 'PAUL BROWN',
@@ -2651,7 +2651,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'ANTHRACITE/BLACK',
   name: 'CHOCOLATE',
@@ -2664,7 +2664,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'PAUL BROWN/BLACK',
   name: 'ZOO YORK',
@@ -2677,7 +2677,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'BLACK/BLACK CEMENT-GREY',
   name: 'SUPREME BLACK CEMENT',
@@ -2690,7 +2690,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'WHITE/BLACK CEMENT-GREY',
   name: 'SUPREME WHITE CEMENT',
@@ -2703,7 +2703,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK HIGH PRO SB',
   official_colorway: 'MAPLE/BISON-WHEAT',
   name: 'MAPLE',
@@ -2716,7 +2716,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'orange',
+  box: 'orange_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'DENIM/DENIM',
   name: 'REESE DENIM',
@@ -2730,7 +2730,7 @@ Sneaker.create(
 # PRE SB
 Sneaker.create(
   brand: 'sb',
-  box: 'PRE SB',
+  box: 'PRE_SB',
   shoe_type: 'NIKE',
   official_colorway: 'MIDNIGHT NAVY/WHITE BLACK',
   name: 'CHOAD',
@@ -2743,7 +2743,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'PRE SB',
+  box: 'PRE_SB',
   shoe_type: 'NIKE',
   official_colorway: 'BEIGE/WHITE/BLACK',
   name: 'SNAK',
@@ -2756,7 +2756,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'PRE SB',
+  box: 'PRE_SB',
   shoe_type: 'NIKE AIR',
   official_colorway: 'SMOKE/BLK-SMOKE',
   name: 'LIEN LO',
@@ -2769,7 +2769,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'PRE SB',
+  box: 'PRE_SB',
   shoe_type: 'NIKE ',
   official_colorway: 'BLACK/WHITE/TAN',
   name: 'TROG',
@@ -2782,7 +2782,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'PRE SB',
+  box: 'PRE_SB',
   shoe_type: 'NIKE ',
   official_colorway: 'BLUE/WHITE',
   name: 'SCHIMP',
@@ -2795,7 +2795,7 @@ Sneaker.create(
 
 Sneaker.create(
   brand: 'sb',
-  box: 'PRE SB',
+  box: 'PRE_SB',
   shoe_type: 'NIKE ZOOM ',
   official_colorway: 'BLACK/STEAM/BLACK',
   name: 'SCREAM',

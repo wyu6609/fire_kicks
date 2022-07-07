@@ -1,6 +1,7 @@
 import * as React from "react";
 import { Routes, Route } from "react-router-dom";
 import { styled, createTheme, ThemeProvider } from "@mui/material/styles";
+import Avatar from "@mui/material/Avatar";
 import CssBaseline from "@mui/material/CssBaseline";
 import MuiDrawer from "@mui/material/Drawer";
 import Box from "@mui/material/Box";
@@ -23,6 +24,7 @@ import Home from "../routes/Home";
 import Error from "../routes/Error";
 import NikeSB from "../routes/NikeSB";
 import AirJordan from "../routes/AirJordan";
+import SBCollection from "../routes/SBCollection";
 
 function Copyright(props) {
   return (
@@ -87,7 +89,12 @@ const Drawer = styled(MuiDrawer, {
   },
 }));
 
-const mdTheme = createTheme();
+const mdTheme = createTheme({
+  palette: { primary: { main: "#ffffff", light: "#fafafa" } },
+  typography: {
+    fontFamily: ["Anton", "sans-serif"].join(","),
+  },
+});
 
 function Dashboard({ handleLogoutClick, user }) {
   const [open, setOpen] = React.useState(true);
@@ -101,7 +108,7 @@ function Dashboard({ handleLogoutClick, user }) {
     <ThemeProvider theme={mdTheme}>
       <Box sx={{ display: "flex" }}>
         <CssBaseline />
-        <AppBar position="absolute" open={open}>
+        <AppBar position="absolute" open={open} elevation={3}>
           <Toolbar
             sx={{
               pr: "24px", // keep right padding when drawer closed
@@ -128,25 +135,47 @@ function Dashboard({ handleLogoutClick, user }) {
             >
               The Sneaker Vault
             </Typography>
+            sign out
             <IconButton color="inherit" onClick={handleLogoutClick}>
               <ExitToAppIcon />
             </IconButton>
           </Toolbar>
         </AppBar>
-        <Drawer variant="permanent" open={open}>
+        <Drawer variant="permanent" open={open} elevation={3}>
           <Toolbar
             sx={{
               display: "flex",
               alignItems: "center",
-              justifyContent: "flex-end",
+              justifyContent: "space-between",
               px: [1],
             }}
           >
+            <Avatar
+              alt="shoe icon"
+              src="/shoeboxes/purple_box.png"
+              align="center"
+            />
+            <Avatar
+              alt="shoe icon"
+              src="/shoeboxes/orange_box.png"
+              align="center"
+            />
+            <Avatar
+              alt="shoe icon"
+              src="/shoeboxes/pre_sb.png"
+              align="center"
+            />
+            <Avatar
+              alt="shoe icon"
+              src="/shoeboxes/limited_box.png"
+              align="center"
+            />
+
             <IconButton onClick={toggleDrawer}>
               <ChevronLeftIcon />
             </IconButton>
           </Toolbar>
-          <Divider />
+
           <List component="nav">
             {mainListItems}
             <Divider sx={{ my: 1 }} />
@@ -172,6 +201,7 @@ function Dashboard({ handleLogoutClick, user }) {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/nikesb" element={<NikeSB />} />
+              <Route path="nikesb/:boxera" element={<SBCollection />} />
               <Route path="/nikeairjordan" element={<AirJordan />} />
               <Route path="*" element={<Error />} />
             </Routes>

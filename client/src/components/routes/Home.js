@@ -19,7 +19,7 @@ const Home = () => {
         backgroundPosition: "center",
       }}
     >
-      <Container>Welcome to the Vault</Container>
+      <Container align="center">Welcome to the Vault</Container>
     </Box>
   );
 };
