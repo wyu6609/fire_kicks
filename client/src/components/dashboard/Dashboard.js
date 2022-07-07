@@ -155,10 +155,10 @@ function Dashboard({ handleLogoutClick, user }) {
         <Box
           component="main"
           sx={{
-            backgroundColor: (theme) =>
-              theme.palette.mode === "light"
-                ? theme.palette.grey[100]
-                : theme.palette.grey[900],
+            // backgroundColor: (theme) =>
+            //   theme.palette.mode === "light"
+            //     ? theme.palette.grey[100]
+            //     : theme.palette.grey[900],
             flexGrow: 1,
             height: "100vh",
             overflow: "auto",
@@ -167,14 +167,14 @@ function Dashboard({ handleLogoutClick, user }) {
           <Toolbar />
 
           {/* MAIN COMPONENTS */}
-          <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
+
+          <Container sx={{ mt: 4, mb: 4 }}>
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/nikesb" element={<NikeSB />} />
               <Route path="/nikeairjordan" element={<AirJordan />} />
               <Route path="*" element={<Error />} />
             </Routes>
-            <Copyright sx={{ pt: 4 }} />
           </Container>
         </Box>
       </Box>

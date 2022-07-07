@@ -66,7 +66,7 @@ function Login({ onLogin, fetchCartLength, fetchBots }) {
             }}
           >
             <Typography variant="h5" sx={{ display: { md: "none" } }}>
-              Dream.
+              The Sneaker Vault.
             </Typography>
             <Paper sx={{ mt: 10, elevation: 2 }}>
               {showLogin ? (

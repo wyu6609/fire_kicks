@@ -33,7 +33,7 @@ function SignIn({ onLogin, showLogin, setShowLogin }) {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
 
-    let username = data.get("username");
+    let username = data.get("username"); 
     let password = data.get("password");
 
     fetch("/login", {
