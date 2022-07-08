@@ -1679,9 +1679,9 @@ Sneaker.create(
   official_colorway: 'NET/MAIZE-BAROQUE BROWN',
   name: 'GOLF PACK BROWN',
   image_url:
-    'https://www.nikesb.com/assets/imager/uploads/product/2691/nikesb_dunk_golf_blue_77f75371139f336dadb232bb15e40d1b.jpg',
+    'https://www.nikesb.com/assets/imager/uploads/product/2693/nikesb_dunk_golf_brown_020d4294749750daa11b9b866154bc17.jpg',
   description:
-    'In and unpredictable flex, Nike SB swung outside of its comfort zone for the Golf Pack. Starting with the Nike Dunk Low Pro SB Golf Blue, they retooled the entire sneaker to reflect classic green aesthetics including argyle pattern, hole pattern detailing in baby blue and a removable lace flap. Proving that they were all-in on the unorthodox inspiration, SB also created a full line of golf/skate hybrid apparel to accompany the drop.',
+    'In and unpredictable flex, Nike SB swung outside of its comfort zone for the Golf Pack. For the Nike Dunk Low Pro SB Golf Brown, they retooled the entire sneaker to reflect classic green aesthetics including argyle pattern, hole pattern detailing in brown and a removable lace flap that reveals or conceals the hot pink lacing.',
   release_date: 'MAY 2006',
 )
 

@@ -113,6 +113,7 @@ function Dashboard({ handleLogoutClick, user }) {
             sx={{
               pr: "24px", // keep right padding when drawer closed
             }}
+            opacity={1}
           >
             <IconButton
               edge="start"
