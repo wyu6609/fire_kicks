@@ -30,7 +30,7 @@ const MainListItems = () => {
         <ListItemText primary="The Vault" />
       </ListItemButton>
       <ListItemButton
-        selected={location.pathname === "/nikesb" ? true : false}
+        selected={location.pathname.includes("/nikesb") ? true : false}
         component={Link}
         to="/nikesb"
       >
