@@ -19,7 +19,7 @@ import Link from "@mui/material/Link";
 import MenuIcon from "@mui/icons-material/Menu";
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
 import ExitToAppIcon from "@mui/icons-material/ExitToApp";
-import { mainListItems } from "./listItems";
+import MainListItems from "./listItems";
 import Home from "../routes/Home";
 import Error from "../routes/Error";
 import NikeSB from "../routes/NikeSB";
@@ -90,7 +90,7 @@ const Drawer = styled(MuiDrawer, {
 }));
 
 const mdTheme = createTheme({
-  palette: { primary: { main: "#ffffff", light: "#fafafa", dark: "" } },
+  palette: { primary: { main: "#808080", light: "#fafafa", dark: "black" } },
   typography: {
     fontFamily: ["Anton", "sans-serif"].join(","),
   },
@@ -177,7 +177,7 @@ function Dashboard({ handleLogoutClick, user }) {
           </Toolbar>
 
           <List component="nav">
-            {mainListItems}
+            <MainListItems />
             <Divider sx={{ my: 1 }} />
           </List>
         </Drawer>

@@ -1,4 +1,5 @@
 import * as React from "react";
+import { useLocation } from "react-router-dom";
 import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
@@ -12,42 +13,65 @@ import AssignmentIcon from "@mui/icons-material/Assignment";
 import Avatar from "@mui/material/Avatar";
 import { Link } from "react-router-dom";
 
-export const mainListItems = (
-  <React.Fragment>
-    <ListItemButton component={Link} to="/">
-      <ListItemIcon>
-        <DashboardIcon />
-      </ListItemIcon>
-      <ListItemText primary="The Vault" />
-    </ListItemButton>
-    <ListItemButton selected component={Link} to="/nikesb" selected={true}>
-      <ListItemIcon>
-        <Avatar
-          alt="shoe icon"
-          sz="sm"
-          src="/shoeboxes/nikesb.svg"
-          align="center"
-          sx={{ width: 35, height: 35 }}
-        />
-      </ListItemIcon>
-      <ListItemText primary="Nike SBs" />
-    </ListItemButton>
-    <ListItemButton component={Link} to="/nikeairjordan">
-      <ListItemIcon>
-        <Avatar
-          alt="shoe icon"
-          src="/shoeboxes/jordan.svg"
-          align="center"
-          sx={{ width: 35, height: 35 }}
-        />
-      </ListItemIcon>
-      <ListItemText primary="Nike Air Jordans" />
-    </ListItemButton>
-    <ListItemButton component={Link} to="/about">
-      <ListItemIcon>
-        <BarChartIcon />
-      </ListItemIcon>
-      <ListItemText primary="About" />
-    </ListItemButton>
-  </React.Fragment>
-);
+const MainListItems = () => {
+  const location = useLocation();
+
+  console.log(location.pathname);
+  return (
+    <>
+      <ListItemButton
+        selected={location.pathname === "/" ? true : false}
+        component={Link}
+        to="/"
+      >
+        <ListItemIcon>
+          <DashboardIcon />
+        </ListItemIcon>
+        <ListItemText primary="The Vault" />
+      </ListItemButton>
+      <ListItemButton
+        selected={location.pathname === "/nikesb" ? true : false}
+        component={Link}
+        to="/nikesb"
+      >
+        <ListItemIcon>
+          <Avatar
+            alt="shoe icon"
+            sz="sm"
+            src="/shoeboxes/nikesb.svg"
+            align="center"
+            sx={{ width: 35, height: 35 }}
+          />
+        </ListItemIcon>
+        <ListItemText primary="Nike SBs" />
+      </ListItemButton>
+      <ListItemButton
+        selected={location.pathname === "/nikeairjordan" ? true : false}
+        component={Link}
+        to="/nikeairjordan"
+      >
+        <ListItemIcon>
+          <Avatar
+            alt="shoe icon"
+            src="/shoeboxes/jordan.svg"
+            align="center"
+            sx={{ width: 35, height: 35 }}
+          />
+        </ListItemIcon>
+        <ListItemText primary="Nike Air Jordans" />
+      </ListItemButton>
+      <ListItemButton
+        selected={location.pathname === "/about" ? true : false}
+        component={Link}
+        to="/about"
+      >
+        <ListItemIcon>
+          <BarChartIcon />
+        </ListItemIcon>
+        <ListItemText primary="About" />
+      </ListItemButton>
+    </>
+  );
+};
+
+export default MainListItems;
