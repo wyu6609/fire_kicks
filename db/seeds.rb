@@ -1556,12 +1556,37 @@ Sneaker.create(
   brand: 'sb',
   box: 'blue_box',
   shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'CHLORINE BLUE/CERSIE',
+  name: 'MS. PACMAN',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/080509/1.jpg',
+  description:
+    'Inspired by the classic 1980s arcade game, the Dunk Low Premium SB "Ms. Pacman" features a colorful upper that gives the nod to the titular character. The shoe’s Chlorine and cerise colorway is modeled after Ms. Pac-Man, with yellow on the piping, stitching, branding and laces.
+
+',
+  release_date: 'MAY 2009',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue_box',
+  shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'YELLOW OCHRE/TERRA BROWN',
   name: 'YELLOW LOBSTER',
   image_url:
     'https://www.nikesb.com/assets/imager/uploads/product/1996/nikesb_dunk_concepts_lobster_yellow_77f75371139f336dadb232bb15e40d1b.jpg',
   description:
     'Your chances of pulling up a Maine lobster trap and finding a yellow lobster are roughly one in 40 million and while the odds are better of finding the Yellow Lobster Dunk Low Pro SB, they’re an equally rare anomaly. Fishing for the golden ochre and terra brown Lobsters is a plight as they weren’t offered to retail, with only friends and SB employees coming up all yellow on this limited release.',
+  release_date: 'JULY 2009',
+)
+Sneaker.create(
+  brand: 'sb',
+  box: 'blue_box',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'Black / Ozone',
+  name: 'MISS PIGGY',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/080523/1.jpg',
+  description:
+    'Hot on the heels of some previous Nike SB releases, the Nike SB Dunk High Premium inspiration in the always headstrong Miss Piggy.  The character from Jim Henson’s Muppets was easily identified by her curly blonde locks and usually wore pink clothing.  These shoes give the puppet her due, adding light pink and yellow accents to a dark brown base. ',
   release_date: 'JULY 2009',
 )
 
@@ -1609,13 +1634,44 @@ Sneaker.create(
   brand: 'sb',
   box: 'gold_box',
   shoe_type: 'DUNK LOW PRO SB',
-  official_colorway: 'SPORT RED/PINK CLAY',
-  name: 'RED LOBSTER',
-  image_url:
-    'https://www.nikesb.com/assets/imager/uploads/product/1989/nikesb_dunk_lobster_red_77f75371139f336dadb232bb15e40d1b.jpg',
+  official_colorway: 'BROWN ALE/BLUE',
+  name: 'NEWCASTLE BROWN ALE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/080409/1.jpg',
   description:
-    'New England tradition boiled down to a Dunk, the Red Lobster was symbolic of sneaker cultures arrival to Boston. Having been one of the city’s first true sneaker boutiques and original SB accounts, Concepts and Nike SB went into the red to recreate the hue, texture, and tone of the popular crustacean, down to the rubber band around the toe and bib-themed insole.',
+    'As the first shoe from Nike’s skateboarding line, the Dunk Low SB took the 80s basketball model and converted it into an iconic skater shoe. This version, the Dunk Low SB Premium "Newcastle Brown Ale" sneaker, revamped the silhouette with beer-inspired design. The June 2008 release is constructed of layered overlays that are dressed in colors that take cues from the UK ale manufacturer’s label, as well as the color of the brew.',
   release_date: 'JUNE 2008',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'gold_box',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'VANILLA/VRMLLN RED-BLACK FROST',
+  name: 'MOSQUITO',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/080456/1.jpg',
+  description:
+    'The Dunk Low Premium SB "Mosquito" features a unique mix of Vanilla leather and green suede on its upper, accented by a vermilion patent leather Swoosh. More vermilion appears on the inner lining, while the insole sports a mosquito graphic. The midsole features vibrant speckled detailing, giving way to a partially translucent outsole.
+
+.
+
+
+',
+  release_date: 'NOVEMBER 2008',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'gold_box',
+  shoe_type: 'DUNK HIGH PRO SB',
+  official_colorway: 'BLACK/WHITE',
+  name: 'VENOM',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/080742/1.jpg',
+  description:
+    'The Nike Dunk High Pro SB – Venom (Black / White) are inspired by one of Spider Man’s enemies from the Marvel Comics, Venom. Pinned as one of Spider Man’s rivals in the cartoon series, Venom is notorious for his black and white body, which is mimicked on this pair of Dunks. They sport a predominantly black colorway constructed from leather and suede along with white accents. Simplicity is definitely a highlight of the shoe, but it’s the story behind them that gets attention from fanatics.
+
+
+',
+  release_date: 'NOVEMBER 2008',
 )
 
 #black box
@@ -1735,6 +1791,20 @@ Sneaker.create(
   description:
     'A loving rendering of a television icon and comedic genius who shared a passion for sneaker culture. This Dunk High Premium SB outshined any shoe on the rack with its chrome Swoosh and mid panel, but its secret weapon was the translucent sole that revealed a Roy G Biv spectrum of color.',
   release_date: 'SEPTEMBER 2006',
+)
+
+Sneaker.create(
+  brand: 'sb',
+  box: 'black_box',
+  shoe_type: 'DUNK LOW PRO SB',
+  official_colorway: 'LIGHT GRAPHITE/PRISM VIOLET',
+  name: 'PURPLE PIGEON',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/080219/1.jpg',
+  description:
+    'The Dunk Low Pro SB "Purple Pigeon" features a look similar to the original "Pigeon" Dunk. The shoe’s Light Graphite upper matches the iconic look, but the Swoosh, heel patch and outsole are finished in Prism Violet.
+
+',
+  release_date: 'NOVEMBER 2006',
 )
 
 Sneaker.create(
@@ -2792,6 +2862,145 @@ Sneaker.create(
   description:
     'Like the Air Lien, the Nike Air Zoom Scream focused much of its design on the lacing system in an attempt to rethink the functionality of a skate shoe. Using asymmetry as a north star, the Zoom Scream was striking and forward-thinking but the choice to engineer the lacing system on the sidewall of the shoe was an immediate flaw, especially for street skating. Regardless of the execution, the Zoom Scream was inspired by the Shake Ndestrukt and still feels like a futuristic statement.',
   release_date: 'FEBRUARY 1997',
+)
+
+# air jordans
+
+# air jordan 1
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_1',
+  shoe_type: 'air_jordan_1_low ',
+  official_colorway: 'BLACK/MYSTIC/NAVY',
+  name: 'MYSTIC NAVY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/314143/1.jpg',
+  description:
+    'The Air Jordan 1 Retro Low OG "Mystic Navy" gets a colorway resembling another original from 1985. An all-leather upper features a black base with hits of contrasting dark navy on the toe box, heel counter and Swoosh. Mystic Blue can be found on the tongue tag on the NIKE AIR, while a black Wings logo is emblazoned on both heels of the shoe. A contrasting white midsole adds a hit of color, embedded with encapsulated Nike Air units for cushioning.',
+  release_date: 'JUNE 2022',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_1',
+  shoe_type: 'air_jordan_1_high ',
+  official_colorway: 'BLACK/WHITE/VARSITY RED',
+  name: 'PATENT BRED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/272669/1.jpg',
+  description:
+    'Built entirely with patent leather, the shoe’s upper appears in a familiar mix of black and Varsity Red, with perforations on the toe box offering breathability. Underfoot, a white Air midsole provides cushioning and contrast, giving way to a Varsity Red finish on the concentric rubber outsole, which is included for traction.',
+  release_date: 'DECEMBER 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_1',
+  shoe_type: 'air_jordan_1_high ',
+  official_colorway: 'DARK MARINA BLUE/BLACK/WHITE',
+  name: 'DARK MARINA BLUE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/280979/1.jpg',
+  description:
+    'Dressing the legendary silhouette in a classic two-tone color block is the Air Jordan 1 Retro High OG "Dark Marina Blue." The upper is all-leather and features a black base with contrasting dark blue overlays along the forefoot, heel, collar, and eyestay. A matching blue Swoosh is complemented by a Jordan Wings logo stamped in black on the lateral collar flap. A woven Nike Air tag on the nylon tongue gives the nod to the shoe’s retro cushioning technology, which is an Air-sole unit encapsulated in polyurethane nestled in the heel of the rubber cupsole.',
+  release_date: 'FEBRUARY 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_1',
+  shoe_type: 'air_jordan_1_high',
+  official_colorway: 'POLLEN/BLACK/WHITE',
+  name: 'POLLEN',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/248445/1.jpg',
+  description:
+    'Built with leather, the shoe’s upper appears with a black base, overlaid by contrasting Pollen, including on the Swoosh branding. A nylon tongue supports the fit, as doe perforations on the toe box. Underfoot, a white Air midsole offers cushioning, giving way to a concentric rubber outsole for traction.',
+  release_date: 'AUGUST 2021',
+)
+
+# air jordan 2
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_2',
+  shoe_type: 'air_jordan_2_high',
+  official_colorway: 'WHITE/PURPLE',
+  name: 'AIRNESS',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/298151/1.jpg',
+  description:
+    'Reuniting the Atlanta-based retailer with Jordan Brand for their third collaboration is the A Ma Maniére x Air Jordan 2 Retro SP "Airness". The new take on the AJ2 showcases an off-white cracked leather upper with burgundy piping and a translucent heel counter extending into the midfoot.',
+  release_date: 'JUNE 2022',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_2',
+  shoe_type: 'air_jordan_2_high',
+  official_colorway: 'WHITE/VARSITY MAIZE-UNIVERSITY BLUE',
+  name: 'MELO',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/804100/1.jpg',
+  description:
+    'Jordan Brand published an Air Jordan 2 in White, Varsity Maize and University Blue for Carmelo Anthony, a retail version of a PE that he wore at the tail end of his debut year with the Denver Nuggets in 2004. Jordan retrofitted the Air Jordan 2 "Melo" in May 2018 to mark Melo’s upper is built with white leather, accented by red throughout, including on the piping and heel overalys time in Denver, returning the Nuggets colorway and adding "Melo" branding to the insole.',
+  release_date: 'JUNE 2018',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_2',
+  shoe_type: 'air_jordan_2_low',
+  official_colorway: 'WHITE/VARSITY RED/BLACK',
+  name: 'WHITE VARSITY RED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/274090/1.jpg',
+  description:
+    'Modeled after the OG "White/Varsity Red" colorway, the shoe’s upper is built with white leather, accented by red throughout, including on the piping and heel overaly. A plastic zip tie, medial-side Helvetica text and an exposed-foam tongue and collar add signature Abloh touches, with Michael Jordan’s signature marking the lateral side. Underfoot, a pre-yellowed midsole with a crumbling aesthetic supports the fit, giving way to a two-tone rubber outsole for traction.
+',
+  release_date: 'NOVEMBER 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_2',
+  shoe_type: 'air_jordan_2_low',
+  official_colorway: 'BLACK/VARSITY ROYAL',
+  name: 'BLACK VARSITY ROYAL',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/274091/1.jpg',
+  description:
+    'The shoe’s low-top construction is built with black leather on the upper, with the usual basketball-textured overlay appearing in tonal fashion. Royal blue accents the look, with exposed-foam marking the tongue, while a plastic zip tie, Helvetica text on the medial side and "SHOELACES" on the laces bring signature Abloh features to the look. Underfoot, the midsole includes a crumbling aesthetic.',
+  release_date: 'NOVEMBER 2021',
+)
+
+# air jordan 3
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_3',
+  shoe_type: 'air_jordan_3_high',
+  official_colorway: 'BLACK/VARSITY RED/CEMENT GREY',
+  name: 'CEMENT',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/011502/1.jpg',
+  description:
+    'The Air Jordan 3 "Black Cement" was originally released as one of the four OG colorways in 1988 and saw several retro releases in 1994, 2001 and 2008 as part of the Air Air Jordan 20/3 Collezione (Countdown) Pack. This release in 2011 is part of commemorating the Air Jordan 3’s 23rd anniversary. This version has the Jumpman logo on the tongue and heel segment, which is a non-OG retro release.',
+  release_date: 'NOVEMBER 2011',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_3',
+  shoe_type: 'air_jordan_3_high',
+  official_colorway: 'WHITE/TRUE BLUE',
+  name: 'TRUE BLUE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011391/1.jpg',
+  description:
+    'The 2011 edition of the Air Jordan 3 Retro "True Blue" celebrates the 23rd anniversary of the classic silhouette. The release is mostly true to the original, highlighted by a tumbled white leather upper with True Blue accents and grey elephant-print overlays along the toe, heel and eyestay. A red Jumpman on the tongue is matched by a second Jumpman icon on the heel, in lieu of the OG Nike Air branding.',
+  release_date: 'NOVEMBER 2011',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_3',
+  shoe_type: 'air_jordan_3_high',
+  official_colorway: 'WHITE/LIGHT CURRY/CARDINAL RED/CEMENT GRAY',
+  name: 'CARDINAL RED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/296230/1.jpg',
+  description:
+    'The Air Jordan 3 Retro "Cardinal Red" features a palette inspired by an iconic colorway of the Air Jordan 7. The sneaker pairs a white tumbled leather upper with Cardinal Red accents on the collar lining, molded eyelets and raised Jumpman branding at the heel. A Jumpman logo embroidered in orange appears on the tongue, with signature elephant print overlays positioned on the forefoot and heel. A two-tone polyurethane midsole with visible Air arrives underfoot.',
+  release_date: 'FEBRUARY 2022',
 )
 
 puts 'seeding completed!'
