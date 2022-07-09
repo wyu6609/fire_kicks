@@ -19,6 +19,13 @@ Rails.application.routes.draw do
   get '/purple_box', to: 'sneakers#purple_box'
   get '/limited_box', to: 'sneakers#limited_box'
 
+  get '/airjordan_1', to: 'sneakers#airjordan_1'
+  get '/airjordan_2', to: 'sneakers#airjordan_2'
+  get '/airjordan_3', to: 'sneakers#airjordan_3'
+  get '/airjordan_4', to: 'sneakers#airjordan_4'
+  get '/airjordan_5', to: 'sneakers#airjordan_5'
+  get '/airjordan_6', to: 'sneakers#airjordan_6'
+
   # Routing logic: fallback requests for React Router.
   # Leave this here to help deploy your app later!
   get '*path',

@@ -25,6 +25,7 @@ import Error from "../routes/Error";
 import NikeSB from "../routes/NikeSB";
 import AirJordan from "../routes/AirJordan";
 import SBCollection from "../routes/SBCollection";
+import AirJordanCollection from "../routes/AirJordanCollection";
 
 function Copyright(props) {
   return (
@@ -203,7 +204,12 @@ function Dashboard({ handleLogoutClick, user }) {
               <Route path="/" element={<Home />} />
               <Route path="/nikesb" element={<NikeSB />} />
               <Route path="nikesb/:boxera" element={<SBCollection />} />
+
               <Route path="/nikeairjordan" element={<AirJordan />} />
+              <Route
+                path="/nikeairjordan/:jordanedition"
+                element={<AirJordanCollection />}
+              />
               <Route path="*" element={<Error />} />
             </Routes>
           </Container>

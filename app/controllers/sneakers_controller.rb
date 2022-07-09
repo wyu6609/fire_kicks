@@ -4,6 +4,7 @@ class SneakersController < ApplicationController
     render json: sneakers
   end
 
+  # NIKE SB ROUTES
   def pre_sb
     pre_sb = Sneaker.all.select { |shoe| shoe.box == 'PRE_SB' }
     render json: pre_sb
@@ -62,5 +63,37 @@ class SneakersController < ApplicationController
   def limited_box
     limited_box = Sneaker.all.select { |shoe| shoe.box == 'limited_box' }
     render json: limited_box
+  end
+
+  # JORDANS
+  # JORDAN RETRO 1 ROUTE
+
+  def airjordan_1
+    airjordan_1 = Sneaker.all.select { |shoe| shoe.box == 'air_jordan_1' }
+    render json: airjordan_1
+  end
+  def airjordan_2
+    airjordan_2 = Sneaker.all.select { |shoe| shoe.box == 'air_jordan_2' }
+    render json: airjordan_2
+  end
+
+  def airjordan_3
+    airjordan_3 = Sneaker.all.select { |shoe| shoe.box == 'air_jordan_3' }
+    render json: airjordan_3
+  end
+
+  def airjordan_4
+    airjordan_4 = Sneaker.all.select { |shoe| shoe.box == 'air_jordan_4' }
+    render json: airjordan_4
+  end
+
+  def airjordan_5
+    airjordan_5 = Sneaker.all.select { |shoe| shoe.box == 'air_jordan_5' }
+    render json: airjordan_5
+  end
+
+  def airjordan_6
+    airjordan_6 = Sneaker.all.select { |shoe| shoe.box == 'air_jordan_6' }
+    render json: airjordan_6
   end
 end

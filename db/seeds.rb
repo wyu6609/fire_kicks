@@ -2882,6 +2882,18 @@ Sneaker.create(
 Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_1',
+  shoe_type: 'air_jordan_1_low ',
+  official_colorway: 'GYM RED/BLACK/WHITE',
+  name: 'BRED TOE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/287044/1.jpg',
+  description:
+    'This low-top features an all-leather upper with white quarter panels, a black forefoot overlay, a crimson toe box, and a matching red finish on the collar and heel overlay with a stitched Wings logo. The tongue is black nylon and has Jumpman branding in white. It’s built on a rubber cupsole with crisp white sidewalls with a red rubber outsole.',
+  release_date: 'DECEMBER 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_1',
   shoe_type: 'air_jordan_1_high ',
   official_colorway: 'BLACK/WHITE/VARSITY RED',
   name: 'PATENT BRED',
@@ -2915,6 +2927,30 @@ Sneaker.create(
   release_date: 'AUGUST 2021',
 )
 
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_1',
+  shoe_type: 'air_jordan_1_high',
+  official_colorway: 'BLACK/WHITE/PARTICLE GREY',
+  name: 'REBELLIONAIRE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/287518/1.jpg',
+  description:
+    'Drawing back to when Michael Jordan received a $5,000 fine each time the rookie wore his signature black and red shoes on the court, which violated the NBA’s uniform dress code at the time is the Air Jordan 1 High OG "Rebellionaire."',
+  release_date: 'MARCH 2022',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_1',
+  shoe_type: 'air_jordan_1_high',
+  official_colorway: 'BLACK/WHITE/PARTICLE GREY',
+  name: 'VISIONAIRE',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/315824/1.jpg',
+  description:
+    'A white leather base is accented with black laces, Wings logo and Swoosh, while Volt pops across the forefoot overlays, heel and ankle area. A white midsole and black outsole complete the look.',
+  release_date: 'JUNE 2022',
+)
+
 # air jordan 2
 
 Sneaker.create(
@@ -2938,6 +2974,18 @@ Sneaker.create(
   image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/804100/1.jpg',
   description:
     'Jordan Brand published an Air Jordan 2 in White, Varsity Maize and University Blue for Carmelo Anthony, a retail version of a PE that he wore at the tail end of his debut year with the Denver Nuggets in 2004. Jordan retrofitted the Air Jordan 2 "Melo" in May 2018 to mark Melo’s upper is built with white leather, accented by red throughout, including on the piping and heel overalys time in Denver, returning the Nuggets colorway and adding "Melo" branding to the insole.',
+  release_date: 'JUNE 2018',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_2',
+  shoe_type: 'air_jordan_2_high',
+  official_colorway: 'WHITE/BLACK-COOL GREY',
+  name: 'WING IT',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012392/1.jpg',
+  description:
+    'Inspired by the original ad campaign that accompanied the launch of the shoe, the Air Jordan 2 Retro ‘Wing It’ showcases the luxurious aesthetic that helped the mid-top stand out on store shelves. A prominent reptile texture is used throughout the leather upper, while the white and black color scheme reflects an iconic print ad, its ‘Wing It’ tagline inscribed across the heel of each shoe.',
   release_date: 'JUNE 2018',
 )
 
@@ -3001,6 +3049,249 @@ Sneaker.create(
   description:
     'The Air Jordan 3 Retro "Cardinal Red" features a palette inspired by an iconic colorway of the Air Jordan 7. The sneaker pairs a white tumbled leather upper with Cardinal Red accents on the collar lining, molded eyelets and raised Jumpman branding at the heel. A Jumpman logo embroidered in orange appears on the tongue, with signature elephant print overlays positioned on the forefoot and heel. A two-tone polyurethane midsole with visible Air arrives underfoot.',
   release_date: 'FEBRUARY 2022',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_3',
+  shoe_type: 'air_jordan_3_high',
+  official_colorway: 'VARSITY RED/CEMENT GREY/BLACK/VARSITY RED',
+  name: 'UNITE - CHI EXCLUSIVE',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/164668/1.jpg',
+  description:
+    'The Air Jordan 3 Retro LE "Chicago All-Star" released as part of Nike’s NBA All-Star 2020 collection, dropping exclusively in Chicago. As a result, the shoe’s heel sports "NIKE CHI" branding. The shoe otherwise remains true to its general-release counterpart, with a Fire Red tumbled leather upper complemented by elephant print on the toe and heel. Visible Air in the heel provides the usual cushioning.',
+  release_date: 'FEBRUARY 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_3',
+  shoe_type: 'air_jordan_3_high',
+  official_colorway: 'VARSITY ROYAL/VARSITY ROYAL',
+  name: 'VARSITY ROYAL',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/185663/1.jpg',
+  description:
+    'The Air Jordan 3 Retro "Varsity Royal" features an OG-inspired look to that draws from Michael Jordan’s college days. The upper is built with tumbled leather, finished in Varsity Royal and complemented by grey and elephant print panels. Underfoot, the white midsole houses visible Air in the heel for cushioning, with a tricolor rubber outsole providing traction.',
+  release_date: 'JUNE 2020',
+)
+
+# AIR JORDAN 4
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_4',
+  shoe_type: 'air_jordan_4',
+  official_colorway: 'DARK GREY/INFARED 23/BLACK/CEMENT GREY',
+  name: 'INFRARED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/296982/1.jpg',
+  description:
+    'Bringing back color blocking similar to the 2013 release of the "Green Glow" AJ4 is the Air Jordan 4 Retro "Infrared." The upper is made from smooth nubuck in a charcoal finish. A lighter shade of grey is on the forefoot overlay with black accents on the quarter panel netting, structural wings, and Jumpman-branded heel tab. The titular hue lights up the woven tongue tag and molded eyelets. It’s built on a polyurethane midsole with visible Air-sole cushioning in the heel.',
+  release_date: 'JUNE 2022',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_4',
+  shoe_type: 'air_jordan_4',
+  official_colorway: 'TOUR YELLOW/MULTI-COLOR/DARK BLUE GREY',
+  name: 'LIGHTNING',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/248963/1.jpg',
+  description:
+    'Bringing back a 2006 colorway, which released alongside the "Thunder," the Air Jordan 4 Retro "Lightning" 2021 features inspiration from Michael Jordans motorsports team. The shoe’s upper is built with nubuck, finished in Tour Yellow and contrasted by the mesh netting and signature wings. Underfoot, a white PU midsole houses visible Air in the heel to provide cushioning, giving way to a herringbone rubber outsole for traction.',
+  release_date: 'AUGUST 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_4',
+  shoe_type: 'air_jordan_4',
+  official_colorway: 'TAUPE HAZE/OIL GREY/OFF WHITE/INFARED 23',
+  name: 'TAUPE HAZE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/254034/1.jpg',
+  description:
+    'The shoe’s upper is built with a mix of textured suede and cracked leather, finished in Taupe Haze and contrasted by the laces, wings and heel overlay. Infrared 23 highlights the tongue branding and inside of the tongue, while underfoot, a two-tone midsole houses visible Air in the heel for cushioning, with encapsulated Air in the forefoot. A rubber outsole is included for traction. The usual mesh inserts at the quarter panel and vamp complete the classic look.',
+  release_date: 'FEBRUARY 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_4',
+  shoe_type: 'air_jordan_4',
+  official_colorway: 'WHITE/NEUTRAL GREY/BLACK/BORDEAUX',
+  name: 'COOL GREY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/165633/1.jpg',
+  description:
+    'Featuring color-blocking modeled after the "Fire Red," the shoe’s white leather upper includes Bordeaux hits on the eyelets, inner tongue and heel. The heel itself sports Jumpman and PSG branding, while Paname appears on the lateral forefoot tag. Visible Air in the heel provides cushioning.',
+  release_date: 'OCTOBER 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_4',
+  shoe_type: 'air_jordan_4',
+  official_colorway: 'WHITE/BLACK/TECH GREY/FIRE RED',
+  name: 'FIRE RED',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/178193/1.jpg',
+  description:
+    'The shoe’s upper is built with white leather, accented by hits of Fire Red throughout, including the signature eyelets. Underfoot, the midsole houses visible Air in the heel for cushioning, while a Nike Air logo on the heel completes the throwback look.',
+  release_date: 'OCTOBER 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_4',
+  shoe_type: 'air_jordan_4',
+  official_colorway: 'COOL GREY/ CHROME-DARK CHARCOAL',
+  name: 'COOL GREY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/146425/1.jpg',
+  description:
+    'The shoe’s nubuck upper appears in Cool Grey, with Dark Charcoal providing a complement on the signature eyelets. The tongue sports a Flight tag with a hit of Varsity Maize, while underfoot, a white midsole houses a visible Air unit in the heel. The rubber outsole underfoot includes a herringbone traction pattern.',
+  release_date: 'AUGUST 2019',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_4',
+  shoe_type: 'air_jordan_4',
+  official_colorway: 'BLACK/CEMENT GREY-SUMMIT WHITE-FIRE RED',
+  name: 'BRED',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/139813/1.jpg',
+  description:
+    'Featuring the same OG colorway that Michael Jordan wore while hitting "The Shot" in 1989, the shoe features a black nubuck upper complemented by hits of Cement Grey. Fire Red accents emerge on the tongue and outsole, while Air in the heel provides cushioning.',
+  release_date: 'MAY 2019',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_4',
+  shoe_type: 'air_jordan_4',
+  official_colorway: 'WHITE/METALLIC SILVER',
+  name: 'PURE MONEY',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/800836/1.jpg',
+  description:
+    'A May 2017 release, the Air Jordan 4 Retro BG "Pure Money" brings the classic minimalist colorway to boys’ and girls’ sizes. Featuring a white leather upper with mesh vents along the side wall, metallic silver on the eyelets and Jumpman branding bring subtle color. "Pure $" is embroidered inside the heel tab.',
+  release_date: 'MAY 2017',
+)
+
+# AIR JORDAN 5
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_5',
+  shoe_type: 'air_jordan_5',
+  official_colorway: 'BLACK/NEW EMERALD-GRAPE ICE',
+  name: 'BLACK GRAPE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011767/1.jpg',
+  description:
+    'The design features an upper black nubuck with accents of New Emerald and Grape Ice. The sneaker also comes with an icy blue translucent outsole, which was released in June 2013.',
+  release_date: 'JUNE 2013',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_5',
+  shoe_type: 'air_jordan_5',
+  official_colorway: 'BLACK/NEW EMERALD-GRAPE ICE',
+  name: 'GRAPE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011744/1.jpg',
+  description:
+    'The reissue features a design that’s mostly true to the original, though Jumpman branding replaces the traditional Nike Air heel embroidery. The shoe’s unique purple and teal accents are complemented by signature Jordan 5 details, including lace locks and a translucent rubber outsole.',
+  release_date: 'MAY 2013',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_5',
+  shoe_type: 'air_jordan_5',
+  official_colorway: 'LIGHT GRAPHITE/WHITE/WOLF GREY',
+  name: 'WOLF GREY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011366/1.jpg',
+  description:
+    'The shoe features a black nubuck upper thats accented by 3M reflective detailing on the tongue, with translucent inserts on the quarter panel for breathability. The signature shark tooth detailing appears in speckled silver, with Fire Red bringing color to the tongue Jumpman, lace toggle and "Air Jordan" inside the tongue. The "23" on the heel, finished in metallic silver, adds a touch not seen on the OG.',
+  release_date: 'MAY 2011',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_5',
+  shoe_type: 'air_jordan_5',
+  official_colorway: 'WHITE/FIRE RED-BLACK',
+  name: 'FIRE RED',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/800836/1.jpg',
+  description:
+    'A retro of an OG 1990 colorway, the Air Jordan 5 Retro "Fire Red" 2006 features Fire Red prominently on the midsole and inner lining. The shark-tooth detailing adds contrast in black, as does the tongue. Both colors come together on the "23" on the ankle, while the white leather upper includes mesh inserts for breathability.',
+  release_date: 'DECEMBER 2006',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_5',
+  shoe_type: 'air_jordan_5',
+  official_colorway: 'BLACK/METALLIC SILVER-FIRE RED',
+  name: 'METALLIC',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010516/1.jpg',
+  description:
+    'The shoe features a black nubuck upper thats accented by 3M reflective detailing on the tongue, with translucent inserts on the quarter panel for breathability. The signature shark tooth detailing appears in speckled silver, with Fire Red bringing color to the tongue Jumpman, lace toggle and "Air Jordan" inside the tongue. The "23" on the heel, finished in metallic silver, adds a touch not seen on the OG.',
+  release_date: 'DECEMBER 2007',
+)
+
+# AIRJORDAN 6
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_6',
+  shoe_type: 'air_jordan_6',
+  official_colorway: 'BLACK/VARSITY RED',
+  name: 'VARSITY RED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011109/1.jpg',
+  description:
+    'Released in January 2010, a black suede bottom, Nike Air unit and translucent white outsole are also included in the sneaker.',
+  release_date: 'JANUARY 2010',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_6',
+  shoe_type: 'air_jordan_6',
+  official_colorway: 'WHITE/VARSITY RED',
+  name: 'BULLS',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011203/1.jpg',
+  description:
+    'The iconic Jordan Brand color stands out on the midsole, branding and heel loop, while the white premium leather upper has perforations down both sides for breathability. The black and translucent outsole with a red Jumpman further mirrors the ‘Infrared’ look.',
+  release_date: 'JUNE 2010',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_6',
+  shoe_type: 'air_jordan_6',
+  official_colorway: 'WHITE/BLACK',
+  name: 'OREO',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011135/1.jpg',
+  description:
+    'The rest of the shoe is built with a black nubuck upper and white leather overlays. Air in the heel provides cushioning, and the outsole includes translucent inserts.',
+  release_date: 'MARCH 2010',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_6',
+  shoe_type: 'air_jordan_6',
+  official_colorway: 'BLACK/METALLIC GOLD',
+  name: 'DEFINING MOMENTS',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/148219/1.jpg',
+  description:
+    'Built with nubuck, the upper appears primarily in black, accented by metallic gold. A lace lock supports the fit, as does a cushioned ankle and perforations throughout. Underfoot, the midsole houses visible Zoom Air in the heel for cushioning.
+',
+  release_date: 'APRIL 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_6',
+  shoe_type: 'air_jordan_6',
+  official_colorway: 'BLACK/LIGHT GRPAHITE/DARK GREY/BORDEAUX',
+  name: 'BORDEAUX',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/148219/1.jpg',
+  description:
+    'Built with nubuck, the shoe’s upper appears in a mix of grey and black, highlighted by a translucent tongue with a multicolor print. The throat and molded heel pull-loop add Bordeaux to the design, while perforations throughout and a lace toggle support the fit. Underfoot, visible Air in the heel of the midsole provides cushioning.',
+  release_date: 'SEPTEMBER 2021',
 )
 
 puts 'seeding completed!'
