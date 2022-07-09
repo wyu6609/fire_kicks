@@ -212,7 +212,7 @@ const AirJordan = () => {
           onClick={() => {
             console.log("routechange");
           }}
-          sx={{ width: 400, height: 400 }}
+          sx={{ width: 450, height: 450, marginRight: 10 }}
         />
       </Grid>
     );

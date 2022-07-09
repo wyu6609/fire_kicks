@@ -1,5 +1,5 @@
 .box_image:hover {
-  transform: translate3D(0, -1px, 0) scale(1.07);
+  transform: translate3D(0, -1px, 0) scale(1.1);
 
   transition: all 0.4s ease;
 }
