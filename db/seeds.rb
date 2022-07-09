@@ -3214,7 +3214,7 @@ Sneaker.create(
   shoe_type: 'air_jordan_5',
   official_colorway: 'WHITE/FIRE RED-BLACK',
   name: 'FIRE RED',
-  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/800836/1.jpg',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010390/1.jpg',
   description:
     'A retro of an OG 1990 colorway, the Air Jordan 5 Retro "Fire Red" 2006 features Fire Red prominently on the midsole and inner lining. The shark-tooth detailing adds contrast in black, as does the tongue. Both colors come together on the "23" on the ankle, while the white leather upper includes mesh inserts for breathability.',
   release_date: 'DECEMBER 2006',
@@ -3286,7 +3286,7 @@ Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_6',
   shoe_type: 'air_jordan_6',
-  official_colorway: 'BLACK/LIGHT GRPAHITE/DARK GREY/BORDEAUX',
+  official_colorway: 'BLACK/LIGHT GRAPHITE/DARK GREY/BORDEAUX',
   name: 'BORDEAUX',
   image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/148219/1.jpg',
   description:
