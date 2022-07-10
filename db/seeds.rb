@@ -2529,7 +2529,7 @@ Sneaker.create(
   box: 'silver_box',
   shoe_type: 'DUNK LOW PRO SB',
   official_colorway: 'KHAKI/BAROQUE BROWN-SAFARI',
-  name: 'BAROQUE BROWN',
+  name: 'JEDI',
   image_url:
     'https://www.nikesb.com/assets/imager/uploads/product/1440/nikesb_dunk_jedi_77f75371139f336dadb232bb15e40d1b.jpg',
   description:
