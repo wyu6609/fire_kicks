@@ -3294,4 +3294,304 @@ Sneaker.create(
   release_date: 'SEPTEMBER 2021',
 )
 
+#airjordan7
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_7',
+  shoe_type: 'air_jordan_7',
+  official_colorway: 'BLACK/LIGHT GRAPHITE/BORDEAUX',
+  name: 'BORDEAUX',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011348/1.jpg',
+  description:
+    'Worn during the 1992 NBA All-Star Game by Michael Jordan, the "Bordeaux" was also worn in Jordan"s appearance in Michael Jackson"s music video for "Jam." The sneaker features a suede upper black and light graphite with Bordeaux accents and a midsole of light graphite.',
+  release_date: 'APRIL 2011',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_7',
+  shoe_type: 'air_jordan_7',
+  official_colorway: 'BLACK/DARK CHARCOAL-TRUE RED',
+  name: 'RAPTOR',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/010042/1.jpg',
+  description:
+    'The 2002 edition of the Air Jordan 7 ‘Raptor’ brings back the silhouette’s distinctive OG colorway, worn by Michael Jordan a decade prior when he secured his second NBA championship. The reissue is mostly true to the original, though the newer pair swaps out traditional flat laces with oval laces. Additionally, the jagged red and purple detailing on the midsole is rendered with an extra glossy sheen.',
+  release_date: 'DECEMBER 2012',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_7',
+  shoe_type: 'air_jordan_7',
+  official_colorway: 'WHITE/METALLIC GOLD/OBSIDIAN/RED',
+  name: 'OLYMPIC',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011596/1.jpg',
+  description:
+    'The design features an upper white and metal silver with accents from Obsidian, metallic gold, and True Red. The sneaker released in July 2012 and also includes the Olympic Jersey number "9" on the heel. The "Olympic" originally released in 2004 and also dropped in a 2016 "Tinker Alternate" colorway combining a white / navy upper with a sprinkled midsole.',
+  release_date: 'JULY 2012',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_7',
+  shoe_type: 'air_jordan_7',
+  official_colorway: 'WHITE/METALLIC SILVER-PURE PLATINUM',
+  name: 'PURE MONEY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/800924/1.jpg',
+  description:
+    'The Air Jordan 7 Retro "Pure Money" emerges in the iconic subdued colorway, featuring a white tumbled leather upper complemented by Pure Platinum suede panels. Both colors also appear on the signature midsole detailing, while the branding adds a touch of metallic silver.',
+  release_date: 'JUNE 2017',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_7',
+  shoe_type: 'air_jordan_7',
+  official_colorway: 'WHITE/FLINT GREY/BLACK/VARSITY PURPLE',
+  name: 'FLINT',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/193203/1.jpg',
+  description:
+    'Originally released in 2006, the Air Jordan 7 Retro "Flint" 2021 brings back the largely neutral look with this May 2021 drop. The shoe‘s upper is built with a suede base, finished in Flint Grey and overlaid by contrasting white tumbled leather. The branding adds Varsity Purple to the design, while perforations throughout are included for breathability. Underfoot, the polyurethane midsole houses Air in the heel for cushioning, with a rubber outsole offering traction.',
+  release_date: 'MAY 2021',
+)
+
+#airjordan 8
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_8',
+  shoe_type: 'air_jordan_8',
+  official_colorway: 'WHITE/BLACK-TRUE RED',
+  name: 'BUGS BUNNY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010049/1.jpg',
+  description:
+    'The 2003 edition of the Air Jordan 8 Retro ‘Bugs Bunny’ brings back one of the shoe’s OG colorways, featured in Nike’s classic TV ads from the early ‘90s starring Michael Jordan and Bugs Bunny. Arriving on the silhouette’s 10th anniversary, the reissue is true to the original, featuring a white leather upper with contrasting red and grey accents on the chenille tongue patch and heel overlay.',
+  release_date: 'MARCH 2003',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_8',
+  shoe_type: 'air_jordan_8',
+  official_colorway: 'BLACK/BRIGHT CONCORD/AQUATONE',
+  name: 'AQUA',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/010615/1.jpg',
+  description:
+    'This 2007 grade-school edition of the Air Jordan 8 ‘Aqua’ is mostly true to the shoe’s original 1993 release, highlighted by a black nubuck nubuck upper accented with colorful paint-stroke designs on the midsole and a fuzzy chenille Jumpman patch on the tongue. The shoe’s signature cross-strap design works with the interior bootie construction to deliver a lock-down fit.',
+  release_date: 'SEPTEMBER 2007',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_8',
+  shoe_type: 'air_jordan_8',
+  official_colorway: 'BLACK/CHROME',
+  name: 'CHROME',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012347/1.jpg',
+  description:
+    'Best known for being worn by Kobe Bryant during the 2003 playoffs, the Air Jordan 8 Retro "Chrome" 2015 was retroed in 2015 as part of Nike‘s Holiday 2015 collection. The all-black upper emerges in smooth and perforated nubuck, with chrome on the buckle of the ankle strap. The midsole shank and midsole sport more complementary grey and silver.',
+  release_date: 'DECEMBER 2015',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_8',
+  shoe_type: 'air_jordan_8',
+  official_colorway: 'BLACK/GYM RED-BLACK-WOLF GREY',
+  name: 'BRED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/801785/1.jpg',
+  description:
+    '"The Bred" Air Jordan 8 Retro features a black leather and a Wolf Grey midsole nubuck upper. The "Bred" released in September 2017 and also features Gym Red accents on the tongue, insole, and outsole.',
+  release_date: 'SEPTEMBER 2017',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_8',
+  shoe_type: 'air_jordan_8',
+  official_colorway: 'BLACK/LIGHTCONCORD-ALOE VERDE-UNIVERSITY RED-ORANGE PEEL',
+  name: 'TINKER - AIR RAID',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/806024/1.jpg',
+  description:
+    'The Air Jordan 8 Retro ‘Tinker - Air Raid’ debuted in December 2018 as part of a comprehensive Nike ‘Icons’ collection, composed of retro Jordan models influenced by classic Nikes created by Tinker Hatfield. Constructed with a blend of black mesh and nubuck, this Air Jordan 8 employs the same complex multicolor prints from a ‘90s outdoor basketball shoe with similar criss-cross closure, the Air Raid 2.',
+  release_date: 'DECEMBER 2018',
+)
+
+#AIRJORDAN 9
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_9',
+  shoe_type: 'air_jordan_9',
+  official_colorway: 'BLACK/VARSITY RED/DARK CHARCOAL',
+  name: 'CHARCOAL',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011236/1.jpg',
+  description:
+    'The black and grey upper appears on a suede and nubuck build, highlighted by hits of Varsity Red on the branding and lining. The mesh tongue provides breathability, while Air in the midsole provides cushioning. The signature outsole includes another hit of Varsity Red via the Jumpman at the heel.',
+  release_date: 'SEPTEMBER 2010',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_9',
+  shoe_type: 'air_jordan_9',
+  official_colorway: 'ANTHRACITE/WHITE-BLACK',
+  name: 'ANTHRACITE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012285/1.jpg',
+  description:
+    'The Air Jordan 9 Retro ‘Anthracite’ features a muted anthracite nubuck upper and the six white lace eyelets found on the original Air Jordan 9 - and resembles the Air Jordan 9 Retro ‘Oregon Ducks’ player exclusives received by Oregon University football players during their 2001 BCS Bowl season.',
+  release_date: 'SEPTEMBER 2015',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_9',
+  shoe_type: 'air_jordan_9',
+  official_colorway: 'WHITE/TRUE RED-BLACK',
+  name: 'SPACE JAM',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012591/1.jpg',
+  description:
+    'The look recreates the shoes that were taken from Michael Jordan’s house by Daffy Duck and Bugs Bunny in the film, which Jordan later wore during the film’s training montage. The black and white design is accented by True Red on the branding, most notably on the heel. ',
+  release_date: 'DECEMBER 2016',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_9',
+  shoe_type: 'air_jordan_9',
+  official_colorway: 'WHITE/BLACK/UNIVERSITY BLUE',
+  name: 'UNIVERSITY BLUE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/178266/1.jpg',
+  description:
+    'Inspired by the 90s, the Air Jordan 9 Retro "University Blue" features a look similar to an Orlando Magic PE worn by Nick Anderson and Penny Hardaway. ',
+  release_date: 'DECEMBER 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_9',
+  shoe_type: 'air_jordan_9',
+  official_colorway: 'BLACK/DARK CHARCOAL/UNIVERSITY GOLD',
+  name: 'DARK CHARCOAL UNIVERSITY GOLD',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/249077/1.jpg',
+  description:
+    'The Air Jordan 9 Retro ‘Dark Charcoal University Gold’ brings a neutral look to the classic silhouette. The shoe’s upper is built with nubuck, finished in black and Dark Charcoal and highlighted by University Gold on the collar lining, branding and heel pull-loop. The latter provides easy on and off, while underfoot, Air in the midsole provides cushioning. A multilingual pattern on the outsole is included for traction.',
+  release_date: 'JANUARY 2021',
+)
+
+#AIRJORDAN 10
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_10',
+  shoe_type: 'air_jordan_10',
+  official_colorway: 'white/varsity red-light steel grey',
+  name: 'DARK CHARCOAL UNIVERSITY GOLD',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010225/1.jpg',
+  description:
+    'This classic Air Jordan 10 colorway was released in September 2005. It has a traditionally easy white leather top, while Varsity Red is highlighted by the collar, tongue and back tab with the hits of Light Steel Gray on the piping and eyelets. The color combination remains underneath where the two-tone sole is decorated with the list of achievements of Michael Jordan.',
+  release_date: 'SEPTEMBER 2005',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_10',
+  shoe_type: 'air_jordan_10',
+  official_colorway: 'WHITE/VARISTY RED/BLACK',
+  name: 'CHICAGO',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011523/1.jpg',
+  description:
+    'The 2012 edition of the Air Jordan 10 Retro "Chicago" brings back the silhouette’s OG colorway from 1995. The build is mostly true to the original, featuring a white tumbled leather upper with contrasting black hits on the collar, tongue and midsole. Underfoot, the rubber outsole is rendered in black with red stripes, the latter element inscribed with some of Michael’s early career highlights.',
+  release_date: 'JANUARY 2012',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_10',
+  shoe_type: 'air_jordan_10',
+  official_colorway: 'WHITE/OLD ROYAL-STEALTH',
+  name: 'OLD ROYAL',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011539/1.jpg',
+  description:
+    'The Air Jordan 10 Retro TXT ‘Old Royal’ showcases color blocking reminiscent of the silhouette’s OG releases, though the shoe features a crucial detail that sets it apart. As the ‘TXT’ in the shoe’s name suggests, royal blue textile is used on the collar and throat, accented with neutral grey on the lace loops. The same two-tone blend of royal blue and grey is applied to the rubber outsole.',
+  release_date: 'FEBRUARY 2012',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_10',
+  shoe_type: 'air_jordan_10',
+  official_colorway: 'WHITE/BLACK-GRAY VARSITY RED',
+  name: 'STEEL',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011818/1.jpg',
+  description:
+    'An October 2013 release, the Air Jordan 10 Retro "Steel" 2013 is a retro of an OG 1994 colorway. Featuring a white tumbled leather upper, contrasting black on the eyestay and collar is complemented by Steel Grey accents. The outsole, with its signature bars that highlight Michael Jordan’s early career achievements, also features a mix of black and Steel Grey.',
+  release_date: 'OCTOBER 2013',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_10',
+  shoe_type: 'air_jordan_10',
+  official_colorway: 'WHITE/DK POWDER BLUE-BLACK',
+  name: 'POWDER BLUE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011872/1.jpg',
+  description:
+    'The Air Jordan 10 Retro ‘Powder Blue’ 2014 recreates an OG 1994 look, with a black and white tumbled leather upper highlighted by a Dark Powder Blue lining. The non-Chicago Bulls colorway, which released after Michael Jordan’s first retirement, also has an outsole that serves as a tribute to Jordan’s early career, with Dark Powder Blue on its striped design.',
+  release_date: 'FEBRUARY 2014',
+)
+
+#AIRJORDAN 11
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_11',
+  shoe_type: 'air_jordan_11',
+  official_colorway: 'BLACK/VARSITY ROYAL-WHITE',
+  name: 'SPACE JAM',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011085/1.jpg',
+  description:
+    'The 2009 reissue of the Air Jordan 11 Retro "Space Jam" brings back the iconic shoe worn by Michael Jordan in the 1996 film of the same name. Representing one of the first sneakers to bridge the divide between sports and pop culture, the mid-top features an all-black upper built with a combination of ballistic mesh and shiny patent leather. The design is finished with a blue Jumpman on the lateral collar.',
+  release_date: 'DECEMBER 2009',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_11',
+  shoe_type: 'air_jordan_11',
+  official_colorway: 'BLACK/VARSITY RED-WHITE',
+  name: 'BRED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011663/1.jpg',
+  description:
+    'Featuring a black mesh upper supported by black patent leather overlays, the Varsity Red outsole and Jumpman branding bring color to the design. A white midsole holds a carbon fiber shank plate for added stability while also completing the familiar colorway.',
+  release_date: 'DECEMBER 2012',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_11',
+  shoe_type: 'air_jordan_11',
+  official_colorway: 'GYM RED/BLACK-WHITE',
+  name: 'WIN LIKE ‘96‘',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/802269/1.jpg',
+  description:
+    'The historical significance of the Air Jordan 11 Retro "Win Like 96" will be abundantly apparent to Chicago Bulls fans. In 1996, the Bulls capped off the regular season with a record-breaking 72 victories on their way to a fourth NBA title. During that magical run, Michael wore the Jordan 11, and this release in December 2017, dressed in a brilliant red shade, honors the ‘96 squad that couldn‘t lose',
+  release_date: 'DECEMBER 2017',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_11',
+  shoe_type: 'air_jordan_11',
+  official_colorway: 'BLACK/BLACK-BLACK',
+  name: 'CAP AND GOWN',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/803947/1.jpg',
+  description:
+    'The name relates to its official look, intended for occasions like graduation ceremonies — its laces are even influenced by graduation cords. The all-black model features on top of an icy blue outsole a patent leather and premium nubuck upper.',
+  release_date: 'MAY 2018',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_11',
+  shoe_type: 'air_jordan_11',
+  official_colorway: 'WHITE/BLACK-DARK CONCORD',
+  name: 'CONCORD',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/805882/1.jpg',
+  description:
+    'The 2018 version of the Air Jordan 11 Retro ‘Concord’ shows off ‘45’ imprinted on the black heel tab in honor of the jersey number that Michael Jordan wore when he returned to the NBA after his first retirement. The shoe’s other signature details remain intact, including a white ballistic mesh upper, black patent leather overlays, and an icy translucent outsole.',
+  release_date: 'DECEMBER 2018',
+)
 puts 'seeding completed!'
