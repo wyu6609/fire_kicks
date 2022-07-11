@@ -3594,4 +3594,17 @@ Sneaker.create(
     'The 2018 version of the Air Jordan 11 Retro ‘Concord’ shows off ‘45’ imprinted on the black heel tab in honor of the jersey number that Michael Jordan wore when he returned to the NBA after his first retirement. The shoe’s other signature details remain intact, including a white ballistic mesh upper, black patent leather overlays, and an icy translucent outsole.',
   release_date: 'DECEMBER 2018',
 )
+
+# airjordan 12
+# airjordan 13
+# airjordan 14
+# airjordan 15
+# airjordan 16
+# airjordan 17
+# airjordan 18
+# airjordan 19
+# airjordan 20
+# airjordan 21
+# airjordan 22
+# airjordan 23
 puts 'seeding completed!'
