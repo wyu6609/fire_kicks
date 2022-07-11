@@ -29,7 +29,12 @@ Rails.application.routes.draw do
   get '/airjordan_8', to: 'sneakers#airjordan_8'
   get '/airjordan_9', to: 'sneakers#airjordan_9'
   get '/airjordan_10', to: 'sneakers#airjordan_10'
+
   get '/airjordan_11', to: 'sneakers#airjordan_11'
+  get '/airjordan_12', to: 'sneakers#airjordan_12'
+  get '/airjordan_13', to: 'sneakers#airjordan_13'
+  get '/airjordan_14', to: 'sneakers#airjordan_14'
+  get '/airjordan_15', to: 'sneakers#airjordan_15'
 
   # Routing logic: fallback requests for React Router.
   # Leave this here to help deploy your app later!
