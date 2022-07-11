@@ -3596,9 +3596,282 @@ Sneaker.create(
 )
 
 # airjordan 12
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_12',
+  shoe_type: 'air_jordan_12',
+  official_colorway: 'BLACK/WHITE-UNIVERSITY BLUE',
+  name: 'NUBUCK',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011001/1.jpg',
+  description:
+    'The 2009 edition of the Air Jordan 12 Retro "Nubuck" brings back a historically significant colorway from 2003, as the shoe dropped in November of that year as Jordan Brand’s first ever online exclusive. As the name suggests, the mid-top features monochromatic black coloring on a soft nubuck build, complemented by matching black overlays and subtle Carolina Blue accents throughout the upper.',
+  release_date: 'MAY 2009',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_12',
+  shoe_type: 'air_jordan_12',
+  official_colorway: 'BLACK/VARSITY RED',
+  name: 'FLU GAME',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011113/1.jpg',
+  description:
+    'The Air Jordan 12 Retro "Flu Game" 2009 pays tribute to the famous Flu Game, in which Michael Jordan scored 38 points to lead the Chicago Bulls to victory in Game 5 of the 1997 NBA Finals despite battling flu-like symptoms. The shoe is not an exact replica of the model he wore during the game, with a black suede upper contrasted by a Varsity Red mudguard and outsole. A sick-face icon appears on the tongue as well as the heel, the latter of which also sports "97" and "38."',
+  release_date: 'NOVEMBER 2009',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_12',
+  shoe_type: 'air_jordan_12',
+  official_colorway: 'OLIVE CANVAS/SAIL-BLACK-METALLIC GOLD',
+  name: 'CLASS OF 2003',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/804621/1.jpg',
+  description:
+    'The design is mostly identical to the original, featuring a stitched white leather upper with contrasting hits of Varsity Red on the mudguard and midsole. The kicks are finished with metallic silver eyelets, ’23’ on the heel and a Jumpman logo embroidered in black atop the tongue.',
+  release_date: 'DECEMBER 2009',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_12',
+  shoe_type: 'air_jordan_12',
+  official_colorway: 'BORDEAUX/METALLIC SILVER-WHITE',
+  name: 'BORDEAUX',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/802153/1.jpg',
+  description:
+    'First launched on the Air Jordan 7, Jordan Brand provides it’s rich burgundy hue on the Air Jordan 12. A nubuck and suede upper are created more luxurious at the mudguard with a faux caviar leather effect, while Sail components offer some relief to the monochromatic design.',
+  release_date: 'OCTOBER 2017',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_12',
+  shoe_type: 'air_jordan_12',
+  official_colorway: 'WHITE/BLACK-VARSITY RED',
+  name: 'CHERRY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011139/1.jpg',
+  description:
+    'Originally debuting in 1997, this re-release maintains the classic look with a tumbled white leather finish on its Rising Sun Flag upper. Metallic eyelets support the fit, while the signature basketball-textured mudguard appears in Varsity Red. The Varsity Red look continues down onto the Zoom Air midsole, which houses a carbon fiber plate for stability. A heel pull-loop is included for easy on and off.',
+  release_date: 'JULY 2019',
+)
+
 # airjordan 13
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_13',
+  shoe_type: 'air_jordan_13',
+  official_colorway: 'BLACK/TRUE RED',
+  name: 'BRED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010198/1.jpg',
+  description:
+    'The Air Jordan 13 Retro GS "Bred" 2004 features the OG "Bred" look that debuted in 1997. The True Red heel is complemented by a black forefoot and quilted overlays, a combination that continues onto the panther’s paw-inspired sole unit. The holographic eye on the ankle adds the only hit of contrasting color.',
+  release_date: 'DECEMBER 2004',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_13',
+  shoe_type: 'air_jordan_13',
+  official_colorway: 'FRENCH BLUE/UNIVERSITY BLUE/FLINT GREY',
+  name: 'FLINT',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010090/1.jpg',
+  description:
+    'The Air Jordan 13 Retro "Flint" 2005 brought back 1998’s "Flint" colorway for the first time. The shoe’s quilted upper overlays sport a slightly lighter blue than the OG model, while it maintains the reflective paneling, white leather toe, grey suede midsole and signature hologram logo.',
+  release_date: 'APRIL 2005',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_13',
+  shoe_type: 'air_jordan_13',
+  official_colorway: 'BLACK/UNIVERSITY RED/ UNIVERSITY GOLD',
+  name: 'MELO CLASS OF 2002',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/166536/1.jpg',
+  description:
+    'This Pre-School version of the Air Jordan 13 Retro "Melo Class of 2002" shoe takes colors from Carmelo Anthony’s high school, Oak Hill Academy. The uppers feature black leather and nylon as well as a yellow suede finish on the heel. Signature Melo elements include "Class of 2002" and his personal logo on the insole for a finishing touch.',
+  release_date: 'SEPTEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_13',
+  shoe_type: 'air_jordan_13',
+  official_colorway: 'BLACK/BLACK/BLACK',
+  name: 'CAP AND GOWN',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/140951/1.jpg',
+  description:
+    'The shoe’s monochromatic colorway includes patent leather overlays on its suede base. Underfoot, the panther’s paw tooling incorporates Zoom Air for cushioning and a carbon fiber plate for stability. Up top, the signature hologram logo has also been blacked out.
+
+',
+  release_date: 'APRIL 2019',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_13',
+  shoe_type: 'air_jordan_13',
+  official_colorway: 'BLACK/WHITE/GYM RED',
+  name: 'REVERSE HE GOT GAME',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/158905/1.jpg',
+  description:
+    'The Air Jordan 13 Retro "ReveS
+    
+    rse He Got Game" takes a colorway drawn from Spike Lee’s 1998 film and flips the color blocking. The shoe’s upper sports black on the toe and tumbled leather overlays, with white on the midfoot and heel. A hologram logo adds color to the look, while underfoot, the panther’s-paw midsole houses Air for cushioning.',
+  release_date: 'JANUARY 2020',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_13',
+  shoe_type: 'air_jordan_13',
+  official_colorway: 'BLACK/BLACK/WHITE/HYPER ROYAL',
+  name: 'HYPER ROYAL',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/178252/1.jpg',
+  description:
+    'Recalling Quentin Richardson’s Orlando Magic PE from 2012, the Air Jordan 13 Retro "Hyper Royal" features a rich colorway. Built with black tumbled leather, the upper includes Hyper Royal suede, with reflective mesh overlays accenting the look. A hologram logo marks the ankle, while underfoot, the panther’s-paw tooling includes a herringbone outsole for traction.',
+  release_date: 'DECEMBER 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_13',
+  shoe_type: 'air_jordan_13',
+  official_colorway: 'GYM RED/FLINT/GREY/WHITE/BLACK',
+  name: 'RED FLINT',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/259104/1.jpg',
+  description:
+    'Released in May 2021, the Air Jordan 13 Retro "Red Flint" features a look inspired by the 1998 "Flint" colorway. The shoe’s upper is defined by the Gym Red accents on the inside of the tongue, collar lining and reflective mesh overlays, replacing the blue of the OG look. The upper itself is built with a white leather base, overlaid by Flint Grey synthetic suede and sporting the usual hologram logo on the ankle. Underfoot, a panther’s-paw outsole provides traction.',
+  release_date: 'MAY 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_13',
+  shoe_type: 'air_jordan_13',
+  official_colorway: 'WHITE/OBSIDIAN/DARK POWDER BLUE',
+  name: 'OBISIDIAN',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/203296/1.jpg',
+  description:
+    'The shoe’s upper includes an Obsidian base, overlaid by tumbled white leather and accented by a hologram logo on the ankle. The tongue includes a Dark Powder Blue Jumpman in embroidered fashion, matched underfoot by the herringbone rubber outsole that provides traction. Air in the midsole offers cushioning.',
+  release_date: 'SEPTEMBER 2021',
+)
 # airjordan 14
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_14',
+  shoe_type: 'air_jordan_14',
+  official_colorway: 'BLACK/VIBRANT YELLOW/WHITE',
+  name: 'THUNDER',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011962/1.jpg',
+  description:
+    'After having no releases the year before, the Air Jordan 14 Retro "Thunder" was one of four Air Jordan colorways to drop in 2014. Inspired by the design of the Air Jordan 4 "Thunder," the black suede upper sports Vibrant Yellow accents on the heel and Jumpman badge, with the color also making its way to the midsole.',
+  release_date: 'JULY 2014',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_14',
+  shoe_type: 'air_jordan_14',
+  official_colorway: 'CHALLENGE RED/BLACK/VIBRANT YELLOW/ANTHRACITE',
+  name: 'FERRARI',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/011994/1.jpg',
+  description:
+    'The Air Jordan 14 Retro ‘Ferrari’ amplifies the silhouette’s vehicular inspiration with a luxurious suede upper in a rich Challenge Red hue. Carbon fiber detailing and a yellow Jumpman badge play up the shoe’s likeness to Michael Jordan’s Ferrari 550 Maranello. The low-top kicks are finished with a chrome shank plate and additional pops of yellow atop the tongue and heel panel.',
+  release_date: 'SEPTEMBER 2014',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_14',
+  shoe_type: 'air_jordan_14',
+  official_colorway: 'UNIVERSITY GOLD/BLACK/UNIVERSITY RED',
+  name: 'REVERSE FERRARI',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/138353/1.jpg',
+  description:
+    'The Air Jordan 14 Retro "Reverse Ferrari" brings a sports car-inspired look to the sports car-inspired silhouette. The shoe’s leather upper takes on Ferrari’s signature mix of red and yellow, but its features the yellow more predemoninantly. University Red hits accent the tongue and heel branding, while the usual Jumpman badge remains intact. Underfoot, a tire-inspired midsole includes Zoom Air units for cushioning, giving way to a herringbone traction pattern on the outsole.',
+  release_date: 'JUNE 2019',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_14',
+  shoe_type: 'air_jordan_14',
+  official_colorway: 'BLACK/WHITE/OFF WHITE/ GYM RED',
+  name: 'GYM RED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/175030/1.jpg',
+  description:
+    'The last shoe that Michael Jordan wore on the court, the upper is built with suede, finished in Gym Red and overlaid by black on the toe. Underfoot, the contrasting white midsole houses Zoom Air and a shank plate for cushioning and stability, giving way to a herringbone outsole.',
+  release_date: 'JUNE 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_14',
+  shoe_type: 'air_jordan_14',
+  official_colorway: 'WHITE/HYPER ROYAL/BLACK',
+  name: 'HYPER ROYAL',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/153660/1.jpg',
+  description:
+    'Released in September 2020, the Air Jordan 14 Retro "Hyper Royal" features a look with color-blocking modeled after a 1998 OG model. Built with smooth and tumbled leather in white, the tongue and heel sport hits of Hyper Royal, matched underfoot by the detailing on the midsole. A carbon fiber shank plate provides support underfoot.',
+  release_date: 'SEPTEMBER 2020',
+)
 # airjordan 15
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_15',
+  shoe_type: 'air_jordan_15',
+  official_colorway: 'BLACK/METALLIC GOLD/WHITE',
+  name: 'LASER',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010624/1.jpg',
+  description:
+    'The Air Jordan 15, inspired by the X-15 fighter jet, features an unconventional design, highlighted by a protruding tongue that peaks above a Kevlar woven top. This mostly black colorway from 2007 adds laser-etched designs to the white leather overlays that depict the outsoles of different Jordan models. Subtle branding on the Pebax heel counter takes the form of an integrated Jumpman logo.',
+  release_date: 'DECEMBER 2007',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_15',
+  shoe_type: 'air_jordan_15',
+  official_colorway: 'BLACK/VARSITY RED',
+  name: 'COUNTDOWN PACK',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010862/1.jpg',
+  description:
+    'This Air Jordan 15 Retro is drawn from the 2008 Countdown Pack, which also included the OG Air Jordan 8 colorway in white, black and True Red. The first Air Jordan model that would never be worn on court by His Airness, the Jordan 15 arrives in a Chicago-inspired black and red design. Unique details include a woven Kevlar aramid fiber upper and a protruding tongue inspired by MJ himself.',
+  release_date: 'NOVEMBER 2008',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_15',
+  shoe_type: 'air_jordan_15',
+  official_colorway: 'BLACK/VARSITY RED/ANTHRACITE',
+  name: 'STEALTH',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/800188/1.jpg',
+  description:
+    'The Air Jordan 15 Retro "Stealth" 2017 puts a blacked-out colorway on a silhouette inspired by the X-15 fighter jet. The full-grain leather upper features a woven crosshatch pattern, with the signature protruding tongue worked tonally into the build. Supported by a Pebax heel counter, the heel strip emerges in Varsity Red.',
+  release_date: 'JANUARY 2017',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_15',
+  shoe_type: 'air_jordan_15',
+  official_colorway: 'OBSIDIAN/WHITE/METALLIC SILVER',
+  name: 'OBSIDIAN',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/800538/1.jpg',
+  description:
+    'The Air Jordan 15 Retro "Obsidian" 2017 features a dark Obsidian throughout its woven Kevlar upper, with white contrast on the heel and protruding tongue. The split color-blocking continues down onto the midsole, which, unlike the OG model, only houses Zoom Air in the heel.
+
+',
+  release_date: 'MARCH 2017',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_15',
+  shoe_type: 'air_jordan_15',
+  official_colorway: 'BLACK/METALLIC GOLD/WHITE',
+  name: 'DOERNBECHER',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/806234/1.jpg',
+  description:
+    'The Air Jordan 15 "Doernbecher" is the only Jordan model from the 2018 Freestyle Collection. Donovon Dineen, the young designer, played on the influence of his favorite anime, resulting in a black suede upper embossed with a subdued dragon-scale pattern. Shimmering gold highlights on the heel and interior tongue display Donovon’s birthdate and the Japanese character for protection, respectively.',
+  release_date: 'DECEMBER 2018',
+)
 # airjordan 16
 # airjordan 17
 # airjordan 18
