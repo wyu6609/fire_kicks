@@ -3873,6 +3873,63 @@ Sneaker.create(
   release_date: 'DECEMBER 2018',
 )
 # airjordan 16
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_16',
+  shoe_type: 'air_jordan_16',
+  official_colorway: 'WHISPER/CHERRYWOOD/LIGHT GRAPHITE',
+  name: 'CHERRYWOOD',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010265/1.jpg',
+  description:
+    'The Air Jordan 16 + Q M "Cherrywood" launched in 2001 as one of the silhouette’s OG colorways. Designed by Wilson Smith, who took over the creative reins from Tinker Hatfield, the mid-top is distinguished by its detachable magnetic shroud, rendered on this pair in grey suede. Underneath, a breathable grey mesh upper is complemented by white leather paneling and Cherrywood accents.',
+  release_date: 'JUNE 2001',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_16',
+  shoe_type: 'air_jordan_16',
+  official_colorway: 'LIGHT GINGER/DARK CHARCOAL/WHITE',
+  name: 'GINGER',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012586/1.jpg',
+  description:
+    'Dropping in 2001 as one of the silhouette’s OG colorways, the Air Jordan 16 + "Ginger" debuted on the feet of MJ himself, who wore the kicks in a pre-season game with the Wizards that same year. The shoe sets itself apart with a fully suede upper, including the removable shroud finished in the same Light Ginger hue. The color reappears in the mid-top’s visible Air sole unit.',
+  release_date: 'NOVEMBER 2001',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_16',
+  shoe_type: 'air_jordan_16',
+  official_colorway: 'FRENCH BLUE/FRENCH BLUE',
+  name: 'FRENCH BLUE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012586/1.jpg',
+  description:
+    'The second collaboration between Miami retailer Trophy Room and Jordan Brand, the Trophy Room x Air Jordan 16 Retro "French Blue" emerges with a luxe construction that features a French Blue upper in a mix of patent and tumbled leather. Covered by a shroud on the laces, the fit is supported by a Phylon midsole with blow-molded Air and Nike Zoom cushioning. Launched by DJ Khaled, the shoe was limited to 5,000 pairs and sold at pop-up at Tier Nightclub as well as trophyroomstore.com.',
+  release_date: 'NOVEMBER 2016',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_16',
+  shoe_type: 'air_jordan_16',
+  official_colorway: 'WHITE/MIDNIGHT NAVY',
+  name: 'MIDNIGHT NAVY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012600/1.jpg',
+  description:
+    'The Air Jordan 16 "Midnight Navy" hit shops in 2001, combining components from previous Air Jordans with the purpose of on-court and off-court wear. The distinctive shroud inspired by spats from the 19th century serves as a stylish streetwear component, while the combination of Zoom Air and Nike Air cushioning makes the court wear comfortable. The Air Jordan 16 "Midnight Navy" would not see its first retro until 2016 after its release in 2001. The design features Jordan branding consisting of seventeen dots and dashes as a call-out to the Air Jordan 16’s position in the Jordan legacy.',
+  release_date: 'DECEMBER 2016',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_16',
+  shoe_type: 'air_jordan_16',
+  official_colorway: 'BLACK/METALLIC SILVER/TURBO GREEN',
+  name: 'CEO',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/802434/1.jpg',
+  description:
+    'Michael Jordan purchased a majority interest in the Charlotte Bobcats in 2010, becoming the first former player to acquire an NBA franchise. The team became the Charlotte Hornets again in 2014, with the team in mind designing the Air Jordan 16 Retro "CEO." Hits of teal and purple accentuate the black top, while iridescent details give a shine. Every pair is numbered separately behind the tongue, limited to 2,300 pairs.',
+  release_date: 'OCTOBER 2017',
+)
 # airjordan 17
 # airjordan 18
 # airjordan 19
