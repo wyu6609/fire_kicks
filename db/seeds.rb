@@ -4050,8 +4050,298 @@ Sneaker.create(
   release_date: 'OCTOBER 2018',
 )
 # airjordan 19
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_19',
+  shoe_type: 'air_jordan_19',
+  official_colorway: 'BLACK/CHROME/VARSITY RED',
+  name: 'BRED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010110/1.jpg',
+  description:
+    'The shoe‘s signature feature is the Techflex lacing shroud modeled after a venemous African snake. A hook-and-loop strap supports the fit, while patent leather emerges on the toe box. The tonal tooling includes full-length Zoom Air and double-stacked Zoom Air in the heel, with a modified herringbone pattern for traction. The Varsity Red hits are limited to the outsole and lining.',
+  release_date: 'MAY 2004',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_19',
+  shoe_type: 'air_jordan_19',
+  official_colorway: 'WHITE/CHROME/FLINT GREY',
+  name: 'EAST COAST',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010113/1.jpg',
+  description:
+    'The final OG Regional Release from 2004, the Air Jordan 19 "East Coast" features a distinctive Midnight Navy patent leather overlay that extends from the silhouette’s signature sheath onto the toe. A braided sleeve replaces the laces, while a Phylon midsole with double-stacked Zoom Air in the heel and full-length Zoom Air throughout provides cushioning underfoot.',
+  release_date: 'JULY 2004',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_19',
+  shoe_type: 'air_jordan_19',
+  official_colorway: 'BLACK/BLACK/METALLIC GOLD/WHITE',
+  name: 'WEST COAST',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010109/1.jpg',
+  description:
+    'An OG regional release from 2004, the Air Jordan 19 "West Coast" features a premium white leather upper that’s sharply contrasted by the silhouette’s signature sheath, finished entirely in black patent leather that extends to the toe. A braided sleeve is included in lieu of laces, while a Phylon midsole with double-stacked Zoom Air in the heel and full-length Zoom Air underfoot provides cushioning.',
+  release_date: 'JULY 2004',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_19',
+  shoe_type: 'air_jordan_19',
+  official_colorway: 'WHITE/METALLIC SILVER/VARSITY RED',
+  name: 'MIDWEST',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010111/1.jpg',
+  description:
+    'A regional release alongside East and West colorways, the Air Jordan 19 "Midwest" features red patent leather on the toe and outlining the signature Techflex overlay. The rest of the upper appears in white leather, with a double-stacked Zoom Air unit in the heel and a full-length Zoom Air unit underfoot providing cushioning.',
+  release_date: 'JULY 2004',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_19',
+  shoe_type: 'air_jordan_19',
+  official_colorway: 'WHITE/CHROME/FLINT GREY',
+  name: 'FLINT',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/806427/1.jpg',
+  description:
+    'The 2019 edition of the Air Jordan 19 Retro ‘Flint Grey’ brings back one of the silhouette’s OG colorways from 2004. 15 years later, the shoe is still unique, highlighted by patent leather construction and a Tech-Flex lace cover inspired by a fencer’s mask. The sleek mid-top rests on a matching white phylon midsole, fitted with a Zoom Air unit for lightweight cushioning.',
+  release_date: 'JANUARY 2019',
+)
+
 # airjordan 20
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_20',
+  shoe_type: 'air_jordan_20',
+  official_colorway: 'BLACK/STEALTH/VARSITY RED',
+  name: 'WHITE VARSITY RED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010119/1.jpg',
+  description:
+    'The Air Jordan 20 OG ‘White Varsity Red’ released as a tribute to 20 years of Jordan Brand. The shoe’s unique midfoot lace closure is covered in icons that represent Michael Jordan’s career, while the heel sports 69 dimples as a nod to his career-high scoring game. Built with a mix of leather, patent leather and suede, the familiar colorway features black, white and Varsity Red.',
+  release_date: 'FEBRUARY 2005',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_20',
+  shoe_type: 'air_jordan_20',
+  official_colorway: 'VARSITY RED/WHITE/BLACK',
+  name: 'MIDWEST',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010289/1.jpg',
+  description:
+    'Dropping in 2005 as part of a regional pack, the Air Jordan 20 OG "Midwest" features a familiar color scheme inspired by the Chicago Bulls. The sneaker features a Varsity Red leather upper covered with a series of laser-etched designs, accented with a white adjustable midfoot strap and a matching white perforated leather collar. Contrasting black appears on the floating ankle strap and rubber outsole.',
+  release_date: 'JULY 2005',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_20',
+  shoe_type: 'air_jordan_20',
+  official_colorway: 'BLACK/BLACK/DARK CHARCOAL',
+  name: 'COUNTDOWN PACK',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010863/1.jpg',
+  description:
+    'The Air Jordan 20 Retro ‘Countdown Pack’ dropped in 2008, packaged alongside a ‘Black Cement’ Air Jordan 3. This all-black Air Jordan 20 features a premium suede upper covered in a series of tonal laser-etched designs. Additional unique details include a floating ankle strap and 69 dimples on the matching black midsole – a subtle reference to MJ’s highest scoring game.',
+  release_date: 'OCTOBER 2008',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_20',
+  shoe_type: 'air_jordan_20',
+  official_colorway: 'WHITE/METALLIC SILVER/WHITE',
+  name: 'LASER',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012156/1.jpg',
+  description:
+    'Originally released in 2005, the Air Jordan 20 "Laser" celebrates both 10 years of the silhouette and 30 years of Jordan Brand. The shoe‘s white full-grain leather and nubuck upper is covered with laser-etched designs, while branded midfoot and ankle straps add support. Underfoot, a Phylon midsole includes Independent Podular Suspension technology.',
+  release_date: 'FEBRUARY 2015',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_20',
+  shoe_type: 'air_jordan_20',
+  official_colorway: 'BLACK/STEALTH/VARSITY RED',
+  name: 'STEALTH',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012126/1.jpg',
+  description:
+    'The 2015 edition of the Air Jordan 20 ‘Stealth’ brings back one of the silhouettes OG colorways, released just a decade earlier. Drawing inspiration from Michael Jordan’s love of motorsport, the sneaker features a black patent leather upper that’s secured with a floating ankle strap and integrated midfoot strap, the latter laser-etched with graphics that convey MJ’s career highlights.',
+  release_date: 'MARCH 2015',
+)
+
 # airjordan 21
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_21',
+  shoe_type: 'air_jordan_21',
+  official_colorway: 'VARSITY RED/METALLIC SILVER/BLACK',
+  name: 'RED SUEDE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010380/1.jpg',
+  description:
+    'Inspired by the Bentley Continental GT, the Air Jordan 21 ‘Red Suede’ shows off a luxurious build in a bold, head-turning hue. This OG 2006 colorway sports a minimalist design appointed with grille-like mesh inserts and metallic silver detailing. The shoe’s innovative cushioning technology takes the form of an Independent Podular System, allowing wearers to choose between Zoom and Encapsulated Air.',
+  release_date: 'FEBRUARY 2006',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_21',
+  shoe_type: 'air_jordan_21',
+  official_colorway: 'WHITE/VARSITY RED/METALLIC SILVER',
+  name: 'WHITE VARSITY RED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010371/1.jpg',
+  description:
+    'The Air Jordan 21 "Varsity Red Metallic Silver" 2006 features a white leather upper inspired by Michael Jordan‘s Bentley Continental GT. Black mesh paneling is included for breathability, while University Red on the eyelets, heel and lining complete a Chicago Bulls look. The Phylon midsole is supported by Independent Podular Suspension technology and a carbon fiber shank plate, while the outsole sports a DNA double helix pattern.',
+  release_date: 'FEBRUARY 2006',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_21',
+  shoe_type: 'air_jordan_21',
+  official_colorway: 'BLACK/FLINT GREY/WHITE',
+  name: 'FLINT GREY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010476/1.jpg',
+  description:
+    'The Air Jordan 21 "Flint Grey" launched in 2006 as one of the silhouette’s seven OG colorways. The mid-top sports a full-grain leather upper in black, accented with contrast white stitching and Flint Grey detailing around the heel and midsole. Performance benefits include a seamless inner sleeve, carbon fiber shank plate and an Independent Podular System for customizable cushioning.',
+  release_date: 'APRIL 2006',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_21',
+  shoe_type: 'air_jordan_21',
+  official_colorway: 'LIGHT GRAPHITE/METALLIC SILVER',
+  name: 'LIGHT GRAPHITE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011120/1.jpg',
+  description: '',
+  release_date: 'JUNE 2006',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_21',
+  shoe_type: 'air_jordan_21',
+  official_colorway: 'BLACK/VARSITY RED',
+  name: 'COUNTDOWN PACK',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010729/1.jpg',
+  description:
+    'Originally released in 2008 alongside an accompanying Air Jordan 2, the Air Jordan 21 Retro ‘Countdown Pack’ features a classic Chicago-inspired color scheme. The mid-top sports a premium black suede upper with contrasting pops of red on the eyelets, heel panel and outsole. Unique details include a diamond quilted lining and tonal black ‘23’ on the lateral collar.',
+  release_date: 'APRIL 2008',
+)
 # airjordan 22
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_22',
+  shoe_type: 'air_jordan_22',
+  official_colorway: 'BLACK/DARK AMBER/WHITE',
+  name: 'BASKETBALL LEATHER',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010525/1.jpg',
+  description:
+    'The Air Jordan 22 ‘Basketball Leather’ features a build that emphasizes the sneaker’s categorization as a performance hoops shoe. The mid-top makes use of a leather upper finished in a distinctive texture and hue reminiscent of a regulation basketball, complemented by a black suede heel panel. Underfoot, the chevron-traction outsole is complemented by a unique titanium shank plate.',
+  release_date: 'FEBRUARY 2007',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_22',
+  shoe_type: 'air_jordan_22',
+  official_colorway: 'WHITE/VARSITY RED/BLACK',
+  name: 'WHITE VARSITY RED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010529/1.jpg',
+  description:
+    'Air Jordan 22 "White Varsity Red" dropped in 2007 in a Chicago-inspired color scheme. Its sleek silhouette, inspired by the F-22 Raptor fighter jet, is enhanced with a reflective camo pattern on the heel and titanium detailing on the eyelets, lace lock and shank plate underfoot. Its Independent Podular Suspension technology allows for a choice between double-stacked Zoom Air or encapsulated Air.',
+  release_date: 'FEBRUARY 2007',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_22',
+  shoe_type: 'air_jordan_22',
+  official_colorway: 'WHITE/VARSITY RED/BLACK',
+  name: 'OMEGA',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010529/1.jpg',
+  description:
+    'The Air Jordan 22 Omega is defined by the graphic of Michael Jordan as a Chicago Bull that‘s featured on the leather upper. The colorway itself also makes use of Varisty Red on the eyestay and heel, complemented by white on the forefoot. The customizable cushioning system allows for a choice between Zoom Air and encapsulated Air, while the shoe released alongside an Air Jordan 1 "Alpha" inspired by Jordan‘s college career.',
+  release_date: 'JUNE 2007',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_22',
+  shoe_type: 'air_jordan_22',
+  official_colorway: 'BLACK/WHITE',
+  name: 'COUNTDOWN PACK',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010889/1.jpg',
+  description:
+    'Part of the Air Jordan Countdown Pack from 2008, the Air Jordan 22 Retro "Countdown Pack" relesed alongside an exclusive rendition of the Air Jordan 1. Featuring a black nubuck construction, the mudguard, midsole and sockliner contrast the look in white. The design, inspired by the renowned F-22 fighter jet, also sports radar-inspired stitch patterns, while a titanium midfoot shank is included for stability.',
+  release_date: 'FEBRUARY 2008',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_22',
+  shoe_type: 'air_jordan_22',
+  official_colorway: 'WHITE/FOREST GREEN/VARSITY MAIZE',
+  name: 'RAY ALLEN',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/152838/1.jpg',
+  description: '',
+  release_date: '',
+)
 # airjordan 23
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_23',
+  shoe_type: 'air_jordan_23',
+  official_colorway: 'BLACK/VARSITY RED/STEALTH',
+  name: 'BLACK STEALTH',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010701/1.jpg',
+  description:
+    'The Air Jordan 23 "Black Stealth" is an OG colorway of Michael Jordan’s 23rd signature shoe, featuring a Chicago Bulls look. The familiar palette emerges on a silhouette that incorporates several personal Michael Jordan touches, including his thumbprint inside the tongue and his autograph on the toe.',
+  release_date: 'FEBRUARY 2008',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_23',
+  shoe_type: 'air_jordan_23',
+  official_colorway: 'UNIVERSITY RED/UNIVERSITY RED/GUM YELLOW',
+  name: 'CHICAGO',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012320/1.jpg',
+  description:
+    'Paying tribute to the Windy City, the Air Jordan 23 Retro ‘Chicago’ is modeled after the city forever linked to Michael Jordan. Removing the usual DNA-stitch detailing, the University Red upper emerges with a tumbled leather build accented by gold contrast stitching. "Chi" and "City" beneath a skyline near the heels call out Chicago, as do the ‘773’ and ‘312’ area codes inside the tongues, while Michael Jordan’s autograph on the toe and an outsole inspired by his fingerprint bring together the city and the icon.',
+  release_date: 'OCTOBER 2015',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_23',
+  shoe_type: 'air_jordan_23',
+  official_colorway: 'BLACK/BLACK/METALLIC GOLD/DARK GREY',
+  name: 'TROPHY ROOM X AIR JORDAN',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012446/1.jpg',
+  description:
+    'A collaboration between Miami‘s Trophy Room and Jordan Brand, the Trophy Room x Air Jordan 23 "Black" was designed by Michael Jordan‘s son Marcus. Featuring a unique design that sports Michael Jordan‘s initials on the upper and his signature on the toe cap, "Heir Jordan" is written across the inside of the tongues in metallic gold. Supported by a shank plate and white outsole, the shoe was a Trophy Room online-exclusive and limited to 5,000 pairs.',
+  release_date: 'MAY 2016',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_23',
+  shoe_type: 'air_jordan_23',
+  official_colorway: 'BLACK/VARSITY RED/WHITE',
+  name: 'CHICAGO',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010927/1.jpg',
+  description:
+    'The Air Jordan 23 ‘Chicago’ dropped on Black Friday 2008 alongside ‘UNC’ and ‘Motorsports’ colorways of the Tinker Hatfield-designed silhouette. Intricate DNA-inspired stitching on the shoe’s black leather side panels represents the shoe’s dominant feature, with a white patent leather toe box and red TPU midsole completing the classic Chicago color palette.',
+  release_date: 'NOVEMBER 2008',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_23',
+  shoe_type: 'air_jordan_23',
+  official_colorway: 'WHITE/VARSITY RED/METALLIC SILVER',
+  name: 'WHITE VARSITY RED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010768/1.jpg',
+  description:
+    'The Air Jordan 23 ‘White Varsity Red’ dropped in 2008, showcasing intricate DNA-inspired stitching on the shoe’s white leather side panel. Additional details include Michael Jordan’s signature on the toe, his thumbprint on the interior tongue and a traction pattern on the rubber outsole that brings his fingerprints to life. Finally, the shoe’s sculpted midsole and collar lining are finished in Varsity Red.',
+  release_date: 'NOVEMBER 2008',
+)
 puts 'seeding completed!'
