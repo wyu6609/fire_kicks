@@ -3931,7 +3931,124 @@ Sneaker.create(
   release_date: 'OCTOBER 2017',
 )
 # airjordan 17
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_17',
+  shoe_type: 'air_jordan_17',
+  official_colorway: 'WHITE/VARSITY RED/CHARCOAL',
+  name: 'CEO',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010200/1.jpg',
+  description:
+    'This Air Jordan 17 is from the original production run of 2002, finished in a straightforward white and red colorway. This is the model Michael wore when he returned as a Washington Wizard and packs performance advantages that were new to Jordan Brand. It includes Blow-Molded Air, a full-length shank plate and a heel stabilizer for TPU. The general layout, as seen on the musical notes engraved on the removable midfoot cover, is partly influenced by jazz music. The kicks are packed in a functional briefcase finished in a soft color of red and chrome.',
+  release_date: 'JULY 2002',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_17',
+  shoe_type: 'air_jordan_17',
+  official_colorway: 'BLACK/METALLIC SILVER',
+  name: 'COUNTDOWN PACK',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/010708/1.jpg',
+  description:
+    'Featuring an OG black and metallic silver colorway, the shoe’s nubuck upper includes a removable lacing cover and a lace toggle. A TPU heel counter supports the fit, with Tuned Air and a full-length shank plate underfoot.',
+  release_date: 'MAY 2008',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_17',
+  shoe_type: 'air_jordan_17',
+  official_colorway: 'WHITE/METALLIC COPPER COIN/BLACK/SPORT ROYAL',
+  name: 'COPPER',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012413/1.jpg',
+  description:
+    'The Air Jordan 17+ Retro "Copper" 2016 was the first retro release of the 2002 OG colorway. Also known as the "Crocs," the shoe emerges with a white leather upper accented by black faux crocodile detailing on the tongue and heel. Sport Blue accents emerge on the tongue and lace lock, while metallic copper stands out on the branding, eyelets and heel counter.',
+  release_date: 'APRIL 2016',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_17',
+  shoe_type: 'air_jordan_17',
+  official_colorway: 'COOL GREY/ METALLIC GOLD/BLACK',
+  name: 'COOL GREY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/802552/1.jpg',
+  description:
+    'Marcus Jordan’s Trophy Room linked up with Jordan Brand to release the Trophy Room x Air Jordan 17 Retro ‘Cool Grey,’ a luxe take on Michael Jordan’s 17th signature shoe. The Jordan 17’s usual performance features, including a blow-molded Air unit in the heel, a full-length composite shank plate and a TPU heel stabilizer, remain intact, while the upper now features a grey suede build that also makes its way onto the removable midfoot shroud. Metallic gold makes its way onto the heel counter, with matte gold on the midfoot shroud’s clips.
+
+',
+  release_date: 'OCTOBER 2017',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_17',
+  shoe_type: 'air_jordan_17',
+  official_colorway: 'BLACK/METALLIC SILVER',
+  name: 'REVERSE LIGHTNING',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/803098/1.jpg',
+  description:
+    'Jordan Brand collaborated with Miami’s SoleFly for the SoleFly x Air Jordan 17 Retro Low ’Reverse Lightning,’ a 2018 released limited to only 2,300 pairs. Inspired by the Air Jordan 17 Low ‘Lightning’ that Michael Jordan wore during the 2002 NBA All-Star Game, this alternate retro look features the bright Lightning hue more prominently, contrasted by a tumbled leather upper sporting black ostrich-skin foxing on the lace collar. The left shoe has embroidered SF branding on the heel.',
+  release_date: 'FEBRUARY 2018',
+)
 # airjordan 18
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_18',
+  shoe_type: 'air_jordan_18',
+  official_colorway: 'BLACK/VARSITY RED',
+  name: 'COUNTDOWN PACK',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/010791/1.jpg',
+  description:
+    'This Air Jordan 18 paired with the Air Jordan 5 in this version of the Countdown Pack. It features a full suede upper including a lace cover, while the midsole features a bright red hue and houses Zoom Air units. The Countdown Pack series was part of the lead-up to the launch of the Air Jordan 23.',
+  release_date: 'AUGUST 2008',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_18',
+  shoe_type: 'air_jordan_18',
+  official_colorway: 'WHITE/METALLIC COPPER COIN/BLACK/SPORT ROYAL',
+  name: 'RETRO COPPER',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012413/1.jpg',
+  description:
+    'The Air Jordan 17+ Retro "Copper" 2016 was the first retro release of the 2002 OG colorway. Also known as the "Crocs," the shoe emerges with a white leather upper accented by black faux crocodile detailing on the tongue and heel. Sport Blue accents emerge on the tongue and lace lock, while metallic copper stands out on the branding, eyelets and heel counter.',
+  release_date: 'JUNE 2016',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_18',
+  shoe_type: 'air_jordan_18',
+  official_colorway: 'WHITE/SPORT ROYAL/WHITE/METALLIC SILVER',
+  name: 'WHITE SPORT ROYAL',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/803064/1.jpg',
+  description:
+    'When Michael Jordan closed out his history-making NBA career in 2003, he did so as a member of the Washington Wizards and while playing in the Air Jordan 18s. This ‘Royal Blue’ colorway pays tribute to the team’s colors that same year and also draws inspiration from Italian dress shoes and race cars with its one-piece white leather upper, silver eyelets, and Royal Blue inner lining, heel, midsole and shroud detailing.',
+  release_date: 'APRIL 2018',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_18',
+  shoe_type: 'air_jordan_18',
+  official_colorway: 'GYM RED/BLACK',
+  name: 'TORO',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/803644/1.jpg',
+  description:
+    'As the last sneaker Michael Jordan ever laced up on an NBA court, the Air Jordan 18 reappeared in April 2018. And in this ‘Toro’ colorway—meaning ‘bull’ in Spanish—the sneaker seems to reimagine history as if MJ has retired as a Chicago Bull. It boasts a University Red suede upper, with contrasting black accents on the midsole, heel wrap, lining and branding.',
+  release_date: 'APRIL 2018',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_18',
+  shoe_type: 'air_jordan_18',
+  official_colorway: 'BLACK/METALLIC SILVER/SPORT ROYAL',
+  name: 'BLACK SPORT ROYAL',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/805240/1.jpg',
+  description:
+    'The 2018 reissue of the Air Jordan 18 Retro ‘Sport Royal’ revives an OG colorway that initially hit store shelves in 2003. Like previous Jordan models, the 18 is inspired by Italian design and luxury sports cars. It features a black suede upper with a removable lace cover for a streamlined look, along with carbon fiber construction on the heel and a royal blue TPU panel atop the midsole.',
+  release_date: 'OCTOBER 2018',
+)
 # airjordan 19
 # airjordan 20
 # airjordan 21

@@ -142,4 +142,13 @@ class SneakersController < ApplicationController
     airjordan_16 = Sneaker.all.select { |shoe| shoe.box == 'air_jordan_16' }
     render json: airjordan_16
   end
+
+  def airjordan_17
+    airjordan_17 = Sneaker.all.select { |shoe| shoe.box == 'air_jordan_17' }
+    render json: airjordan_17
+  end
+  def airjordan_18
+    airjordan_18 = Sneaker.all.select { |shoe| shoe.box == 'air_jordan_18' }
+    render json: airjordan_18
+  end
 end
