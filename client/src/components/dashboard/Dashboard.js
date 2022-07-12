@@ -201,7 +201,7 @@ function Dashboard({ handleLogoutClick, user }) {
 
           <Container sx={{ mt: 4, mb: 4 }}>
             <Routes>
-              <Route path="/" element={<Home />} />
+              <Route path="/" element={<Home user={user} />} />
               <Route path="/nikesb" element={<NikeSB />} />
               <Route path="nikesb/:boxera" element={<SBCollection />} />
 

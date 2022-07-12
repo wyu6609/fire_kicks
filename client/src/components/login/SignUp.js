@@ -31,9 +31,7 @@ function SignUpForm({ onLogin, showLogin, setShowLogin }) {
     let username = data.get("username");
     let password = data.get("password");
     let passwordConfirmation = data.get("passwordConfirmation");
-    let firstName = data.get("firstName");
-    let lastName = data.get("lastName");
-    console.log(username, password, passwordConfirmation, firstName, lastName);
+
     fetch("/signup", {
       method: "POST",
       headers: {
@@ -43,8 +41,6 @@ function SignUpForm({ onLogin, showLogin, setShowLogin }) {
         username,
         password,
         password_confirmation: passwordConfirmation,
-        first_name: firstName,
-        last_name: lastName,
       }),
     }).then((r) => {
       if (r.ok) {
@@ -85,7 +81,7 @@ function SignUpForm({ onLogin, showLogin, setShowLogin }) {
             sx={{ mt: 3 }}
           >
             <Grid container spacing={2}>
-              <Grid item xs={12} sm={6}>
+              {/* <Grid item xs={12} sm={6}>
                 <TextField
                   autoComplete="given-name"
                   name="firstName"
@@ -105,7 +101,7 @@ function SignUpForm({ onLogin, showLogin, setShowLogin }) {
                   name="lastName"
                   autoComplete="family-name"
                 />
-              </Grid>
+              </Grid> */}
               <Grid item xs={12}>
                 <TextField
                   required

@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
-const Home = () => {
+const Home = ({ user }) => {
   return (
     <Box
       component="div"
@@ -19,7 +19,9 @@ const Home = () => {
         backgroundPosition: "center",
       }}
     >
-      <Container align="center">Welcome to the Vault</Container>
+      <Container align="center">
+        Hello {user.username}. Welcome to the Vault!
+      </Container>
     </Box>
   );
 };
