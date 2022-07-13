@@ -3232,6 +3232,42 @@ Sneaker.create(
   release_date: 'DECEMBER 2007',
 )
 
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_5',
+  shoe_type: 'air_jordan_5',
+  official_colorway: 'VARSITY MAIZE/COURT PURPLE/GHOST GREEN/SOLAR ORANGE',
+  name: 'WHAT THE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/180891/1.jpg',
+  description:
+    'The right shoe’s yellow suede upper draws from the "Tokyo," with a stylized "23" on the heel. The left shoe incorporates the Raging Bull pack, with red suede accented by a "Shanghai" heel emblem. Underfoot, both midsoles house visible Air in the heel for cushioning, while elements of the "Bel-Air," "Laser" and "Quai 54" are also included.',
+  release_date: 'NOVEMBER 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_5',
+  shoe_type: 'air_jordan_5',
+  official_colorway: 'JADE HORIZON/LIGHT SILVER/ANTHRACITE/PINK GLAZE',
+  name: 'JADE HORIZON',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/261145/1.jpg',
+  description:
+    'A pale green shade coats the suede upper, with translucent quarter panel netting on the lateral side and tonal TPU eyelets. A pink Jumpman logo stands out against the silver reflective tongue. The same shade of pink arrives on the signature shark-tooth detailing that appears on the black polyurethane midsole. Air-sole cushioning is visible in the heel, with an icy translucent outsole underfoot.',
+  release_date: 'APRIL 2022',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_5',
+  shoe_type: 'air_jordan_5',
+  official_colorway: 'SILVER/GREEN BEAN/FLINT GREY',
+  name: 'GREEN BEAN',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/297686/1.jpg',
+  description:
+    'Similar to the original mid-top, a light grey nubuck upper is entirely coated in a reflective finish. Bright green accents make their way to the interior lining and the embroidered Jumpman logo on the heel and tongue, which is repeated on the shark-tooth detailing that enlivens the dark grey polyurethane midsole. It’s built on a translucent herringbone-tread rubber outsole. The Jordan 5 "Green Bean" 2022 will drop on May 28, 2022.',
+  release_date: 'MAY 2022',
+)
+
 # AIRJORDAN 6
 Sneaker.create(
   brand: 'jordan',
@@ -3286,12 +3322,48 @@ Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_6',
   shoe_type: 'air_jordan_6',
+  official_colorway: 'WHITE/BLACK/CARMINE',
+  name: 'CARMINE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/186762/1.jpg',
+  description:
+    'Released to celebrate 30 years of the silhouette, the Air Jordan 6 Retro OG "Carmine" 2021 emerges with a contrasting look. The shoe’s upper features a mix of leather and nubuck, finished in white and carmine, with black contrast completing the team look. Underfoot, the midsole houses visible Air in the heel to provide cushioning.',
+  release_date: 'FEBRUARY 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_6',
+  shoe_type: 'air_jordan_6',
+  official_colorway: 'BLACK/ELECTRIC GREEN',
+  name: 'ELECTRIC GREEN',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/261153/1.jpg',
+  description:
+    'The Air Jordan 6 Retro ‘Electric Green’ is defined by a two-tone color scheme that recalls an Oregon PE colorway first seen online in 2018. The classic hoops style features a black nubuck upper with pops of neon green on the tongue and pull tab. An embroidered Jumpman logo appears on the sneaker’s back heel. A polyurethane sole provides lightweight cushioning, fitted with a visible Air sole unit and additional green hits.',
+  release_date: 'JUNE 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_6',
+  shoe_type: 'air_jordan_6',
   official_colorway: 'BLACK/LIGHT GRAPHITE/DARK GREY/BORDEAUX',
   name: 'BORDEAUX',
   image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/148219/1.jpg',
   description:
     'Built with nubuck, the shoe’s upper appears in a mix of grey and black, highlighted by a translucent tongue with a multicolor print. The throat and molded heel pull-loop add Bordeaux to the design, while perforations throughout and a lace toggle support the fit. Underfoot, visible Air in the heel of the midsole provides cushioning.',
   release_date: 'SEPTEMBER 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_6',
+  shoe_type: 'air_jordan_6',
+  official_colorway: 'WHITE/UNIVERSITY RED/BLACK',
+  name: 'RED OREO',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/310244/1.jpg',
+  description:
+    'The Air Jordan 6 Retro "Red Oreo" showcases a two-tone color scheme. The silhouette features a white leather upper, with perforations throughout for breathability. Crimson Jumpman embroidery decorates the tongue. Contrasting speckled red accents appear on the lace toggle, heel and midsole. An exposed Air-sole unit in the heel provides cushioning, while a translucent rubber outsole offers traction.',
+  release_date: 'JUNE 2022',
 )
 
 #airjordan7
