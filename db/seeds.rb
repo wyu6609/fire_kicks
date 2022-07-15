@@ -2950,19 +2950,41 @@ Sneaker.create(
     'A white leather base is accented with black laces, Wings logo and Swoosh, while Volt pops across the forefoot overlays, heel and ankle area. A white midsole and black outsole complete the look.',
   release_date: 'JUNE 2022',
 )
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_1',
+  shoe_type: 'air_jordan_1_high',
+  official_colorway: 'WHITE/BLACK/GREY FOG/BLEACHED CORAL',
+  name: 'STAGE HAZE',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/299069/1.jpg',
+  description:
+    'Featuring neutral tones on the foundational sneaker is the Air Jordan 1 Retro High OG "Stage Haze." Its’ upper combines a white leather base with a grey suede heel overlay and a forefoot overlay in cracked black leather. Matching black accents are featured on the signature Swoosh and a retro Wings logo stamped on the lateral ankle. Nike branding is outlined in Bleached Coral on the woven tongue tag while the high-top rests on a rubber cupsole that pairs white sidewalls with a grey rubber outsole.',
+  release_date: 'JULY 2022',
+)
 
 # air jordan 2
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_2',
+  shoe_type: 'air_jordan_2_high',
+  official_colorway: 'BLACK/INFRARED',
+  name: 'INFRARED 23',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011906/1.jpg',
+  description:
+    'The Air Jordan 6 Retro ‘Infrared 23’ showcases Nike’s signature vibrant hue, providing an energetic pop of color to an otherwise neutral colorway. The mid-top blends a black leather base with speckled grey overlays on the collar and mudguard. Pops of Infrared 23 appear on the quarter panel, outsole and molded heel piece, as well as the Jordan ‘Wings’ logo on the tongue and Nike wordmark on the heel tab.',
+  release_date: 'APRIL 2014',
+)
 
 Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_2',
   shoe_type: 'air_jordan_2_high',
-  official_colorway: 'WHITE/PURPLE',
-  name: 'AIRNESS',
-  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/298151/1.jpg',
+  official_colorway: 'BLACK/VARSITY RED',
+  name: 'ALTERNATE 87',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012373/1.jpg',
   description:
-    'Reuniting the Atlanta-based retailer with Jordan Brand for their third collaboration is the A Ma Maniére x Air Jordan 2 Retro SP "Airness". The new take on the AJ2 showcases an off-white cracked leather upper with burgundy piping and a translucent heel counter extending into the midfoot.',
-  release_date: 'JUNE 2022',
+    'The Air Jordan 2 Retro "Alternate 87" is reimagined as a Player Exclusive that Michael Jordan would have worn during his career.',
+  release_date: 'FEBRUARY 2016',
 )
 
 Sneaker.create(
@@ -3014,6 +3036,28 @@ Sneaker.create(
   release_date: 'NOVEMBER 2021',
 )
 
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_2',
+  shoe_type: 'air_jordan_2_low',
+  official_colorway: 'GREY FOG/SIREN RED/LIGHT SMOKE GREY',
+  name: 'GREY FOG',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/289221/1.jpg',
+  description:
+    'A yellow "UN/LA" tag is on the lateral side and a woven tag looped over the collar displays a retro Wings logo, while an oversized Jumpman label is on the exposed foam tongue. On the bottom is a blue-tinged polyurethane midsole with encapsulated Air-sole cushioning. The Union x Jordan 2 "Grey Fog" will drop on April 15, 2022.',
+  release_date: 'APRIL 2022',
+)
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_2',
+  shoe_type: 'air_jordan_2_high',
+  official_colorway: 'WHITE/PURPLE',
+  name: 'AIRNESS',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/298151/1.jpg',
+  description:
+    'Reuniting the Atlanta-based retailer with Jordan Brand for their third collaboration is the A Ma Maniére x Air Jordan 2 Retro SP "Airness". The new take on the AJ2 showcases an off-white cracked leather upper with burgundy piping and a translucent heel counter extending into the midfoot.',
+  release_date: 'JUNE 2022',
+)
 # air jordan 3
 Sneaker.create(
   brand: 'jordan',
@@ -3072,6 +3116,42 @@ Sneaker.create(
   description:
     'The Air Jordan 3 Retro "Varsity Royal" features an OG-inspired look to that draws from Michael Jordan’s college days. The upper is built with tumbled leather, finished in Varsity Royal and complemented by grey and elephant print panels. Underfoot, the white midsole houses visible Air in the heel for cushioning, with a tricolor rubber outsole providing traction.',
   release_date: 'JUNE 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_3',
+  shoe_type: 'air_jordan_3_high',
+  official_colorway: 'WHITE/LASER ORANGE/CEMENT GREY/BLACK',
+  name: 'LASER ORANGE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/186218/1.jpg',
+  description:
+    'The Wmns Air Jordan 3 Retro "Laser Orange" brings vibrant accents to its OG-inspired look. Built with tumbled leather, the upper appears in white, with elephant print overlaying the forefoot and heel. The heel also accents the look in Laser Orange, with the color featured on the tongue and eyelets as well. Underfoot, visible Air in the heel provides cushioning.',
+  release_date: 'AUGUST 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_3',
+  shoe_type: 'air_jordan_3_high',
+  official_colorway: 'BLACK/PINE GREEN/CEMENT GREY/WHITE',
+  name: 'PINE GREEN',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/282134/1.jpg',
+  description:
+    'The Air Jordan 3 Retro "Pine Green" combines updated materials with OG color blocking. The upper’s traditional leather construction is replaced with textured nubuck. Pops of green appear on the perforated leather collar, molded eyelets and embroidered Jumpman branding on the tongue. The 3’s classic elephant print arrives on the forefoot and heel overlays, with a second Jumpman icon displayed on the molded heel tab. The theme continues underfoot in the form of a white polyurethane midsole with contrast green accents and a grey rubber outsole.',
+  release_date: 'OCTOBER 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_3',
+  shoe_type: 'air_jordan_3_high',
+  official_colorway: 'WHITE/BLACK/DARK IRIS/CEMENT GREY',
+  name: 'DARK IRIS',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/286342/1.jpg',
+  description:
+    'Bringing a revamped color palette to the basketball classic that introduced visible Air cushioning to the Jordan franchise is the Air Jordan 3 Retro "Dark Iris." It features a white tumbled leather upper with signature elephant print overlays in a dark grey finish. Violet splashes are on the eyelets, perforated collar, and the rear of the polyurethane midsole. Jumpman branding adorns the leather tongue and molded heel overlay. It’s built on a grey rubber outsole for better grip.',
+  release_date: 'AUGUST 2022',
 )
 
 # AIR JORDAN 4
