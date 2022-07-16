@@ -3488,6 +3488,18 @@ Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_7',
   shoe_type: 'air_jordan_7',
+  official_colorway: 'BLACK/WHITE-BLUE GRAPHITE',
+  name: 'BARCELONA NIGHTS',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011596/1.jpg',
+  description:
+    'The Air Jordan 7 Retro 30th ‘Barcelona Nights’ celebrates the silhouette’s historic significance, as the shoe was worn by MJ at the ’92 Summer Olympics as a member of the vaunted Dream Team. The venue for those games was Barcelona, and the picturesque view of the city at night is the inspiration for this special-edition colorway, highlighted by bright accents on a black nubuck and leather upper.',
+  release_date: 'MARCH 2015',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_7',
+  shoe_type: 'air_jordan_7',
   official_colorway: 'WHITE/METALLIC SILVER-PURE PLATINUM',
   name: 'PURE MONEY',
   image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/800924/1.jpg',
@@ -3500,12 +3512,38 @@ Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_7',
   shoe_type: 'air_jordan_7',
+  official_colorway: 'WHITE/CHILE RED/BLACK/METALLIC GOLD',
+  name: 'GREATER CHINA',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/201969/1.jpg',
+  description:
+    'Inspired by Beijing’s Forbidden City, the Air Jordan 7 "Greater China" Special Box features an asymmetrical design. The shoe’s lateral side sports a black and white base highlighted by tonal dragon graphics, while vibrant clouds emerge on the medial side, overlaid by black and white leather. The tongue sports Chinese characters, while Michael Jordan’s Olympic jersey number appears on the heel. Underfoot, the Air midsole gives way to a rubber outsole with glow-in-the-dark detailing.
+
+',
+  release_date: 'AUGUST 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_7',
+  shoe_type: 'air_jordan_7',
   official_colorway: 'WHITE/FLINT GREY/BLACK/VARSITY PURPLE',
   name: 'FLINT',
   image_url: 'https://cdn.flightclub.com/500/TEMPLATE/193203/1.jpg',
   description:
     'Originally released in 2006, the Air Jordan 7 Retro "Flint" 2021 brings back the largely neutral look with this May 2021 drop. The shoe‘s upper is built with a suede base, finished in Flint Grey and overlaid by contrasting white tumbled leather. The branding adds Varsity Purple to the design, while perforations throughout are included for breathability. Underfoot, the polyurethane midsole houses Air in the heel for cushioning, with a rubber outsole offering traction.',
   release_date: 'MAY 2021',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_7',
+  shoe_type: 'air_jordan_7',
+  official_colorway: 'SHIMMER/BLACK/SAPPHIRE',
+  name: 'SAPPHIRE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/294015/1.jpg',
+  description:
+    'Celebrating the 30th anniversary of the classic silhouette with refreshed colors and a revamped build is the Air Jordan 7 Retro SE "Sapphire." The layered nubuck upper features a muted pink hue with semi-translucent mesh on the quarter panel and collar. A neoprene inner sleeve in Sapphire and pink gives a snug fit, while the webbed heel pull tab makes it easy to get in and out. Encapsulated Air-sole cushioning is in the mid-top’s speckled grey foam midsole. The Jordan 7 "Sapphire" will drop on April 16, 2022.',
+  release_date: 'APRIL 2022',
 )
 
 #airjordan 8
