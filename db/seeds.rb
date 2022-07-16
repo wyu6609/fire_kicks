@@ -3537,12 +3537,38 @@ Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_8',
   shoe_type: 'air_jordan_8',
+  official_colorway: 'WHITE/BRIGHT CONCORD-BLACK INFRARED',
+  name: 'THREE-PEAT',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012308/1.jpg',
+  description:
+    'The Air Jordan 8 "Three-Peat," also known as the "Three Time’s A Charm," celebrates Michael Jordan’s first three-peat NBA championship season. The colorway includes hues from the LA Lakers, the Portland Trail Blazers, and the Phoenix Suns — the teams from 1991 to 1993 who had to settle for second place. Released in October 2015, the sneaker also includes a distinctive tongue-branding graphic of the NBA championship trophy.
+
+',
+  release_date: 'OCTOBER 2015',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_8',
+  shoe_type: 'air_jordan_8',
   official_colorway: 'BLACK/CHROME',
   name: 'CHROME',
   image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012347/1.jpg',
   description:
     'Best known for being worn by Kobe Bryant during the 2003 playoffs, the Air Jordan 8 Retro "Chrome" 2015 was retroed in 2015 as part of Nike‘s Holiday 2015 collection. The all-black upper emerges in smooth and perforated nubuck, with chrome on the buckle of the ankle strap. The midsole shank and midsole sport more complementary grey and silver.',
   release_date: 'DECEMBER 2015',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_8',
+  shoe_type: 'air_jordan_8',
+  official_colorway: 'COOL GREY/WOLF GREY-COOL GREY',
+  name: 'COOL GREY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/801706/1.jpg',
+  description:
+    'The Air Jordan 8 Retro "Cool Grey" is inspired by the classic colorway first seen in 2001 on the Air Jordan 11. The design features Wolf Grey upper suede, heel leather paneling, and Cool Grey accents.',
+  release_date: 'OCTOBER 2017',
 )
 
 Sneaker.create(
@@ -3566,6 +3592,20 @@ Sneaker.create(
   description:
     'The Air Jordan 8 Retro ‘Tinker - Air Raid’ debuted in December 2018 as part of a comprehensive Nike ‘Icons’ collection, composed of retro Jordan models influenced by classic Nikes created by Tinker Hatfield. Constructed with a blend of black mesh and nubuck, this Air Jordan 8 employs the same complex multicolor prints from a ‘90s outdoor basketball shoe with similar criss-cross closure, the Air Raid 2.',
   release_date: 'DECEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_8',
+  shoe_type: 'air_jordan_8',
+  official_colorway: 'TWINE/GYM RED/BLACK/SESAME',
+  name: 'BLACK SAMURAI',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/288369/1.jpg',
+  description:
+    'Born in Japan and raised in the United States, Rui Hachimura is always looking to showcase all sides of his international heritage. This Air Jordan 8 Retro SE "Black Samurai" features a tonal neutral tan, utilizing a textured twine-colored suede inspired by Japanese textile craft. The classic AJ8 details remain, including the cross-strap design and chenille tongue patch, updated with Rui’s personal "H" logo. Japanese characters on the inside of the tongue and sockliner continue Rui’s basketball and Air Jordan journey.
+
+',
+  release_date: 'MAY 2022',
 )
 
 #AIRJORDAN 9
