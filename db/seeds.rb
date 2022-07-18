@@ -3681,7 +3681,30 @@ Sneaker.create(
     'The look recreates the shoes that were taken from Michael Jordan’s house by Daffy Duck and Bugs Bunny in the film, which Jordan later wore during the film’s training montage. The black and white design is accented by True Red on the branding, most notably on the heel. ',
   release_date: 'DECEMBER 2016',
 )
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_9',
+  shoe_type: 'air_jordan_9',
+  official_colorway: 'BLACK/ANTHRACITE-UNIVERSITY RED',
+  name: 'BRED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/803406/1.jpg',
+  description:
+    'The Air Jordan 9 Retro "Bred" is influenced by the past’s Player Exclusive colorways in a nod to the Jordan Brand legacy. The high-cut silhouette features an upper black leather with corresponding laces and heel pull tab. Details include a branding on the midsole, tongue and insole at the University Red Jumpman, and a tonal 
+    23" on the heel.',
+  release_date: 'MARCH 2018',
+)
 
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_9',
+  shoe_type: 'air_jordan_9',
+  official_colorway: 'BLACK/DARK CONCORD-UNIVERSITY RED',
+  name: 'DREAM IT,DO IT',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/807117/1.jpg',
+  description:
+    'Inspired by a 90s commercial that reimagined Nike’s "Just Do It" slogan, the Air Jordan 9 Retro "Dream It, Do It" features the updated phrase in sytlized lettering on the tongue. The shoe’s black tumbled leather upper is accented by bold nubuck overlays, contributing to a retro look. Underfoot, the classic tooling includes Air in the heel for cushioning and a multilingual pattern on the outsole for traction.',
+  release_date: 'MARCH 2019',
+)
 Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_9',
@@ -3706,6 +3729,18 @@ Sneaker.create(
   release_date: 'JANUARY 2021',
 )
 
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_9',
+  shoe_type: 'air_jordan_9',
+  official_colorway: 'CHILE RED/BLACK',
+  name: 'CHILE RED',
+  image_url: 'https://cdn.flightclub.com/500/TEMPLATE/282137/1.jpg',
+  description:
+    'The Air Jordan 9 Retro "Chile Red" draws inspiration from 2012’s "Motorboat Jones" colorway. Vibrant red features throughout, from the textile utilized on the upper to the speed lacing system. The theme continues through to the tonal patent leather on the mudguard, collar and heel. Black accents arrive on the tongue tag, molded eyelets and pull loop at the heel. A glossy red polyurethane midsole and black rubber outsole complete the iteration. ',
+  release_date: 'MAY 2022',
+)
 #AIRJORDAN 10
 Sneaker.create(
   brand: 'jordan',
