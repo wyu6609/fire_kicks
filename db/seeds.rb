@@ -3824,6 +3824,33 @@ Sneaker.create(
     'Featuring a black mesh upper supported by black patent leather overlays, the Varsity Red outsole and Jumpman branding bring color to the design. A white midsole holds a carbon fiber shank plate for added stability while also completing the familiar colorway.',
   release_date: 'DECEMBER 2012',
 )
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_11',
+  shoe_type: 'air_jordan_11',
+  official_colorway: 'BLACK/GAMMA BLUE-VARSITY MAIZE',
+  name: 'GAMMA BLUE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/011834/1.jpg',
+  description:
+    'Built with a mix of ballistic mesh and patent leather, the shoe’s upper appears in black, with Gamma Blue highlighting the Jumpman on the lateral heel. The heel patch and lace bed instead add Varsity Maize to the look, while underfoot, full-length Air in the tonal phylon midsole provides cushioning. A carbon-fiber spring plate offers stability, with a translucent rubber outsole sporting herringbone pods to offer traction.
+
+',
+  release_date: 'DECEMBER 2013',
+)
+
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_11',
+  shoe_type: 'air_jordan_11',
+  official_colorway: 'WHITE/LEGEND BLUE',
+  name: 'LEGEND BLUE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/012088/1.jpg',
+  description:
+    'Originally worn by Michael Jordan in his first All-Star Game after his first retirement, the shoe’s upper emerges with a white leather base, highlighted by Legend Blue hits drawn from his University of North Carolina alma mater. The usual patent leather mudguard supports the fit, while underfoot, full-length Air in the phylon midsole provides cushioning.',
+  release_date: 'DECEMBER 2014',
+)
 Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_11',
@@ -3858,6 +3885,20 @@ Sneaker.create(
   description:
     'The 2018 version of the Air Jordan 11 Retro ‘Concord’ shows off ‘45’ imprinted on the black heel tab in honor of the jersey number that Michael Jordan wore when he returned to the NBA after his first retirement. The shoe’s other signature details remain intact, including a white ballistic mesh upper, black patent leather overlays, and an icy translucent outsole.',
   release_date: 'DECEMBER 2018',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_11',
+  shoe_type: 'air_jordan_11',
+  official_colorway: 'MEDIUM GREY/WHITE/COOL GREY',
+  name: 'COOL GREY',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/248952/1.jpg',
+  description:
+    'Faithful to the OG, the shoe’s upper is built with leather, finished in grey and supported by a darker grey patent leather mudguard. Tonal webbing eyelets are worked into the lacing system to secure the fit, while underfoot, a contrasting white phylon midsole houses full-length Air for cushioning, with a carbon fiber plate included for added support. An icy translucent rubber outsole provides traction.
+
+',
+  release_date: 'DECEMBER 2021',
 )
 
 # airjordan 12
