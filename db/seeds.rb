@@ -3729,7 +3729,6 @@ Sneaker.create(
   release_date: 'JANUARY 2021',
 )
 
-
 Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_9',
@@ -3838,7 +3837,6 @@ Sneaker.create(
 ',
   release_date: 'DECEMBER 2013',
 )
-
 
 Sneaker.create(
   brand: 'jordan',
@@ -3956,6 +3954,42 @@ Sneaker.create(
   description:
     'Originally debuting in 1997, this re-release maintains the classic look with a tumbled white leather finish on its Rising Sun Flag upper. Metallic eyelets support the fit, while the signature basketball-textured mudguard appears in Varsity Red. The Varsity Red look continues down onto the Zoom Air midsole, which houses a carbon fiber plate for stability. A heel pull-loop is included for easy on and off.',
   release_date: 'JULY 2019',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_12',
+  shoe_type: 'air_jordan_12',
+  official_colorway: 'BLACK/BLACK/UNIVERSITY GOLD',
+  name: 'UNIVERSITY GOLD',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/152950/1.jpg',
+  description:
+    'Featuring a look reminiscent of Gary Payton’s "Away" PE from his time with the Los Angeles Lakers, the Air Jordan 12 Retro "University Gold" released in 2020. Built with black tumbled leather, the upper includes the usual stitched detailing. The signature mudguard contrasts the look in University Gold, while Zoom Air underfoot provides cushioning.',
+  release_date: 'JULY 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_12',
+  shoe_type: 'air_jordan_12',
+  official_colorway: 'BLACK/BLACK/DARK CONCONCORD',
+  name: 'DARK CONCORD',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/178248/1.jpg',
+  description:
+    'The Air Jordan 12 Retro ’Dark Concord’ is built with black suede, highlighted by Dark Concord accents on the side Jumpman badge on the side profile and lace loops. Underfoot, Zoom Air cushioning works with a carbon fiber midsole plate to provide cushioning and stability.',
+  release_date: 'OCTOBER 2020',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_12',
+  shoe_type: 'air_jordan_12',
+  official_colorway: 'BLACK/VARSITY RED/WHITE',
+  name: 'PLAYOFF',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/292065/1.jpg',
+  description:
+    'It features an essential two-tone color scheme, featuring radiating stitched lines on the black leather upper and lizard-textured overlays in a contrasting white finish. Metallic silver eyelets are molded on, while color-popped crimson accents land on the Jumpman-embroidered tongue and webbing heel loop. Full-length Zoom Air cushioning is underneath with a carbon fiber shank plate and a rubber outsole with herringbone traction pods under the forefoot and heel.',
+  release_date: 'MARCH 2022',
 )
 
 # airjordan 13
