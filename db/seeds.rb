@@ -4120,6 +4120,30 @@ Sneaker.create(
   brand: 'jordan',
   box: 'air_jordan_14',
   shoe_type: 'air_jordan_14',
+  official_colorway: 'BLACK/VARSITY RED/BLACK',
+  name: 'LAST SHOT',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/803887/1.jpg',
+  description:
+    'The Air Jordan 14 Retro "Last Shot" 2018 recreates the look he wore when he hit the series-clinching jumper to take home his sixth title—and hit his last shot as a Chicago Bull. The black leather upper and Varsity Red Jumpman detailing on the heel and tongue complete the Bulls look, as does the Varsity Red midsole plate. The Ferrari-style Jumpman badge stands out in yellow.',
+  release_date: 'JUNE 2018',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_14',
+  shoe_type: 'air_jordan_14',
+  official_colorway: 'WHITE/VARSITY RED/METALLIC SILVER/BLACK',
+  name: 'CANDY CANE',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/137554/1.jpg',
+  description:
+    'The shoe’s leather upper includes tumbled and smooth finishes as well as perforations for breathability, while Varsity Red accents emerge on the tongue, heel and midsole. Zoom Air provides cushioning, with a shank plate for stability, giving way to an outsole with a herringbone traction pattern.',
+  release_date: 'APRIL 2019',
+)
+
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_14',
+  shoe_type: 'air_jordan_14',
   official_colorway: 'UNIVERSITY GOLD/BLACK/UNIVERSITY RED',
   name: 'REVERSE FERRARI',
   image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/138353/1.jpg',
@@ -4151,6 +4175,18 @@ Sneaker.create(
     'Released in September 2020, the Air Jordan 14 Retro "Hyper Royal" features a look with color-blocking modeled after a 1998 OG model. Built with smooth and tumbled leather in white, the tongue and heel sport hits of Hyper Royal, matched underfoot by the detailing on the midsole. A carbon fiber shank plate provides support underfoot.',
   release_date: 'SEPTEMBER 2020',
 )
+Sneaker.create(
+  brand: 'jordan',
+  box: 'air_jordan_14',
+  shoe_type: 'air_jordan_14',
+  official_colorway: 'ARCHAEO BROWN/MULTI-COLOR',
+  name: 'WINTERIZED',
+  image_url: 'https://cdn.flightclub.com/1250/TEMPLATE/283356/1.jpg',
+  description:
+    'Based on the silhouette that Jordan himself wore when he clinched his sixth and final NBA championship is the Air Jordan 14 Retro "Winterized." It features a vacuum-molded upper made from water-resistant suede and finished in a rustic shade of Archaeo Brown. Colliding hits of Chile Red are added to the laces and color-matched branding elements, with a Jumpman badge on the lateral side and "Jordan" inscribed on the tongue. It’s built on a two-tone white and black midsole and an underfoot supported by a carbon fiber shank plate and a herringbone-tread rubber outsole.',
+  release_date: 'OCTOBER 2021',
+)
+
 # airjordan 15
 Sneaker.create(
   brand: 'jordan',
