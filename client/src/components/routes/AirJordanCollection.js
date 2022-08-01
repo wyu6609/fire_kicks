@@ -5,6 +5,7 @@ import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import LinearProgress from "@mui/material/LinearProgress";
 import SneakerCard from "../SneakerCard";
+import { Typography } from "@mui/material";
 
 const AirJordanCollection = () => {
   const [sneakers, setSneakers] = useState("null");
